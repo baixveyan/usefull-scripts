@@ -668,10 +668,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/4dworldbench/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "2c939abc1148b8097df770500ca75734bdaac4eb38d2c87838a7743443680d11",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q41",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper",
@@ -685,10 +689,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "imaging",
+      "note_path": "papers/CVPR2026/imaging/single-bit-video/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "c7968704df84818ea8986d5962d25cf8568d9cab5b4244e5c56f519bb758d1ed",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q42",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper",
@@ -723,10 +731,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/closed-form-vlm-debias/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "395ff8aeff5511803efe82c0799bc82a73a7535d3bc6447e1729097aa22b413e",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q43",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Yu_A_Closer_Look_at_Cross-Domain_Few-Shot_Object_Detection_Fine-Tuning_Matters_CVPR_2026_paper",
@@ -758,10 +770,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Stalder_A_Combination_of_Noise_and_Bilateral_Filters_Achieve_Supralinear_and_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Stalder_A_Combination_of_Noise_and_Bilateral_Filters_Achieve_Supralinear_and_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/noise-bilateral-robustness/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "cbb0c83bfcbec9c5491c755371dba03813c407460e75360881f99dc29ebc1bf2",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q44",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Zhu_A_Cross-view_Fusion_Framework_for_Robust_6-DoF_Grasp_Pose_Estimation_CVPR_2026_paper",
@@ -774,10 +790,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_A_Cross-view_Fusion_Framework_for_Robust_6-DoF_Grasp_Pose_Estimation_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_A_Cross-view_Fusion_Framework_for_Robust_6-DoF_Grasp_Pose_Estimation_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "robotics",
+      "note_path": "papers/CVPR2026/robotics/cross-view-grasp/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "4e05292d63917a79e9f09dc546cb380276fe5e936d0c77df8306c5e55b443f9b",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q45",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper",
