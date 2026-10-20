@@ -43,5 +43,114 @@
     "checked_on": "2026-10-20",
     "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
     "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "a2gc-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors",
+    "authors": [
+      "Zhenyu Li",
+      "Tianyi Shang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "fdd83710d44c1eb349c392b7cff8ccccf115f189b5f6986934ad7419da3456a5",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "a3-original-fig3.png",
+    "kind": "paper-figure-excerpt",
+    "title": "A3: Towards Advertising Aesthetic Assessment",
+    "authors": [
+      "Kaiyuan Ji",
+      "Yixuan Gao",
+      "Lu Sun",
+      "Yushuo Zheng",
+      "Zijian Chen",
+      "Jianbo Zhang",
+      "Xiangyang Zhu",
+      "Yuan Tian",
+      "Zicheng Zhang",
+      "Guangtao Zhai"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 3,
+    "pdf_sha256": "6a7cb48b4a43bfbf38857150ce5db47cceb8b2bc52fb7fb461c93715f1af1a04",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "sandboxvlm-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Abstract 3D Perception for Spatial Intelligence in Vision-Language Models",
+    "authors": [
+      "Yifan Liu",
+      "Fangneng Zhan",
+      "Kaichen Zhou",
+      "Yilun Du",
+      "Paul Pu Liang",
+      "Hanspeter Pfister"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "d82b09ca0128f1e75e6009d29534437bb02ff588d21cba8ebd9cc7395bad2fca",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "arcache-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction",
+    "authors": [
+      "Kepan Nan",
+      "Wangbo Zhao",
+      "Penghao Zhou",
+      "Jun Li",
+      "Zhenheng Yang",
+      "Jian Yang",
+      "Ying Tai"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "827347323be76ea4d7ec8d709b029e4fd2edd6bc9ad9592c1d117572fae639f0",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "d2c-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective",
+    "authors": [
+      "Rui Huang",
+      "Shitong Shao",
+      "zikai zhou",
+      "Pukun Zhao",
+      "Hangyu Guo",
+      "Tian Ye",
+      "Lichen Bai",
+      "Shuo Yang",
+      "Zeke Xie"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "22b998a7949cd30b936184895fb475ad4ac3a67b2927c9c4a4eb0812fcde0d0a",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
   }
 ]

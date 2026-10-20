@@ -62,3 +62,6 @@ python maintenance/validate_catalog.py
 
 
 2026-10-20 第六批：新增cryoDeRec、TCCA、SVD风格个性化、BoT、成员推断对抗操纵，累计65篇reviewed、3977篇queued，距100目标尚余35篇。31张原创SVG均逐张视觉检查；另外加入2张带来源、PDF页码和权利说明的原文流程图局部截图（cryoDeRec Fig2 / SVD Fig4）。q61–65关键页已渲染核对，表注、投影及定理边界见各篇。未复现实验。下一批today100.json[30:35]即q66；当前无reading/draft项。5小时用量窗口80%已用，仍允许普通使用，并非每日固定token配额。
+
+
+2026-10-20 第七批：新增A²GC、A³、SandboxVLM、ARCache、D²C，累计70篇reviewed、3972篇queued，距100仍余30篇。新增5张经过裁切和视觉核对的原文方法图，累计31张原创SVG及7张原图截图，均有来源与页码。已核对正文公式、主表及消融；OT边缘、得分符号、计时与指标口径差异已注明，未复现实验。下一批today100.json[35:40]即q71；本批结束无reading/draft。

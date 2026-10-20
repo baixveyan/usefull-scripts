@@ -1248,10 +1248,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/a2gc-vpr/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "fdd83710d44c1eb349c392b7cff8ccccf115f189b5f6986934ad7419da3456a5",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q66",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper",
@@ -1270,10 +1274,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/a3-advertising-aesthetics/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "6a7cb48b4a43bfbf38857150ce5db47cceb8b2bc52fb7fb461c93715f1af1a04",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q67",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper",
@@ -1288,10 +1296,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/sandboxvlm/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "d82b09ca0128f1e75e6009d29534437bb02ff588d21cba8ebd9cc7395bad2fca",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q68",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper",
@@ -1307,10 +1319,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/arcache/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "827347323be76ea4d7ec8d709b029e4fd2edd6bc9ad9592c1d117572fae639f0",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q69",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper",
@@ -1328,10 +1344,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/d2c-diffusion-condensation/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "22b998a7949cd30b936184895fb475ad4ac3a67b2927c9c4a4eb0812fcde0d0a",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q70",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper",
