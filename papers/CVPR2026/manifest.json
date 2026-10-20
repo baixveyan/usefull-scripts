@@ -923,10 +923,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/omnivorous-dino/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "ed985902cd96e9106b48b15249e793eff9bf89ded5d8d8092d35830bd87d439f",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q51",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
@@ -942,10 +946,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/divt/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "e79346cd45cc781fb8c8419608279e92db6fddd11c369dc1e048f41b849334b8",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q52",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper",
@@ -963,10 +971,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/a4vl/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "5feca98a5235808952c0545c367873aec2cc0d979dc8347a3971f7ccad88e50e",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q53",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper",
@@ -976,10 +988,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "theory",
+      "note_path": "papers/CVPR2026/theory/pce-lingam/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "36a71b21872a2e07b429dd46a809804076f12c163f650b62c9a2e62015cf9a99",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q54",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper",
@@ -992,10 +1008,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/et3/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "542430dfc2ab345cd6d2c67b6a5dfb50072af6c1273e776521935c1c789a067f",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q55",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper",

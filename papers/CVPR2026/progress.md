@@ -55,3 +55,5 @@ python maintenance/validate_catalog.py
 2026-10-20 第二批：新增4DWorldBench、1-bit Video、闭式VLM去偏、Noise+Bilateral、跨视角6DoF抓取，共45篇reviewed、3997篇queued，累计100目标仍余55篇。11张SVG方法图已逐张视觉检查，未复现论文训练。去偏论文正文闭式与原始minimax目标的数值核对差异已注明，补充证明和代码待核。下一批q46起。
 
 2026-10-20 第三批：新增RDD、DID、C-Flat Turbo、DeltaWorld、GAI-GS，累计50篇reviewed、3992篇queued，距100目标余50篇。16张原创SVG已逐张视觉检查；发现的公式、阈值和速度口径边界已在讲解中明确。本批关键页逐篇渲染核对，实验未复现。续做q51起，当前无reading/draft项。
+
+2026-10-20 第四批：新增Omnivorous DINO、DiVT、A4VL、PCE-LiNGAM、ET3，累计55篇reviewed、3987篇queued，距100目标尚余45篇。21张原创SVG均已逐张检查，DID补齐双分支决策连线；q51–55关键页面已渲染核对。保留A4VL字幕口径冲突、PCE假设/算法待核验点与ET3有条件定理边界。下一批today100.json[20:25]即q56起；当前无reading/draft。
