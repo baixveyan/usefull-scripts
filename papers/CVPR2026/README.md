@@ -1,6 +1,6 @@
 # CVPR 2026 中文论文讲解
 
-目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前35篇讲解自检完成、4,007篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。
+目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前40篇讲解自检完成、4,002篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。
 
 大会[官方闭幕新闻](https://cvpr.thecvf.com/Conferences/2026/News/Closing)报告接收 4,089 篇，与公开目录相差 47 篇。原因尚未核实，不推测为撤稿、不用第三方列表填充后冒充官方全量。当前范围排除 CVPR Workshops 和 CVPR Findings；若以后扩展，单独建清单。其他年份及会议尚未启动。
 
@@ -36,3 +36,7 @@ python maintenance/build_paper_index.py --check
 如需重建清单，先保存官方 HTML，再运行 `python maintenance/cvpr_inventory.py <本地HTML路径> --checked-on 2026-10-19` 预览，日期须改为实际抓取日，确认后加 `--write`。脚本不联网、不执行外部代码；重建保留已有状态，发现清单丢失原条目时拒绝覆盖。
 
 原文、提取文本与页面图只放被忽略的 `maintenance/paper-sources/` 本地阅读缓存，清单保存来源 URL、PDF SHA-256 和日期。论文与代码权利分别归作者和上游；本仓库不将论文公开访问误认为可任意再发布授权。最后检查：2026-10-20。
+
+## 插图标准
+
+优先依据原文重绘可缩放SVG方法图，清楚区分输入、模块、训练损失和推理路径；标明原文图号、章节及简化边界。只有在原图细节对理解不可替代且使用条件允许时，才引用必要局部截图并注明来源、图号和PDF页码。概念重绘不声称与原文实现逐算子等价。

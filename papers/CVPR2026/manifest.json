@@ -553,13 +553,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Mazur_4D_Primitive-Mache_Glueing_Primitives_for_Persistent_4D_Scene_Reconstruction_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Mazur_4D_Primitive-Mache_Glueing_Primitives_for_Persistent_4D_Scene_Reconstruction_CVPR_2026_paper.pdf",
-      "status": "reading",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null,
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/4dpm/README.md",
+      "checked_on": "2026-10-20",
       "pdf_sha256": "0c6a5ecdcf21000609c05c4702d8be095c87c0742d3cc3f3ea9e3765daf524fa",
       "source_checked_on": "2026-10-20",
-      "reading_cache": "q36"
+      "reading_cache": "q36",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Yang_4D-RGPT_Toward_Region-level_4D_Understanding_via_Perceptual_Distillation_CVPR_2026_paper",
@@ -575,13 +576,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Yang_4D-RGPT_Toward_Region-level_4D_Understanding_via_Perceptual_Distillation_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_4D-RGPT_Toward_Region-level_4D_Understanding_via_Perceptual_Distillation_CVPR_2026_paper.pdf",
-      "status": "reading",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null,
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/4d-rgpt/README.md",
+      "checked_on": "2026-10-20",
       "pdf_sha256": "58709974ef25bcaf8604476442538c34ba4a2afb77accf27b31963c069d7561b",
       "source_checked_on": "2026-10-20",
-      "reading_cache": "q37"
+      "reading_cache": "q37",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Lyu_4DEquine_Disentangling_Motion_and_Appearance_for_4D_Equine_Reconstruction_from_CVPR_2026_paper",
@@ -595,13 +597,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Lyu_4DEquine_Disentangling_Motion_and_Appearance_for_4D_Equine_Reconstruction_from_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lyu_4DEquine_Disentangling_Motion_and_Appearance_for_4D_Equine_Reconstruction_from_CVPR_2026_paper.pdf",
-      "status": "reading",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null,
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/4dequine/README.md",
+      "checked_on": "2026-10-20",
       "pdf_sha256": "892e2c86b7f22a02877b2952c62d0a4e0710534073271694c232628d7163ccd0",
       "source_checked_on": "2026-10-20",
-      "reading_cache": "q38"
+      "reading_cache": "q38",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper",
@@ -618,13 +621,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper.pdf",
-      "status": "reading",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null,
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/4dp-qa/README.md",
+      "checked_on": "2026-10-20",
       "pdf_sha256": "4881e1611ce7f28fb1484ff4cccfbab7a1a036a49212154fdab36096360f3463",
       "source_checked_on": "2026-10-20",
-      "reading_cache": "q39"
+      "reading_cache": "q39",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Wu_4DSurf_High-Fidelity_Dynamic_Scene_Surface_Reconstruction_CVPR_2026_paper",
@@ -637,13 +641,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wu_4DSurf_High-Fidelity_Dynamic_Scene_Surface_Reconstruction_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_4DSurf_High-Fidelity_Dynamic_Scene_Surface_Reconstruction_CVPR_2026_paper.pdf",
-      "status": "reading",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null,
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/4dsurf/README.md",
+      "checked_on": "2026-10-20",
       "pdf_sha256": "922d0ecd2dc50511e89fd97cb6f4028eb72dcce39bd640ff24f564c080c3aca1",
       "source_checked_on": "2026-10-20",
-      "reading_cache": "q40"
+      "reading_cache": "q40",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper",

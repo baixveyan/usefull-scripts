@@ -20,17 +20,7 @@
 
 ## 方法总览
 
-```mermaid
-flowchart LR
-    A[多视图图片与相机参数] --> B[图像 patch 与 Plücker 射线编码相加]
-    B --> C[跨视图 Transformer 编码器]
-    C --> D[解码器交叉注意力]
-    T[可学习高斯 token] --> D
-    D --> E[token 间自注意力与 MLP]
-    E --> F[每 token 解码 64 个高斯]
-    F --> G[可微渲染与监督]
-    G -. 测试时可仅更新 token .-> T
-```
+![TokenGS 原创方法图：图像证据与可学习 token 的双流结构](../../../../site/figures/tokengs.svg)
 
 这是根据原文 Fig.2 重绘的概念图，省略了层重复与动态场景分支。可把 token 理解为“场景表示的工作槽位”：它们通过注意力读取图像证据，而非预先认领某个像素。这个比喻不意味着每个 token 必然对应一个语义物体。
 

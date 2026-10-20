@@ -54,6 +54,8 @@ def build():
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / 'notes').mkdir(exist_ok=True)
     shutil.copytree(ROOT / 'site/assets', OUT / 'assets', dirs_exist_ok=True)
+    if (ROOT / 'site/figures').exists():
+        shutil.copytree(ROOT / 'site/figures', OUT / 'figures', dirs_exist_ok=True)
     records = []
     for r in manifest['papers']:
         reviewed = r['status'] == 'reviewed'
@@ -65,6 +67,7 @@ def build():
             j = done.index(r)
             neighbors = [(done[j-1] if j else None, '上一篇'), (done[j+1] if j+1 < len(done) else None, '下一篇')]
             body, toc = render_note(source)
+            body = re.sub(r'src="(?:\.\./)+site/figures/', 'src="../figures/', body)
             body = re.sub(r'href="(?:\.\./)+[^"#]*?\.md"', 'href="../index.html"', body)
             links = ''.join(f'<a href="{x["id"]}.html"><small>{label}</small>{esc(x["title"])}</a>' for x, label in neighbors if x)
             article = f'''<div class="article-shell"><aside class="article-nav"><a href="../index.html">← 返回论文馆</a><p class="eyebrow">CVPR 2026 / {esc(TOPICS[r['topic']])}</p><div class="toc">{toc}</div></aside>
