@@ -53,3 +53,5 @@ python maintenance/validate_catalog.py
 累计40篇 reviewed、4002篇 queued；新增4DPM、4D-RGPT、4DEquine、4DP-QA、4DSurf。6张原创SVG方法图已逐张浏览器检查，包含TokenGS升级。图内标注依据与省略边界，不作为原文图。当前目标累计100篇，尚余60篇，续读本地 today100.json 的 q41 起；不得把待办计为完成。GitHub Pages已获用户授权并首次部署成功。
 
 2026-10-20 第二批：新增4DWorldBench、1-bit Video、闭式VLM去偏、Noise+Bilateral、跨视角6DoF抓取，共45篇reviewed、3997篇queued，累计100目标仍余55篇。11张SVG方法图已逐张视觉检查，未复现论文训练。去偏论文正文闭式与原始minimax目标的数值核对差异已注明，补充证明和代码待核。下一批q46起。
+
+2026-10-20 第三批：新增RDD、DID、C-Flat Turbo、DeltaWorld、GAI-GS，累计50篇reviewed、3992篇queued，距100目标余50篇。16张原创SVG已逐张视觉检查；发现的公式、阈值和速度口径边界已在讲解中明确。本批关键页逐篇渲染核对，实验未复现。续做q51起，当前无reading/draft项。
