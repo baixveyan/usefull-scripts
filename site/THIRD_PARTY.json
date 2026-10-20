@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-10-20",
+  "packages": [
+    {
+      "name": "KaTeX",
+      "version": "0.16.22",
+      "source": "https://registry.npmjs.org/katex/0.16.22",
+      "license": "MIT"
+    },
+    {
+      "name": "mermaid",
+      "version": "10.9.3",
+      "source": "https://registry.npmjs.org/mermaid/10.9.3",
+      "license": "MIT"
+    },
+    {
+      "name": "Python-Markdown",
+      "version": "3.7",
+      "source": "https://pypi.org/project/Markdown/3.7/",
+      "license": "BSD-3-Clause"
+    }
+  ]
+}

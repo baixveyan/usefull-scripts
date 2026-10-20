@@ -1,0 +1,5 @@
+// Vendored fixed versions: math and diagrams work without CDN access.
+function load(src){return new Promise((resolve,reject)=>{const s=document.createElement('script');s.src=new URL(src,import.meta.url);s.onload=resolve;s.onerror=reject;document.head.append(s)})}
+const css=document.createElement('link');css.rel='stylesheet';css.href=new URL('vendor/katex/katex.min.css',import.meta.url);document.head.append(css);
+try{await load('vendor/katex/katex.min.js');await load('vendor/katex/contrib/auto-render.min.js');window.renderMathInElement(document.querySelector('.prose'),{delimiters:[{left:'\\[',right:'\\]',display:true},{left:'\\(',right:'\\)',display:false},{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false}],throwOnError:false})}catch{console.info('Math enhancement unavailable; TeX remains visible.')}
+try{await load('vendor/mermaid/mermaid.min.js');window.mermaid.initialize({startOnLoad:false,securityLevel:'strict',theme:document.documentElement.dataset.theme==='dark'?'dark':'neutral'});await window.mermaid.run({querySelector:'.mermaid'})}catch{console.info('Diagram enhancement unavailable; source remains visible.')}
