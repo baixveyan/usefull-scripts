@@ -69,6 +69,7 @@ def build():
             body, toc = render_note(source)
             body = re.sub(r'src="(?:\.\./)+site/figures/', 'src="../figures/', body)
             body = re.sub(r'href="(?:\.\./)+[^"#]*?\.md"', 'href="../index.html"', body)
+            body = re.sub(r'(<img\b[^>]*\bsrc="(\.\./figures/[^"]+)"[^>]*>)', r'<a class="figure-link" href="\2" target="_blank" rel="noopener" title="打开高清矢量图">\1</a>', body)
             links = ''.join(f'<a href="{x["id"]}.html"><small>{label}</small>{esc(x["title"])}</a>' for x, label in neighbors if x)
             article = f'''<div class="article-shell"><aside class="article-nav"><a href="../index.html">← 返回论文馆</a><p class="eyebrow">CVPR 2026 / {esc(TOPICS[r['topic']])}</p><div class="toc">{toc}</div></aside>
 <main id="main" class="prose"><div class="article-meta"><span class="pill">原文精读 · 已自检</span><span>核对 {r['checked_on']}</span><button id="font-size" aria-label="调整正文字号">Aa</button><button id="print">打印</button></div>

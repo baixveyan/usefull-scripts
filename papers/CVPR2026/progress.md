@@ -57,3 +57,5 @@ python maintenance/validate_catalog.py
 2026-10-20 第三批：新增RDD、DID、C-Flat Turbo、DeltaWorld、GAI-GS，累计50篇reviewed、3992篇queued，距100目标余50篇。16张原创SVG已逐张视觉检查；发现的公式、阈值和速度口径边界已在讲解中明确。本批关键页逐篇渲染核对，实验未复现。续做q51起，当前无reading/draft项。
 
 2026-10-20 第四批：新增Omnivorous DINO、DiVT、A4VL、PCE-LiNGAM、ET3，累计55篇reviewed、3987篇queued，距100目标尚余45篇。21张原创SVG均已逐张检查，DID补齐双分支决策连线；q51–55关键页面已渲染核对。保留A4VL字幕口径冲突、PCE假设/算法待核验点与ET3有条件定理边界。下一批today100.json[20:25]即q56起；当前无reading/draft。
+
+2026-10-20 第五批：新增DevDet、T2LDM、SeDiR、PL-Stitch、CoTyle，累计60篇reviewed、3982篇queued，距100仍余40篇。26张原创SVG均已视觉检查，增加点击打开高清图；q56–60关键页已渲染核对。各项公式及协议边界见正文。本批结束无reading/draft，续读today100.json[25:30]即q61起。

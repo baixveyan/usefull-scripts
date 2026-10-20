@@ -1032,10 +1032,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/devdet/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "643a6d710a078cf8e86ccc77149fd1c4dac73c4a1ab23c671214d5802cf042a7",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q56",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper",
@@ -1050,10 +1054,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/t2ldm/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "09f7e5c9408f6a0436bc42c12fc5ddb914c354c1506d2fa44f599037b71a3b89",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q57",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper",
@@ -1065,10 +1073,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/sedir/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "ef7b7cd5786c562aa977ea0a4d10a43336be685461533ad5822f10e27d9e8d0b",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q58",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper",
@@ -1082,10 +1094,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/pl-stitch/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "6bd0b682d6edca2761105ea95777e3dba528df424c23f91ecbfbba64561ce09a",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q59",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper",
@@ -1100,10 +1116,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/cotyle/README.md",
+      "checked_on": "2026-10-20",
+      "pdf_sha256": "7a6956942c55185c2b58699febdaaad0a83d05c40c7831a2bb0dca32453b7135",
+      "source_checked_on": "2026-10-20",
+      "reading_cache": "q60",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Wang_A_Supervised_Multi-task_Framework_for_Joint_cryo-ET_Restoration_Enabled_by_CVPR_2026_paper",
