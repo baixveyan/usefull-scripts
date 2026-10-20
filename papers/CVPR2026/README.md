@@ -1,6 +1,6 @@
 # CVPR 2026 中文论文讲解
 
-目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前60篇讲解自检完成、3,982篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。
+目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前65篇讲解自检完成、3,977篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。
 
 大会[官方闭幕新闻](https://cvpr.thecvf.com/Conferences/2026/News/Closing)报告接收 4,089 篇，与公开目录相差 47 篇。原因尚未核实，不推测为撤稿、不用第三方列表填充后冒充官方全量。当前范围排除 CVPR Workshops 和 CVPR Findings；若以后扩展，单独建清单。其他年份及会议尚未启动。
 

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "cryoderec-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "A Supervised Multi-task Framework for Joint cryo-ET Restoration Enabled by Generative Physical Simulation",
+    "authors": [
+      "Xinsheng Wang",
+      "Zhidong Yang",
+      "Xiaohua Wan",
+      "Renmin Han",
+      "Shuai Tang",
+      "Hao Dong",
+      "Fa Zhang",
+      "Bin Hu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_A_Supervised_Multi-task_Framework_for_Joint_cryo-ET_Restoration_Enabled_by_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_A_Supervised_Multi-task_Framework_for_Joint_cryo-ET_Restoration_Enabled_by_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "65b16c124674019e7466922920eb035677f1929ff5e955a3b185d2938ce7672d",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "svd-style-original-fig4.png",
+    "kind": "paper-figure-excerpt",
+    "title": "A Training-Free Style-Personalization via SVD-Based Feature Decomposition",
+    "authors": [
+      "Kyoungmin Lee",
+      "Jihun Park",
+      "Jongmin Gim",
+      "Wonhyeok Choi",
+      "Kyumin Hwang",
+      "Jaeyeul Kim",
+      "Sunghoon Im"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper.pdf",
+    "pdf_page": 5,
+    "figure": 4,
+    "pdf_sha256": "026403d6c1d0ca4eb4e2a319b761e88db000c9bed65c872ea77b58c6d9612b04",
+    "checked_on": "2026-10-20",
+    "modification": "Margin-only crop rendered with Poppler; no scientific content altered",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  }
+]

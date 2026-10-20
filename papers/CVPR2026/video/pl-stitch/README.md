@@ -68,5 +68,3 @@ K个元素的目标顺序r概率：
 - [CVF 官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html) · [所读 PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.pdf)。页码均为该 PDF 的页序。
 - 阅读范围：正文、公式与实验表；补充材料、上游代码与权重未逐项核验。许可证和固定代码 commit 尚未确认，不复制原文全文或数据。
 - PDF SHA-256：`6bd0b682d6edca2761105ea95777e3dba528df424c23f91ecbfbba64561ce09a`；版本为本次下载的 CVF 接收稿，核对日期 2026-10-20。
-
-- 视觉核对：已渲染查看 PDF第6页并核对原表、算法或公式；独立补充材料未读，实验未复现。

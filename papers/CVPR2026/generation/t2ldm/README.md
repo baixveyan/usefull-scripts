@@ -67,5 +67,3 @@ Table7文本生成，无DPE/SCRG为FSVD73.64、匹配19.32%；仅DPE71.32/20.95�
 - [CVF 官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.html) · [所读 PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper.pdf)。页码均为该 PDF 的页序。
 - 阅读范围：正文、公式与实验表；补充材料、上游代码与权重未逐项核验。许可证和固定代码 commit 尚未确认，不复制原文全文或数据。
 - PDF SHA-256：`09f7e5c9408f6a0436bc42c12fc5ddb914c354c1506d2fa44f599037b71a3b89`；版本为本次下载的 CVF 接收稿，核对日期 2026-10-20。
-
-- 视觉核对：已渲染查看 PDF第8页并核对原表、算法或公式；独立补充材料未读，实验未复现。

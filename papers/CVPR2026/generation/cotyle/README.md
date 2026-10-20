@@ -68,5 +68,3 @@ code任务去频率抑制，一致性0.6007→0.5301、多样性0.7764→0.7488�
 - [CVF 官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper.html) · [所读 PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper.pdf)。页码均为该 PDF 的页序。
 - 阅读范围：正文、公式与实验表；补充材料、上游代码与权重未逐项核验。许可证和固定代码 commit 尚未确认，不复制原文全文或数据。
 - PDF SHA-256：`7a6956942c55185c2b58699febdaaad0a83d05c40c7831a2bb0dca32453b7135`；版本为本次下载的 CVF 接收稿，核对日期 2026-10-20。
-
-- 视觉核对：已渲染查看 PDF第4页并核对原表、算法或公式；独立补充材料未读，实验未复现。
