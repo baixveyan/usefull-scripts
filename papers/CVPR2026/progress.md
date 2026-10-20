@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-更新：2026-10-20。本次“继续20篇”已完成，累计35篇reviewed、4,007篇queued，无reading/draft/blocked。当前最高优先级为完成主会论文讲解；每日北京时间23:00的现有自动化已更新为优先续做本合集。仍按可用运行资源推进，不承诺一天完成数千篇。
+更新：2026-10-20。当前累计70篇reviewed、3,972篇queued，无reading/draft/blocked；累计100篇目标尚余30篇。31张原创SVG与7张原文局部图已检查，图片均可点击放大。当前下一批为本地today100.json[35:40]，即q71起；下方早期批次数字是历史记录。每日北京时间23:00接续此合集。
 
 ## 清单与已完成
 
@@ -15,7 +15,7 @@
 ## 恢复顺序
 
 1. 以 manifest 的状态为准，不凭本页计数覆盖清单。先完成 `reading` / `draft` 项；再开始最多5篇的下一批。
-2. 七批35篇已完成，目前无reading/draft项。下一批最多5篇：4D Primitive-Mache: Glueing Primitives for Persistent 4D Scene Reconstruction；4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation；4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video；4DP-QA: Scalable QA for 4D Perception in Vision Language Models；4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction。以上仅是待办元数据，未阅读，不计完成。
+2. 优先沿固定today100.json队列的q71起续做，每批最多5篇；不要重新按当前queued前65篇选择，以免目标队列漂移。配图按[图示规范](../../site/FIGURES.md)制作。
 3. 从官方论文页读取原文；必要时渲染公式和实验表，记录适用设置、指标方向和失败项。补充材料未读则明确写出。
 4. 写完并自检后才设 reviewed，补充 topic、note_path、checked_on、pdf_sha256、validation；生成 index.md，并同步通用目录的验证说明。
 5. 每批结束检查额度，保存当前论文和下一步；发生运行/用量限制时停止，后续自动化续做。额度不可读取时不虚构 token 余额。
