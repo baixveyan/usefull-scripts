@@ -484,5 +484,313 @@
     "checked_on": "2026-10-21",
     "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
     "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "uaai-microgestures-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning",
+    "authors": [
+      "Weijia Feng",
+      "Jingyu Yang",
+      "Ruojia Zhang",
+      "Fengtao Sun",
+      "Qian Gao",
+      "Chenyang Wang",
+      "Tongtong Su",
+      "Jia Guo",
+      "Xiaobai Li",
+      "Minglai Shao"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper.pdf",
+    "pdf_page": 5,
+    "figure": 2,
+    "pdf_sha256": "4f23d2434d8b0a9894675f2921a7b692b278abe66ba139110a6e9f9675f87cd1",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "orca-video-avatars-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Active Intelligence in Video Avatars via Closed-loop World Modeling",
+    "authors": [
+      "Xuanhua He",
+      "Tianyu Yang",
+      "Ke Cao",
+      "Ruiqi Wu",
+      "Cheng Meng",
+      "Yong Zhang",
+      "Zhuoliang Kang",
+      "Xiaoming Wei",
+      "Qifeng Chen"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "f7799a0df14efdf65bc416437cfbea23a3477de963a80e9978c981ecc5884fba",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "dnrnet-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Active Perceptual Inference: A Corticothalamic-Inspired Dynamic Nested Recurrent Network for Multimodal Sentiment Analysis with Incomplete Data",
+    "authors": [
+      "Yujuan Zhang",
+      "Qing Li",
+      "Ziyu Li",
+      "Xiuxing Li",
+      "Zhuo Wang",
+      "Mengrui Xu",
+      "Xia Wu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Active_Perceptual_Inference_A_Corticothalamic-Inspired_Dynamic_Nested_Recurrent_Network_for_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Active_Perceptual_Inference_A_Corticothalamic-Inspired_Dynamic_Nested_Recurrent_Network_for_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "23ea0a1c9645f5802a6f572f689780e10bd96fab88d037fff490e7442616db9c",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "activead-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving",
+    "authors": [
+      "Han Lu",
+      "Xiaosong Jia",
+      "Yichen Xie",
+      "Siyu Sun",
+      "Wenlong Liao",
+      "Xiaokang Yang",
+      "Junchi Yan"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lu_ActiveAD_Planning-Oriented_Active_Learning_for_End-to-End_Autonomous_Driving_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_ActiveAD_Planning-Oriented_Active_Learning_for_End-to-End_Autonomous_Driving_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "73ad66324d3222b6db58a9a1cd3b6d4ce8763c81630b88e66553938ce81dc05a",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "activegrasp-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model",
+    "authors": [
+      "Boshu Lei",
+      "Wen Jiang",
+      "Kostas Daniilidis"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "9af4fc55e689f9050777f76cd41bdfe863d9e84165cbbd76f42aed7e0d1204df",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "activepolicy-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain",
+    "authors": [
+      "Yingzhao Li",
+      "Yanjie Liu",
+      "Lijun Zhao"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "f5c5084531e93eed76054a50f3c4e2bb8ab6e276c88ac3a5cb3e5b334c154b54",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "activevla-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation",
+    "authors": [
+      "Zhenyang Liu",
+      "Yongchong Gu",
+      "Yikai Wang",
+      "Xiangyang Xue",
+      "Yanwei Fu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_ActiveVLA_Injecting_Active_Perception_into_Vision-Language-Action_Models_for_Precise_3D_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_ActiveVLA_Injecting_Active_Perception_into_Vision-Language-Action_Models_for_Precise_3D_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "b52851d9df0244a9756aa98d9ee2d236073848a2181b9cc81e29ccc7f6a6d7ef",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "activityforensics-tadiff-original-fig4.png",
+    "kind": "paper-figure-excerpt",
+    "title": "ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos",
+    "authors": [
+      "Peijun Bao",
+      "Anwei Luo",
+      "Gang Pan",
+      "Alex C. Kot",
+      "Xudong Jiang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper.pdf",
+    "pdf_page": 5,
+    "figure": 4,
+    "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "actta-original-fig1.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation",
+    "authors": [
+      "Hyeongyu Kim",
+      "Geonhui Han",
+      "Dosik Hwang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "pdf_sha256": "efb5b1d244e829abe34f4488c25587e8214034671d42f7a73688d64d54910a48",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "ad-gbc-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AD-GBC: Anisotropic Granular-Ball Skip-Connection Refiner for UNet-Based Medical Image Segmentation",
+    "authors": [
+      "Xiya Shen",
+      "Qinglin Zhao",
+      "Li Feng"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Shen_AD-GBC_Anisotropic_Granular-Ball_Skip-Connection_Refiner_for_UNet-Based_Medical_Image_Segmentation_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Shen_AD-GBC_Anisotropic_Granular-Ball_Skip-Connection_Refiner_for_UNet-Based_Medical_Image_Segmentation_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "3d5c73b6495dc3febf0a2c5875264b0f844cc6e3ce84d66d14e32fbe40e4daf2",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adabet-original-fig4.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks",
+    "authors": [
+      "Irene Tenison",
+      "Soumyajit Chatterjee",
+      "Fahim Kawsar",
+      "Mohammad Malekzadeh"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Tenison_AdaBet_Gradient-free_Layer_Selection_for_Efficient_Training_of_Deep_Neural_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tenison_AdaBet_Gradient-free_Layer_Selection_for_Efficient_Training_of_Deep_Neural_CVPR_2026_paper.pdf",
+    "pdf_page": 5,
+    "figure": 4,
+    "pdf_sha256": "f51e215a52c8ff7ce3f0493ff1e682f57f32553658e35ad1ed75099a484f025b",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adacluster-original-fig5.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation",
+    "authors": [
+      "Haoyue Tan",
+      "Shengnan Wang",
+      "Yulin Qiao",
+      "Juncheng Zhang",
+      "Youhui Bai",
+      "Ping Gong",
+      "Zewen Jin",
+      "Cheng Li"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper.pdf",
+    "pdf_page": 5,
+    "figure": 5,
+    "pdf_sha256": "6fdb1f5ec3e2bc214e4786d8e8d9f2703a582a1a00d2923fb5ee6e73a0f91816",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adadextrack-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking",
+    "authors": [
+      "Jianibieke Adalibieke",
+      "Qianwei Han",
+      "Xueyi Liu",
+      "Yuzhe Qin",
+      "Li Yi"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adaiat-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM",
+    "authors": [
+      "Li'an Zhong",
+      "Ziqiang He",
+      "Jibin Zheng",
+      "Jin Li",
+      "Z. Jane Wang",
+      "Xiangui Kang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 2,
+    "pdf_sha256": "b8fa8db507f350398f675209c0617d9c941b372d963f1b373ab35ee0c803e16e",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adapaction-original-fig4.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+    "authors": [
+      "Baicheng Chen",
+      "Mingda Zhang",
+      "Min Zhang",
+      "Haizhou Li",
+      "Baoyuan Wu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf",
+    "pdf_page": 7,
+    "figure": 4,
+    "pdf_sha256": "946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
   }
 ]

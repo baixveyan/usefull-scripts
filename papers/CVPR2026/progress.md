@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-更新：2026-10-21。累计85篇reviewed、3957篇queued，无reading/draft/blocked；100篇阶段目标尚余15篇。31张原创SVG与22张原文局部图已检查。下一批today100.json[50:55]，即q86起。下方早期批次数字为历史记录。
+更新：2026-10-22。累计100篇reviewed、3942篇queued，无reading/draft/blocked。100篇阶段目标完成；CVPR2026全量任务继续。31张原创SVG、37张原文局部图已检查。固定today100.json队列已全部完成；下一批以manifest中queued顺序最多5篇继续。下方旧批次数字保留为历史记录。
 
 ## 清单与已完成
 
@@ -15,7 +15,7 @@
 ## 恢复顺序
 
 1. 以 manifest 的状态为准，不凭本页计数覆盖清单。先完成 `reading` / `draft` 项；再开始最多5篇的下一批。
-2. 优先沿固定today100.json队列的q86起续做，每批最多5篇；不要重新按当前queued前65篇选择，以免目标队列漂移。配图按[图示规范](../../site/FIGURES.md)制作。
+2. 优先沿固定today100.json队列的q91起续做，每批最多5篇；不要重新按当前queued前65篇选择，以免目标队列漂移。配图按[图示规范](../../site/FIGURES.md)制作。
 3. 从官方论文页读取原文；必要时渲染公式和实验表，记录适用设置、指标方向和失败项。补充材料未读则明确写出。
 4. 写完并自检后才设 reviewed，补充 topic、note_path、checked_on、pdf_sha256、validation；生成 index.md，并同步通用目录的验证说明。
 5. 每批结束检查额度，保存当前论文和下一步；发生运行/用量限制时停止，后续自动化续做。额度不可读取时不虚构 token 余额。
@@ -74,3 +74,10 @@ python maintenance/validate_catalog.py
 
 
 2026-10-21 第三批：q81–85（Action Motifs/A4Mer、GAP、Action-Sketcher、ActionMesh、TANL）完成正文精读、方法图与关键表格渲染核对、自检。累计85篇reviewed、3957篇queued，100目标余15；31张原创SVG及22张原图截图。分别记录识别表列冲突、几何消融/实机任务名单冲突、实机子任务完成率、固定拓扑边界与测试缓存依赖。全部未复现实验。下一批q86起，本批结束无reading/draft。
+
+
+2026-10-22（10月21日23时任务跨午夜续做）：q86–90 UAAI、ORCA、DNRNet、ActiveAD、ActiveGrasp完成正文精读、公式和主表渲染、原图逐张核验与自检。累计90篇reviewed、3952篇queued，距100余10；31张原创SVG、27张原文图。保留EFE/UMIX不一致、TSR子目标口径、随机缺失与收敛边界、γ配额解释及抓取概率/梯度待核验点。原文下载日期21日、自检22日，未复现实验。下一批q91；当前无reading/draft。85篇已上传commit53525c2a51b43124696a3c62e8bccf6fdf20b21f，Pages action39628661029成功，公网4042记录/85已完成及高清图HTTP200已核验。
+
+2026-10-22第二批：q91–95（ActivePolicy、ActiveVLA、ActivityForensics/TADiff、AcTTA、AD-GBC）原文、关键公式表格及5张局部图逐张核对，累计95篇reviewed、3947篇queued。保留不利结果与正文/表格差异，未复现。下一批固定today100.json[60:65]，q96–100。
+
+2026-10-22第三批：q96–100（AdaBet、AdaCluster、AdaDexTrack、AdaIAT、AdapAction）完成正文精读、必要公式/关键表格渲染与5张局部图视觉核对，累计100篇reviewed、3942篇queued，无reading/draft/blocked。100篇阶段目标达成，全量4042篇目标未完成；47篇接收/公开差额仍待核。下一篇：Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper。下一批从manifest首个queued继续，最多5篇。未复现训练或攻击，未调用付费API。
