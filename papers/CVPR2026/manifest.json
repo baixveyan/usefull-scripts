@@ -2009,10 +2009,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/adaprior/README.md",
+      "checked_on": "2026-10-22",
+      "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
+      "source_checked_on": "2026-10-22",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper",
@@ -2032,10 +2035,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/adapter-shield/README.md",
+      "checked_on": "2026-10-22",
+      "pdf_sha256": "3a04e8293d4fc95557eae90a0cb5f0eadbd57c518851ee4e455e51c81c075431",
+      "source_checked_on": "2026-10-22",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper",
@@ -2049,10 +2055,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "medical",
+      "note_path": "papers/CVPR2026/medical/hinge/README.md",
+      "checked_on": "2026-10-22",
+      "pdf_sha256": "4df3bc0d1dd8a5e792610b4a2f8c89126936abba57f86058a7ce9c7efbfc5bf9",
+      "source_checked_on": "2026-10-22",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",
@@ -2067,10 +2076,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "multimodal",
+      "note_path": "papers/CVPR2026/multimodal/daig/README.md",
+      "checked_on": "2026-10-22",
+      "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
+      "source_checked_on": "2026-10-22",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper",
@@ -2081,10 +2093,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/sr-video-counting/README.md",
+      "checked_on": "2026-10-22",
+      "pdf_sha256": "a030dfd62fed8884b348fef466b138ea3d535d5ea50c493f6955c942d57db68f",
+      "source_checked_on": "2026-10-22",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper",

@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-更新：2026-10-22。累计100篇reviewed、3942篇queued，无reading/draft/blocked。100篇阶段目标完成；CVPR2026全量任务继续。31张原创SVG、37张原文局部图已检查。固定today100.json队列已全部完成；下一批以manifest中queued顺序最多5篇继续。下方旧批次数字保留为历史记录。
+更新：2026-10-22。累计105篇reviewed、3937篇queued，无reading/draft/blocked。100篇阶段目标已完成并额外完成5篇；CVPR2026全量任务继续。31张原创SVG、42张原文局部图已检查。固定today100.json及queue101-105.json已全部完成；下一批从manifest首个queued开始，最多5篇。下方旧批次数字保留为历史记录。
 
 ## 清单与已完成
 
@@ -81,3 +81,5 @@ python maintenance/validate_catalog.py
 2026-10-22第二批：q91–95（ActivePolicy、ActiveVLA、ActivityForensics/TADiff、AcTTA、AD-GBC）原文、关键公式表格及5张局部图逐张核对，累计95篇reviewed、3947篇queued。保留不利结果与正文/表格差异，未复现。下一批固定today100.json[60:65]，q96–100。
 
 2026-10-22第三批：q96–100（AdaBet、AdaCluster、AdaDexTrack、AdaIAT、AdapAction）完成正文精读、必要公式/关键表格渲染与5张局部图视觉核对，累计100篇reviewed、3942篇queued，无reading/draft/blocked。100篇阶段目标达成，全量4042篇目标未完成；47篇接收/公开差额仍待核。下一篇：Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper。下一批从manifest首个queued继续，最多5篇。未复现训练或攻击，未调用付费API。
+
+2026-10-22第四批：q101–105（AdaPrior、Adapter Shield、HINGE、DAIG、SR视频计数）完成原文精读、自检与5张方法图视觉核查，累计105篇reviewed、3937篇queued，无reading/draft/blocked。保留EMA定理条件、加解密安全边界、患者/切片协议及印刷公式歧义。未复现、未调用付费API。下一篇：Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper；下一批从manifest首个queued最多5篇，建议后续缓存q106起。固定queue101-105已全部完成。

@@ -792,5 +792,108 @@
     "checked_on": "2026-10-22",
     "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
     "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adaprior-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning",
+    "authors": [
+      "S Divakar Bhat",
+      "Amit Popat More",
+      "Mudit Soni",
+      "Bhuvan Aggarwal"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.pdf",
+    "pdf_page": 2,
+    "figure": 2,
+    "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "adapter-shield-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Adapter Shield: A Unified Framework with Built-in Authentication for Preventing Unauthorized Zero-Shot Image-to-Image Generation",
+    "authors": [
+      "Jun Jia",
+      "Hongyi Miao",
+      "Yingjie Zhou",
+      "Wangqiu Zhou",
+      "Jianbo Zhang",
+      "Linhan Cao",
+      "Dandan Zhu",
+      "Hua Yang",
+      "Xiongkuo Min",
+      "Wei Sun",
+      "Guangtao Zhai"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper.pdf",
+    "pdf_page": 2,
+    "figure": 2,
+    "pdf_sha256": "3a04e8293d4fc95557eae90a0cb5f0eadbd57c518851ee4e455e51c81c075431",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "hinge-original-fig1.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images",
+    "authors": [
+      "Donghai Fang",
+      "Yongheng Li",
+      "Zhen Wang",
+      "Yuansong Zeng",
+      "Wenwen Min"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "pdf_sha256": "4df3bc0d1dd8a5e792610b4a2f8c89126936abba57f86058a7ce9c7efbfc5bf9",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "daig-original-fig2.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Adapting In-context Generation for Enhanced Composed Image Retrieval",
+    "authors": [
+      "Haiwen Li",
+      "Zining Chen",
+      "Delong Liu",
+      "Zhaohui Hou",
+      "Zhicheng Zhao",
+      "Fei Su"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 2,
+    "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "sr-video-counting-original-fig1.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Adapting Lightweight Image-based Counting Models for Video Crowd Counting",
+    "authors": [
+      "Weibo Shu",
+      "Antoni B. Chan"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper.pdf",
+    "pdf_page": 3,
+    "figure": 1,
+    "pdf_sha256": "a030dfd62fed8884b348fef466b138ea3d535d5ea50c493f6955c942d57db68f",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
   }
 ]
