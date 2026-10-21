@@ -1365,10 +1365,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/hybridiff/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "2340159ec2f5bc3409e046f3a2d68a39402e11130db8cd16cb551c37d7684a36",
+      "source_checked_on": "2026-10-21",
+      "reading_cache": "q71",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper",
@@ -1385,10 +1389,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/hetcache/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "b83736c863479634e42976be0e4b2cc840244c172b60fa87a7b61fd92e0bd111",
+      "source_checked_on": "2026-10-21",
+      "reading_cache": "q72",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper",
@@ -1405,10 +1413,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/stc-streaming-video/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "4c8d3f913a0f543c9a520e99b44b28acf656ae0b9a1ea38a7f541b0dc290aa60",
+      "source_checked_on": "2026-10-21",
+      "reading_cache": "q73",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Xu_ACE-Merging_Data-Free_Model_Merging_with_Adaptive_Covariance_Estimation_CVPR_2026_paper",
@@ -1424,10 +1436,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_ACE-Merging_Data-Free_Model_Merging_with_Adaptive_Covariance_Estimation_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_ACE-Merging_Data-Free_Model_Merging_with_Adaptive_Covariance_Estimation_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "theory",
+      "note_path": "papers/CVPR2026/theory/ace-merging/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "bf481c4898698189964d40ffb131f61010d75056966d4bba744cb32da87068a5",
+      "source_checked_on": "2026-10-21",
+      "reading_cache": "q74",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Ma_AceTone_Bridging_Words_and_Colors_for_Conditional_Image_Grading_CVPR_2026_paper",
@@ -1440,10 +1456,14 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ma_AceTone_Bridging_Words_and_Colors_for_Conditional_Image_Grading_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_AceTone_Bridging_Words_and_Colors_for_Conditional_Image_Grading_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "imaging",
+      "note_path": "papers/CVPR2026/imaging/acetone/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "8f71d1a9f86b13ce043af2592f9d4384801ff90664664b2bbbdc615d8a4d6ded",
+      "source_checked_on": "2026-10-21",
+      "reading_cache": "q75",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper",
@@ -1458,10 +1478,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "robotics",
+      "note_path": "papers/CVPR2026/robotics/acot-vla/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "bb44ba288614225a3ba750def425c4a3829f3ff827ca5fb91c15b533d132560e",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper",
@@ -1474,10 +1497,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "segmentation",
+      "note_path": "papers/CVPR2026/segmentation/acpv-net/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "bf45dc1a4d3791298beaf47e8940d64d76d586784414e7d342558eb44c742a82",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper",
@@ -1497,10 +1523,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "medical",
+      "note_path": "papers/CVPR2026/medical/histoselect/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "8b4db1dedb41e0b781d39d5681bb7e3bb945cefb5cd254255412bf5562d8a184",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Q._Act2See_Emergent_Active_Visual_Perception_for_Video_Reasoning_CVPR_2026_paper",
@@ -1516,10 +1545,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Q._Act2See_Emergent_Active_Visual_Perception_for_Video_Reasoning_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Q._Act2See_Emergent_Active_Visual_Perception_for_Video_Reasoning_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "video",
+      "note_path": "papers/CVPR2026/video/act2see/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "06854ff8066bc18d3d5d1a5731548b23b7abba3343f62c220987003c47c31af0",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Peng_ActAvatar_Temporally-Aware_Precise_Action_Control_for_Talking_Avatars_CVPR_2026_paper",
@@ -1541,10 +1573,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Peng_ActAvatar_Temporally-Aware_Precise_Action_Control_for_Talking_Avatars_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Peng_ActAvatar_Temporally-Aware_Precise_Action_Control_for_Talking_Avatars_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "generation",
+      "note_path": "papers/CVPR2026/generation/actavatar/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "314427c9a95af703bf3cf850ed0006b59854f713bdefad457327b52c56c8d46c",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper",
@@ -1559,10 +1594,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/a4mer-action-motifs/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "447cb0f3770e0bd826451ec2e85c2c5e73e8d1cc416c2cea174e94a22fce41b6",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper",
@@ -1577,10 +1615,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "robotics",
+      "note_path": "papers/CVPR2026/robotics/gap-bimanual/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "10f479d23ebfd17c18c76ea57b36507e7ba5e5f2becd8ab3f865a8c7cfdac901",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Tan_Action-Sketcher_From_Reasoning_to_Action_via_Visual_Sketches_for_Robotic_CVPR_2026_paper",
@@ -1600,10 +1641,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Action-Sketcher_From_Reasoning_to_Action_via_Visual_Sketches_for_Robotic_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_Action-Sketcher_From_Reasoning_to_Action_via_Visual_Sketches_for_Robotic_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "robotics",
+      "note_path": "papers/CVPR2026/robotics/action-sketcher/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "60108bac3519a4e6d63cf9d58a7e59e2b5e4e07594a6760f90c5ee02861d4518",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Sabathier_ActionMesh_Animated_3D_Mesh_Generation_with_Temporal_3D_Diffusion_CVPR_2026_paper",
@@ -1616,10 +1660,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Sabathier_ActionMesh_Animated_3D_Mesh_Generation_with_Temporal_3D_Diffusion_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Sabathier_ActionMesh_Animated_3D_Mesh_Generation_with_Temporal_3D_Diffusion_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/actionmesh/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "e4464339a3ccf816397bf5e8ebda6049050526f5736759063400a99f498a4d35",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper",
@@ -1635,10 +1682,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "recognition",
+      "note_path": "papers/CVPR2026/recognition/tanl/README.md",
+      "checked_on": "2026-10-21",
+      "pdf_sha256": "6336ae2ae73b86cfb449b02d6412dac40345aa6af0f664e4c7a4a666f59ad948",
+      "source_checked_on": "2026-10-21",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper",
