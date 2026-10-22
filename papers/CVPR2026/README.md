@@ -1,5 +1,8 @@
 # CVPR 2026 中文论文讲解
 
+2026-10-22用户要求全部方法返工：暂停新增，106篇旧讲解进入method-revision.json独立队列。TokenGS已按v2标准重写方法并自检（1/106）；其余105篇待做。详见method-standard-v2.md。原reviewed仅表示既往原文阅读历史，不表示新详细版已完成。下一篇以返工队列pending为准，不再从新论文q107续做。
+
+
 目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前106篇讲解自检完成、3,936篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。
 
 大会[官方闭幕新闻](https://cvpr.thecvf.com/Conferences/2026/News/Closing)报告接收 4,089 篇，与公开目录相差 47 篇。原因尚未核实，不推测为撤稿、不用第三方列表填充后冒充官方全量。当前范围排除 CVPR Workshops 和 CVPR Findings；若以后扩展，单独建清单。其他年份及会议尚未启动。

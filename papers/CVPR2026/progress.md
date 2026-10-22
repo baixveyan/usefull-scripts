@@ -1,5 +1,8 @@
 # CVPR 2026 接续记录
 
+2026-10-22用户要求全部方法返工：暂停新增，106篇旧讲解进入method-revision.json独立队列。TokenGS已按v2标准重写方法并自检（1/106）；其余105篇待做。详见method-standard-v2.md。原reviewed仅表示既往原文阅读历史，不表示新详细版已完成。下一篇以返工队列pending为准，不再从新论文q107续做。
+
+
 更新：2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。
 
 ## 清单与已完成

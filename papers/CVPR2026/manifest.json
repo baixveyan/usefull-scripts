@@ -31,7 +31,8 @@
       "pdf_sha256": "4ec34b24545903405236c5b963423d501131bd716fa179f1d8b8ab4ce6b4542f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "alphamatte",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Devalapally_oslash_Source_Models_Leak_What_They_Shouldnt_nrightarrow_Unlearning_Zero-Shot_CVPR_2026_paper",
@@ -51,7 +52,8 @@
       "pdf_sha256": "26e0fcbfee5fac014a3866b14770f6f0d112c381183a7776aeaf38ef2c96da25",
       "source_checked_on": "2026-10-20",
       "reading_cache": "unlearn",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Truong_phi-DPO_Fairness_Direct_Preference_Optimization_Approach_to_Continual_Learning_in_CVPR_2026_paper",
@@ -72,7 +74,8 @@
       "pdf_sha256": "8e2e3d177534a898d982e73cac810fb322ada851b6f71477354834825bc73447",
       "source_checked_on": "2026-10-20",
       "reading_cache": "phidpo",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kumar_L2DGS_Low-Light_Dynamic_Gaussian_Splatting_CVPR_2026_paper",
@@ -90,7 +93,8 @@
       "pdf_sha256": "1bb84dbd71b76eb8346eb90a6681ac8ec243390cd52dfc052c0a229c2c3bcbce",
       "source_checked_on": "2026-10-20",
       "reading_cache": "l2dgs",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lu_2-Shots_in_the_Dark_Low-Light_Denoising_with_Minimal_Data_Acquisition_CVPR_2026_paper",
@@ -109,7 +113,8 @@
       "pdf_sha256": "c619a70910b9b9c4a35343208418000e20153bec2024cd927e13ddb5606ce852",
       "source_checked_on": "2026-10-20",
       "reading_cache": "twoshots",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xiaokaiti_240FPS_Stereo_Vision_from_Monocular_Mixed_Spikes_CVPR_2026_paper",
@@ -131,7 +136,8 @@
       "pdf_sha256": "b4caba3eb517e94d188cfcf256b3a684351813b0bb9d7a0126c8899b5e005ad1",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p16",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Dabhi_2D-LFM_Lifting_Foundation_Model_without_3D_Supervision_CVPR_2026_paper",
@@ -151,7 +157,8 @@
       "pdf_sha256": "efe1683f5675e21aaf10912ec89fcab99f63092a22720814417e28ca4625003f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p17",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zheng_2ndMatch_Finetuning_Pruned_Diffusion_Models_via_Second-Order_Jacobian_Matching_CVPR_2026_paper",
@@ -169,7 +176,8 @@
       "pdf_sha256": "6cf5f0b4bd37557e92d841b5d904d7e7fb41709ee0fd86ce0c1e2ef824c95a2a",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p18",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper",
@@ -189,7 +197,8 @@
       "pdf_sha256": "c29306e7a15679e5c5941b1f7cabfb4289c7bfdee42d02f23e52dbf36945ff84",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p19",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper",
@@ -210,7 +219,8 @@
       "pdf_sha256": "703d5e69b6c7ffdeab7569b840f6ee6d67c69845aaf6badcd5af0c08dc5faac8",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p20",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Noda_3D_Gaussian_Splatting_with_Self-Constrained_Priors_for_High_Fidelity_Surface_CVPR_2026_paper",
@@ -229,7 +239,8 @@
       "pdf_sha256": "4b7de9851ee5251b0b82cd6c12167efaa4a6a73573d456a6e73ec6ebf7c1353f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Yamada_3D_sans_3D_Scans_Scalable_Pre-training_from_Video-Generated_Point_Clouds_CVPR_2026_paper",
@@ -252,7 +263,8 @@
       "pdf_sha256": "1cb78bbf3478b3620347884762f7f95862aa73cb69a5bcd31f232765bfe5c70e",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Saha_3D_Space_as_a_Scratchpad_for_Editable_Text-to-Image_Generation_CVPR_2026_paper",
@@ -274,7 +286,8 @@
       "pdf_sha256": "40e60f5a8dd5eac4a462bebbf767b87b07e06ce945985af0fa4c07fa1e2112d4",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p23",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Fang_3D-Aware_Implicit_Motion_Control_for_View-Adaptive_Human_Video_Generation_CVPR_2026_paper",
@@ -298,7 +311,8 @@
       "pdf_sha256": "0db5368bf2dd8ac4782ed302de502701f579f53e9fe3c6270c9fdc46ca35da8c",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p24",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wang_3D-Aware_Multi-Task_Learning_with_Cross-View_Correlations_for_Dense_Scene_Understanding_CVPR_2026_paper",
@@ -318,7 +332,8 @@
       "pdf_sha256": "3e8799b6018f7fb62cfb6ecf43d0c7e18a34a72d5fc11c2311fedfc4c1aac548",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p25",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Yin_3D-Fixer_Coarse-to-Fine_In-place_Completion_for_3D_Scenes_from_a_Single_CVPR_2026_paper",
@@ -341,7 +356,8 @@
       "pdf_sha256": "5d4bd59de94147d24712a58229019046ef08cb721dfda06506d2b1c0228a461e",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p26",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhang_3D-IDE_3D_Implicit_Depth_Emergent_CVPR_2026_paper",
@@ -362,7 +378,8 @@
       "pdf_sha256": "5df74903205e6983dc2c0164157517a5d7630a441898a947894c54c885486dce",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p27",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Parelli_3D-LATTE_Latent_Space_3D_Editing_from_Textual_Instructions_CVPR_2026_paper",
@@ -383,7 +400,8 @@
       "pdf_sha256": "24183efbcedcbccb0d7d6ddd85a8ba37a283bbf5b8c8108113ef6c07b8551e50",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p28",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kalra_3D-Object_Perception_Transformer_3PT_CVPR_2026_paper",
@@ -412,7 +430,8 @@
       "pdf_sha256": "b80a97b31da14f69df4224b69345e9fbd92d07ad79a42409296da840db69bd47",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p29",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Ogunleye_3D-VCD_Hallucination_Mitigation_in_3D-LLM_Embodied_Agents_through_Visual_Contrastive_CVPR_2026_paper",
@@ -431,7 +450,8 @@
       "pdf_sha256": "6104b05308c5790c82b884d193ae5cf070c1787b40f2911ecf00157ae5e29f45",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p30",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xiao_3DrawAgent_Teaching_LLM_to_Draw_in_3D_with_Early_Contrastive_CVPR_2026_paper",
@@ -452,7 +472,8 @@
       "pdf_sha256": "ea6e7cab1677f9e20d5938e2eb6e875870392307bb720bd8132e91e40000753c",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p31",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Liang_3DReflecNet_A_Large-Scale_Dataset_for_3D_Reconstruction_of_Reflective_Transparent_CVPR_2026_paper",
@@ -477,7 +498,8 @@
       "pdf_sha256": "54aeb3cf0b284e4366f7a30ea53e95888d96d810a7237fb34126ec5f051e4140",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p32",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Chen_3M-TI_High-Quality_Mobile_Thermal_Imaging_via_Calibration-free_Multi-Camera_Cross-Modal_Diffusion_CVPR_2026_paper",
@@ -498,7 +520,8 @@
       "pdf_sha256": "3ed2977f6c4a1f2035b1ecd1368f2d6dd1cc0ffb6793a5828744cdbb777e621e",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p33",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhou_4C4D_4_Camera_4D_Gaussian_Splatting_CVPR_2026_paper",
@@ -521,7 +544,8 @@
       "pdf_sha256": "85df6ac4f4011970ff095c842504e6eb2ba388371eae9fbac3ab964ce01bafbd",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p34",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper",
@@ -541,7 +565,8 @@
       "pdf_sha256": "0e40f0648c1f8340aa7e037d2a00811521790930b68e240213a0847b3bec8cd5",
       "source_checked_on": "2026-10-20",
       "reading_cache": "p35",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Mazur_4D_Primitive-Mache_Glueing_Primitives_for_Persistent_4D_Scene_Reconstruction_CVPR_2026_paper",
@@ -560,7 +585,8 @@
       "pdf_sha256": "0c6a5ecdcf21000609c05c4702d8be095c87c0742d3cc3f3ea9e3765daf524fa",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q36",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Yang_4D-RGPT_Toward_Region-level_4D_Understanding_via_Perceptual_Distillation_CVPR_2026_paper",
@@ -583,7 +609,8 @@
       "pdf_sha256": "58709974ef25bcaf8604476442538c34ba4a2afb77accf27b31963c069d7561b",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q37",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lyu_4DEquine_Disentangling_Motion_and_Appearance_for_4D_Equine_Reconstruction_from_CVPR_2026_paper",
@@ -604,7 +631,8 @@
       "pdf_sha256": "892e2c86b7f22a02877b2952c62d0a4e0710534073271694c232628d7163ccd0",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q38",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper",
@@ -628,7 +656,8 @@
       "pdf_sha256": "4881e1611ce7f28fb1484ff4cccfbab7a1a036a49212154fdab36096360f3463",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q39",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wu_4DSurf_High-Fidelity_Dynamic_Scene_Surface_Reconstruction_CVPR_2026_paper",
@@ -648,7 +677,8 @@
       "pdf_sha256": "922d0ecd2dc50511e89fd97cb6f4028eb72dcce39bd640ff24f564c080c3aca1",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q40",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper",
@@ -675,7 +705,8 @@
       "pdf_sha256": "2c939abc1148b8097df770500ca75734bdaac4eb38d2c87838a7743443680d11",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q41",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper",
@@ -696,7 +727,8 @@
       "pdf_sha256": "c7968704df84818ea8986d5962d25cf8568d9cab5b4244e5c56f519bb758d1ed",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q42",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper",
@@ -717,7 +749,8 @@
       "note_path": "papers/CVPR2026/multimodal/clip-irm/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "5f45fddf2204a51eafb47b2f58676a0c03965cad89605ab7aace483e06301562",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper",
@@ -738,7 +771,8 @@
       "pdf_sha256": "395ff8aeff5511803efe82c0799bc82a73a7535d3bc6447e1729097aa22b413e",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q43",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Yu_A_Closer_Look_at_Cross-Domain_Few-Shot_Object_Detection_Fine-Tuning_Matters_CVPR_2026_paper",
@@ -757,7 +791,8 @@
       "note_path": "papers/CVPR2026/segmentation/cross-domain-fsod/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "49cfce67b31ff75e238f347f885a55aa196a26c5921ec894fc1963baeb93b966",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Stalder_A_Combination_of_Noise_and_Bilateral_Filters_Achieve_Supralinear_and_CVPR_2026_paper",
@@ -777,7 +812,8 @@
       "pdf_sha256": "cbb0c83bfcbec9c5491c755371dba03813c407460e75360881f99dc29ebc1bf2",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q44",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhu_A_Cross-view_Fusion_Framework_for_Robust_6-DoF_Grasp_Pose_Estimation_CVPR_2026_paper",
@@ -797,7 +833,8 @@
       "pdf_sha256": "4e05292d63917a79e9f09dc546cb380276fe5e936d0c77df8306c5e55b443f9b",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q45",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper",
@@ -819,7 +856,8 @@
       "pdf_sha256": "86a8b60e9fb053b0a8c578451f1581d3f178d184c3f45930f6c4678385cb171c",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q46",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Qi_A_Difference-in-Difference_Approach_to_Detecting_AI-Generated_Images_CVPR_2026_paper",
@@ -841,7 +879,8 @@
       "pdf_sha256": "9cc76dbbf60523b2b0df0654faf378c464dcf3bf26a4a9722061559451306c46",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q47",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Li_A_Faster_Path_to_Continual_Learning_CVPR_2026_paper",
@@ -863,7 +902,8 @@
       "pdf_sha256": "ab107c4983873d5ed653ca6dfb797716b003b556b364fbeba0b32a80f0c2187d",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q48",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper",
@@ -887,7 +927,8 @@
       "pdf_sha256": "d7647c8cf24dd38b5de3d0277756fde098a6b26d1352b4db2593598af6f0f59c",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q49",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Shen_A_Geometric_Algebra-Informed_3DGS_Framework_for_Wireless_Channel_Prediction_CVPR_2026_paper",
@@ -906,7 +947,8 @@
       "pdf_sha256": "b90e4fc9fc235417670bf13d29334b97923969aadae902d4019ffa1069af55a6",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q50",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper",
@@ -930,7 +972,8 @@
       "pdf_sha256": "ed985902cd96e9106b48b15249e793eff9bf89ded5d8d8092d35830bd87d439f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q51",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
@@ -953,7 +996,8 @@
       "pdf_sha256": "e79346cd45cc781fb8c8419608279e92db6fddd11c369dc1e048f41b849334b8",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q52",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper",
@@ -978,7 +1022,8 @@
       "pdf_sha256": "5feca98a5235808952c0545c367873aec2cc0d979dc8347a3971f7ccad88e50e",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q53",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper",
@@ -995,7 +1040,8 @@
       "pdf_sha256": "36a71b21872a2e07b429dd46a809804076f12c163f650b62c9a2e62015cf9a99",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q54",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper",
@@ -1015,7 +1061,8 @@
       "pdf_sha256": "542430dfc2ab345cd6d2c67b6a5dfb50072af6c1273e776521935c1c789a067f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q55",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper",
@@ -1039,7 +1086,8 @@
       "pdf_sha256": "643a6d710a078cf8e86ccc77149fd1c4dac73c4a1ab23c671214d5802cf042a7",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q56",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper",
@@ -1061,7 +1109,8 @@
       "pdf_sha256": "09f7e5c9408f6a0436bc42c12fc5ddb914c354c1506d2fa44f599037b71a3b89",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q57",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper",
@@ -1080,7 +1129,8 @@
       "pdf_sha256": "ef7b7cd5786c562aa977ea0a4d10a43336be685461533ad5822f10e27d9e8d0b",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q58",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper",
@@ -1101,7 +1151,8 @@
       "pdf_sha256": "6bd0b682d6edca2761105ea95777e3dba528df424c23f91ecbfbba64561ce09a",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q59",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper",
@@ -1123,7 +1174,8 @@
       "pdf_sha256": "7a6956942c55185c2b58699febdaaad0a83d05c40c7831a2bb0dca32453b7135",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q60",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wang_A_Supervised_Multi-task_Framework_for_Joint_cryo-ET_Restoration_Enabled_by_CVPR_2026_paper",
@@ -1147,7 +1199,8 @@
       "pdf_sha256": "65b16c124674019e7466922920eb035677f1929ff5e955a3b185d2938ce7672d",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q61",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper",
@@ -1172,7 +1225,8 @@
       "pdf_sha256": "e2506a7235ef7ca66d9f17b35defe1f60dee4c4cac0fab738c0c177f234f98e6",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q62",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper",
@@ -1195,7 +1249,8 @@
       "pdf_sha256": "026403d6c1d0ca4eb4e2a319b761e88db000c9bed65c872ea77b58c6d9612b04",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q63",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Shen_A_Unified_Framework_for_Knowledge_Transfer_in_Bidirectional_Model_Scaling_CVPR_2026_paper",
@@ -1217,7 +1272,8 @@
       "pdf_sha256": "c875d3be8bec34c6301b82b1bab0f8438f3a551fc09a491ee48d20284c4ca297",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q64",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Gao_A_Unified_Perspective_on_Adversarial_Membership_Manipulation_in_Vision_Models_CVPR_2026_paper",
@@ -1237,7 +1293,8 @@
       "pdf_sha256": "3912cb3acd4524f545fd2165e2b677784c0f392606e8bdb3d8740f24d378a27f",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q65",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper",
@@ -1255,7 +1312,8 @@
       "pdf_sha256": "fdd83710d44c1eb349c392b7cff8ccccf115f189b5f6986934ad7419da3456a5",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q66",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper",
@@ -1281,7 +1339,8 @@
       "pdf_sha256": "6a7cb48b4a43bfbf38857150ce5db47cceb8b2bc52fb7fb461c93715f1af1a04",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q67",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper",
@@ -1303,7 +1362,8 @@
       "pdf_sha256": "d82b09ca0128f1e75e6009d29534437bb02ff588d21cba8ebd9cc7395bad2fca",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q68",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper",
@@ -1326,7 +1386,8 @@
       "pdf_sha256": "827347323be76ea4d7ec8d709b029e4fd2edd6bc9ad9592c1d117572fae639f0",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q69",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper",
@@ -1351,7 +1412,8 @@
       "pdf_sha256": "22b998a7949cd30b936184895fb475ad4ac3a67b2927c9c4a4eb0812fcde0d0a",
       "source_checked_on": "2026-10-20",
       "reading_cache": "q70",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper",
@@ -1372,7 +1434,8 @@
       "pdf_sha256": "2340159ec2f5bc3409e046f3a2d68a39402e11130db8cd16cb551c37d7684a36",
       "source_checked_on": "2026-10-21",
       "reading_cache": "q71",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper",
@@ -1396,7 +1459,8 @@
       "pdf_sha256": "b83736c863479634e42976be0e4b2cc840244c172b60fa87a7b61fd92e0bd111",
       "source_checked_on": "2026-10-21",
       "reading_cache": "q72",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper",
@@ -1420,7 +1484,8 @@
       "pdf_sha256": "4c8d3f913a0f543c9a520e99b44b28acf656ae0b9a1ea38a7f541b0dc290aa60",
       "source_checked_on": "2026-10-21",
       "reading_cache": "q73",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xu_ACE-Merging_Data-Free_Model_Merging_with_Adaptive_Covariance_Estimation_CVPR_2026_paper",
@@ -1443,7 +1508,8 @@
       "pdf_sha256": "bf481c4898698189964d40ffb131f61010d75056966d4bba744cb32da87068a5",
       "source_checked_on": "2026-10-21",
       "reading_cache": "q74",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Ma_AceTone_Bridging_Words_and_Colors_for_Conditional_Image_Grading_CVPR_2026_paper",
@@ -1463,7 +1529,8 @@
       "pdf_sha256": "8f71d1a9f86b13ce043af2592f9d4384801ff90664664b2bbbdc615d8a4d6ded",
       "source_checked_on": "2026-10-21",
       "reading_cache": "q75",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper",
@@ -1484,7 +1551,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "bb44ba288614225a3ba750def425c4a3829f3ff827ca5fb91c15b533d132560e",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper",
@@ -1503,7 +1571,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "bf45dc1a4d3791298beaf47e8940d64d76d586784414e7d342558eb44c742a82",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper",
@@ -1529,7 +1598,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "8b4db1dedb41e0b781d39d5681bb7e3bb945cefb5cd254255412bf5562d8a184",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Q._Act2See_Emergent_Active_Visual_Perception_for_Video_Reasoning_CVPR_2026_paper",
@@ -1551,7 +1621,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "06854ff8066bc18d3d5d1a5731548b23b7abba3343f62c220987003c47c31af0",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Peng_ActAvatar_Temporally-Aware_Precise_Action_Control_for_Talking_Avatars_CVPR_2026_paper",
@@ -1579,7 +1650,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "314427c9a95af703bf3cf850ed0006b59854f713bdefad457327b52c56c8d46c",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper",
@@ -1600,7 +1672,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "447cb0f3770e0bd826451ec2e85c2c5e73e8d1cc416c2cea174e94a22fce41b6",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper",
@@ -1621,7 +1694,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "10f479d23ebfd17c18c76ea57b36507e7ba5e5f2becd8ab3f865a8c7cfdac901",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Tan_Action-Sketcher_From_Reasoning_to_Action_via_Visual_Sketches_for_Robotic_CVPR_2026_paper",
@@ -1647,7 +1721,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "60108bac3519a4e6d63cf9d58a7e59e2b5e4e07594a6760f90c5ee02861d4518",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Sabathier_ActionMesh_Animated_3D_Mesh_Generation_with_Temporal_3D_Diffusion_CVPR_2026_paper",
@@ -1666,7 +1741,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "e4464339a3ccf816397bf5e8ebda6049050526f5736759063400a99f498a4d35",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper",
@@ -1688,7 +1764,8 @@
       "checked_on": "2026-10-21",
       "pdf_sha256": "6336ae2ae73b86cfb449b02d6412dac40345aa6af0f664e4c7a4a666f59ad948",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper",
@@ -1713,7 +1790,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "4f23d2434d8b0a9894675f2921a7b692b278abe66ba139110a6e9f9675f87cd1",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper",
@@ -1737,7 +1815,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "f7799a0df14efdf65bc416437cfbea23a3477de963a80e9978c981ecc5884fba",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhang_Active_Perceptual_Inference_A_Corticothalamic-Inspired_Dynamic_Nested_Recurrent_Network_for_CVPR_2026_paper",
@@ -1759,7 +1838,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "23ea0a1c9645f5802a6f572f689780e10bd96fab88d037fff490e7442616db9c",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lu_ActiveAD_Planning-Oriented_Active_Learning_for_End-to-End_Autonomous_Driving_CVPR_2026_paper",
@@ -1781,7 +1861,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "73ad66324d3222b6db58a9a1cd3b6d4ce8763c81630b88e66553938ce81dc05a",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper",
@@ -1799,7 +1880,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "9af4fc55e689f9050777f76cd41bdfe863d9e84165cbbd76f42aed7e0d1204df",
       "source_checked_on": "2026-10-21",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper",
@@ -1817,7 +1899,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "f5c5084531e93eed76054a50f3c4e2bb8ab6e276c88ac3a5cb3e5b334c154b54",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Liu_ActiveVLA_Injecting_Active_Perception_into_Vision-Language-Action_Models_for_Precise_3D_CVPR_2026_paper",
@@ -1837,7 +1920,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "b52851d9df0244a9756aa98d9ee2d236073848a2181b9cc81e29ccc7f6a6d7ef",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper",
@@ -1857,7 +1941,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper",
@@ -1875,7 +1960,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "efb5b1d244e829abe34f4488c25587e8214034671d42f7a73688d64d54910a48",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Shen_AD-GBC_Anisotropic_Granular-Ball_Skip-Connection_Refiner_for_UNet-Based_Medical_Image_Segmentation_CVPR_2026_paper",
@@ -1893,7 +1979,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "3d5c73b6495dc3febf0a2c5875264b0f844cc6e3ce84d66d14e32fbe40e4daf2",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Tenison_AdaBet_Gradient-free_Layer_Selection_for_Efficient_Training_of_Deep_Neural_CVPR_2026_paper",
@@ -1912,7 +1999,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "f51e215a52c8ff7ce3f0493ff1e682f57f32553658e35ad1ed75099a484f025b",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper",
@@ -1935,7 +2023,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "6fdb1f5ec3e2bc214e4786d8e8d9f2703a582a1a00d2923fb5ee6e73a0f91816",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper",
@@ -1955,7 +2044,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper",
@@ -1976,7 +2066,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "b8fa8db507f350398f675209c0617d9c941b372d963f1b373ab35ee0c803e16e",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper",
@@ -1996,7 +2087,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper",
@@ -2015,7 +2107,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper",
@@ -2041,7 +2134,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "3a04e8293d4fc95557eae90a0cb5f0eadbd57c518851ee4e455e51c81c075431",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper",
@@ -2061,7 +2155,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "4df3bc0d1dd8a5e792610b4a2f8c89126936abba57f86058a7ce9c7efbfc5bf9",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",
@@ -2082,7 +2177,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper",
@@ -2099,7 +2195,8 @@
       "checked_on": "2026-10-22",
       "pdf_sha256": "a030dfd62fed8884b348fef466b138ea3d535d5ea50c493f6955c942d57db68f",
       "source_checked_on": "2026-10-22",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper",
@@ -2121,7 +2218,8 @@
       "checked_on": "2026-10-22",
       "source_checked_on": "2026-10-22",
       "pdf_sha256": "b4c510366726763891512f15e7c3fc119d60e09ccdfecebe8cf34011138858c7",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper",
@@ -2450,7 +2548,8 @@
       "note_path": "papers/CVPR2026/video/adaspark/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "9d8c1fe7931876e94d6c3b4b7882e6d73c2c1f16ecb3657ba9360bfc64bbf33c",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Xarles_AdaSpot_Spend_Resolution_Where_It_Matters_for_Precise_Event_Spotting_CVPR_2026_paper",
@@ -3629,7 +3728,8 @@
       "note_path": "papers/CVPR2026/segmentation/costset/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "6d2c760b05f21067ea4d339c955bade917cbcfa4f0a54f5bd1835c9ce88771ab",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Seo_Anomaly_as_Non-Conformity_via_Training-Free_Graph_Laplacian_Energy_Minimization_CVPR_2026_paper",
@@ -5184,7 +5284,8 @@
       "note_path": "papers/CVPR2026/medical/backsplit/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "b92c3d0842b8b916732094fc88316f8c374ecf76a7ed5850210eb587fc39af23",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Po_BAgger_Backwards_Aggregation_for_Mitigating_Drift_in_Autoregressive_Video_Diffusion_CVPR_2026_paper",
@@ -18330,7 +18431,8 @@
       "note_path": "papers/CVPR2026/3d-vision/d4rt/README.md",
       "checked_on": "2026-10-19",
       "pdf_sha256": "b88222682a2007f797d83bd891165a9dbb997cc5a7d3ab5a0d426e767861c5be",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Li_EfficientMonoHair_Fast_Strand-Level_Reconstruction_from_Monocular_Video_via_Multi-View_Direction_CVPR_2026_paper",
@@ -42073,7 +42175,8 @@
       "note_path": "papers/CVPR2026/generation/native-compact-3d/README.md",
       "checked_on": "2026-10-19",
       "pdf_sha256": "de9996f3e05b3621c4617786011495e1e600d0ef7058adb06329b537c39e59d8",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wei_Natural_Human_Motion_Recovery_by_Aligning_High-Order_Temporal_Dynamics_from_CVPR_2026_paper",
@@ -42724,7 +42827,8 @@
       "note_path": "papers/CVPR2026/robotics/nitrogen/README.md",
       "checked_on": "2026-10-19",
       "pdf_sha256": "0e7cd2c59cbe90d04326396cb277d52693577be753c190b339a844d617a91b76",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wu_No_Calibration_No_Depth_No_Problem_Cross-Sensor_View_Synthesis_with_CVPR_2026_paper",
@@ -55357,7 +55461,8 @@
       "note_path": "papers/CVPR2026/3d-vision/sam3d/README.md",
       "checked_on": "2026-10-20",
       "pdf_sha256": "f284446e3f3346f5d11fe2608251c91a5b5c4ec92a130a66dcea7e8013300c6f",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "pending"
     },
     {
       "id": "Wang_Same_Attention_Different_Truths_Put_Logit-Lens_over_Visual_Attention_to_CVPR_2026_paper",
@@ -65402,7 +65507,9 @@
       "note_path": "papers/CVPR2026/3d-vision/tokengs/README.md",
       "checked_on": "2026-10-19",
       "pdf_sha256": "681029eda11f118e065bfdac2fcb88615938aabc14fabd1984558417a8be4772",
-      "validation": "original-read-and-self-reviewed;not-reproduced"
+      "validation": "original-read-and-self-reviewed;not-reproduced",
+      "method_revision": "completed",
+      "method_revision_on": "2026-10-22"
     },
     {
       "id": "He_TokenHand_Discrete_Token_Representation_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2026_paper",

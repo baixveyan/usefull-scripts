@@ -72,7 +72,7 @@ def build():
             body = re.sub(r'(<img\b[^>]*\bsrc="(\.\./figures/[^"]+)"[^>]*>)', r'<a class="figure-link" href="\2" target="_blank" rel="noopener" title="打开高清图">\1</a>', body)
             links = ''.join(f'<a href="{x["id"]}.html"><small>{label}</small>{esc(x["title"])}</a>' for x, label in neighbors if x)
             article = f'''<div class="article-shell"><aside class="article-nav"><a href="../index.html">← 返回论文馆</a><p class="eyebrow">CVPR 2026 / {esc(TOPICS[r['topic']])}</p><div class="toc">{toc}</div></aside>
-<main id="main" class="prose"><div class="article-meta"><span class="pill">原文精读 · 已自检</span><span>核对 {r['checked_on']}</span><button id="font-size" aria-label="调整正文字号">Aa</button><button id="print">打印</button></div>
+<main id="main" class="prose"><div class="article-meta"><span class="pill">{esc("方法详细版 · 已自检" if r.get("method_revision") == "completed" else "方法返工中 · 旧稿待升级" if r.get("method_revision") == "pending" else "原文精读 · 已自检")}</span><span>核对 {r['checked_on']}</span><button id="font-size" aria-label="调整正文字号">Aa</button><button id="print">打印</button></div>
 {body}<div class="article-end">读完并不等于复现。实验数字来自作者报告，复现边界见正文。</div><div class="prev-next">{links}</div></main></div><script type="module" src="../assets/reading.js"></script>'''
             (OUT / 'notes' / name).write_text(page(r['title'], article, '../'), encoding='utf-8')
         authors = r['authors']
