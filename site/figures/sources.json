@@ -1093,5 +1093,42 @@
     "modification": "Independent conceptual threat-model and Boolean-metric diagram; harmless preview example is not an experimental sample",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Browser full-page visual check; OR/AND distinction and result-figure title corrected"
+  },
+  {
+    "file": "sam3d-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "SAM 3D: 3Dfy Anything in Images",
+    "authors": [
+      "Xingyu Chen",
+      "FU-JEN CHU",
+      "Pierre Gleize",
+      "Kevin J Liang",
+      "Alexander Sax",
+      "Hao Tang",
+      "Weiyao Wang",
+      "Michelle Guo",
+      "Thibaut Hardin",
+      "Xiang Li",
+      "Aohan Lin",
+      "Jia-Wei Liu",
+      "Ziqi Ma",
+      "Anushka Sagar",
+      "Bowen Song",
+      "Xiaodong Wang",
+      "Jianing Yang",
+      "Bowen Zhang",
+      "Piotr Dollár",
+      "Georgia Gkioxari",
+      "Matt Feiszli",
+      "Jitendra Malik"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper.pdf",
+    "pdf_sha256": "f284446e3f3346f5d11fe2608251c91a5b5c4ec92a130a66dcea7e8013300c6f",
+    "source_location": "§2–3, Figures 2 and 5, Table 1; PDF pages 2–6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent architecture, directed attention-mask and human annotation-loop diagram; no invented latent-token count",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection after correcting column alignment and coarse-shape transfer label"
   }
 ]

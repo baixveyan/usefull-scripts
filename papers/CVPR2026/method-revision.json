@@ -123,9 +123,15 @@
     {
       "id": "Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/sam3d/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "e33b69d68253937232ac36ca7582f1eb1cf7352b60a3acf94700ba79a4056e6b",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "f284446e3f3346f5d11fe2608251c91a5b5c4ec92a130a66dcea7e8013300c6f",
+      "validation": "model-and-data-engine-reread;architecture-mask-and-annotation-pages-visually-checked;background-formulas-distinguished;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/sam3d-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Chen_alphaMatte4K__muMatting_Dataset_and_Model_for_Ultra-Micro_Precision_Alpha_CVPR_2026_paper",

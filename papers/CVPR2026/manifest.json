@@ -55582,8 +55582,10 @@
       "checked_on": "2026-10-20",
       "pdf_sha256": "f284446e3f3346f5d11fe2608251c91a5b5c4ec92a130a66dcea7e8013300c6f",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Wang_Same_Attention_Different_Truths_Put_Logit-Lens_over_Visual_Attention_to_CVPR_2026_paper",

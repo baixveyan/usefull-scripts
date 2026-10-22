@@ -30,3 +30,5 @@
 2026-10-23：全量106篇联合返工已启动；首4篇新增中文方法详图，逐张浏览器核对。文字/配图/联合完成分别计数，旧图存在不视为本轮完成。新增SVG源码见`make_method_figures.py`，来源与版本登记在sources.json。
 
 2026-10-23第二批：PCE-LiNGAM、PL-Stitch、3M-TI、CLIP-IRM、AdapAction完成正文与原创详图联合自检，累计9/106。原文Fig.4（AdapAction）标注纠正为防御评估结果图。
+
+2026-10-23续批：SAM 3D正文与详图验收，累计10/106。解释形状/布局mask、stop-gradient与人工选择循环；原生64³网格数量不当作主干token数量。
