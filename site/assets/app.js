@@ -13,8 +13,8 @@ if($('#search')){
  const displayTitle=s=>s.replace(/\$([^$]+)\$/g,(_,t)=>t.replace(/\\(alpha|mu|phi|oslash|nrightarrow)\b/g,(_,n)=>({alpha:'α',mu:'μ',phi:'φ',oslash:'∅',nrightarrow:'↛'}[n])).replace(/\^\{2\}/g,'²'));
  const records=(window.PAPERS??[]).map(p=>({...p,query:(p.title+' '+p.authors+' '+p.summary+' '+p.category).toLocaleLowerCase()})).sort((a,b)=>a.title.localeCompare(b.title,'en'));
  function render(){const query=$('#search').value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);const matches=records.filter(p=>($('#scope').value==='all'||p.reviewed)&&(topic==='all'||p.topic===topic)&&query.every(q=>p.query.includes(q)));
- $('#result-count').textContent=`${matches.length.toLocaleString()} 篇${$('#scope').value==='reviewed'?'已完成解析':'匹配论文'}`;
- $('#paper-grid').innerHTML=matches.slice(0,limit).map(p=>`<a class="paper-card" href="${escape(p.href)}" ${p.reviewed?'':'target="_blank" rel="noopener"'}><div class="card-top"><span>${escape(p.category)}</span><span class="pill">${p.reviewed?'精读解析':'仅元数据'}</span></div><h3>${escape(displayTitle(p.title))}</h3><p>${escape(p.summary)}</p><div class="card-footer"><span>${p.reviewed?'CVPR 2026 · '+escape(p.checked):'CVF 官方原文 · 尚未精读'}</span><span class="arrow">${p.reviewed?'↗':'↗'}</span></div></a>`).join('');
+ $('#result-count').textContent=`${matches.length.toLocaleString()} 篇${$('#scope').value==='reviewed'?'已有解析':'匹配论文'}`;
+ $('#paper-grid').innerHTML=matches.slice(0,limit).map(p=>`<a class="paper-card" href="${escape(p.href)}" ${p.reviewed?'':'target="_blank" rel="noopener"'}><div class="card-top"><span>${escape(p.category)}</span><span class="pill">${p.reviewed?(p.revised?'正文与配图详细版':'详细版返工中'):'仅元数据'}</span></div><h3>${escape(displayTitle(p.title))}</h3><p>${escape(p.summary)}</p><div class="card-footer"><span>${p.reviewed?'CVPR 2026 · '+escape(p.checked):'CVF 官方原文 · 尚未精读'}</span><span class="arrow">${p.reviewed?'↗':'↗'}</span></div></a>`).join('');
  $('#more').hidden=matches.length<=limit;$('#empty').hidden=matches.length>0;
  }
  $('#search').addEventListener('input',()=>{limit=12;render()});$('#scope').addEventListener('change',()=>{limit=12;render()});

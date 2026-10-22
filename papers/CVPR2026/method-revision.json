@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "requested_on": "2026-10-22",
-  "scope": "all 106 existing notes; pause new papers until complete",
+  "scope": "All 106 existing notes: detailed methods AND figures; resume new papers only after both pass",
   "standard": "method-standard-v2.md",
   "items": [
     {
@@ -10,7 +10,11 @@
       "status": "completed",
       "baseline_sha256": "3fccea642cae1edd95fd4bf40898567a31449723ff0dc710b5604b4477c58b69",
       "checked_on": "2026-10-22",
-      "validation": "source-body-reread;method-path-and-shape-self-check;not-reproduced"
+      "validation": "source-body-reread;method-path-and-shape-self-check;not-reproduced",
+      "figure_status": "completed",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/tokengs-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper",
@@ -19,7 +23,11 @@
       "baseline_sha256": "0c169c476bd876d1177aa3be42c0d008f5351da2f5060188c3111e5a87332295",
       "checked_on": "2026-10-23",
       "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
-      "validation": "method-body-reread;figure-and-formula-checked;dimensions-and-control-flow-self-review;not-reproduced"
+      "validation": "method-body-reread;figure-and-formula-checked;dimensions-and-control-flow-self-review;not-reproduced",
+      "figure_status": "completed",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/adadextrack-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper",
@@ -28,7 +36,11 @@
       "baseline_sha256": "1f85b2f4b10c3c82bf9015b43cc0135d7ee28d2c679453df3f8f37b894b7a6b8",
       "checked_on": "2026-10-23",
       "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
-      "validation": "method-body-reread;figure-formula-checked;diffusion-and-boundary-flow-self-review;not-reproduced"
+      "validation": "method-body-reread;figure-formula-checked;diffusion-and-boundary-flow-self-review;not-reproduced",
+      "figure_status": "completed",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/tadiff-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper",
@@ -37,619 +49,744 @@
       "baseline_sha256": "5c50cb74f4c711c0ab049c31c8d136e9deba85ed215475c798814d7629b21b17",
       "checked_on": "2026-10-23",
       "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
-      "validation": "method-formulas-reread;bayes-gradient-ema-algebra-self-check;not-reproduced"
+      "validation": "method-formulas-reread;bayes-gradient-ema-algebra-self-check;not-reproduced",
+      "figure_status": "completed",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/adaprior-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/pce-lingam/README.md",
-      "status": "pending",
-      "baseline_sha256": "c24a98bd427b0c97584650276b4056fe2503b23fe4ad369f0f0de0bdce519d10"
+      "status": "completed",
+      "baseline_sha256": "c24a98bd427b0c97584650276b4056fe2503b23fe4ad369f0f0de0bdce519d10",
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "36a71b21872a2e07b429dd46a809804076f12c163f650b62c9a2e62015cf9a99",
+      "validation": "original-method-body-reread;source-formulas-and-diagram-visually-checked;algebra-and-shape-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/pce-lingam-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/pl-stitch/README.md",
-      "status": "pending",
-      "baseline_sha256": "3b4ac13165485e25ef51b8bee348591781ac17ff0004abc045ff2f66c4064406"
+      "status": "completed",
+      "baseline_sha256": "3b4ac13165485e25ef51b8bee348591781ac17ff0004abc045ff2f66c4064406",
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "6bd0b682d6edca2761105ea95777e3dba528df424c23f91ecbfbba64561ce09a",
+      "validation": "original-method-body-reread;source-formulas-and-diagram-visually-checked;algebra-and-shape-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/pl-stitch-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Chen_3M-TI_High-Quality_Mobile_Thermal_Imaging_via_Calibration-free_Multi-Camera_Cross-Modal_Diffusion_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/3m-ti/README.md",
-      "status": "pending",
-      "baseline_sha256": "d1b05855df5a76b11de78e21ae75de50425d4dcfa70599689633e01b566c84a5"
+      "status": "completed",
+      "baseline_sha256": "d1b05855df5a76b11de78e21ae75de50425d4dcfa70599689633e01b566c84a5",
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "3ed2977f6c4a1f2035b1ecd1368f2d6dd1cc0ffb6793a5828744cdbb777e621e",
+      "validation": "method-and-experiments-reread;architecture-page-visually-checked;tensor-and-attention-cost-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/3m-ti-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/clip-irm/README.md",
       "status": "pending",
-      "baseline_sha256": "6ac788eef38ef1fe3875526eab878c3fb28c460c51ce8b6d4814e666ca8ff5ac"
+      "baseline_sha256": "6ac788eef38ef1fe3875526eab878c3fb28c460c51ce8b6d4814e666ca8ff5ac",
+      "figure_status": "pending"
     },
     {
       "id": "Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/adapaction/README.md",
       "status": "pending",
-      "baseline_sha256": "840a9fdb59f1b7b5c6a34258b75f794d31d9ac4dd8729521821dfb68d504fae3"
+      "baseline_sha256": "840a9fdb59f1b7b5c6a34258b75f794d31d9ac4dd8729521821dfb68d504fae3",
+      "figure_status": "pending"
     },
     {
       "id": "Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/sam3d/README.md",
       "status": "pending",
-      "baseline_sha256": "e33b69d68253937232ac36ca7582f1eb1cf7352b60a3acf94700ba79a4056e6b"
+      "baseline_sha256": "e33b69d68253937232ac36ca7582f1eb1cf7352b60a3acf94700ba79a4056e6b",
+      "figure_status": "pending"
     },
     {
       "id": "Chen_alphaMatte4K__muMatting_Dataset_and_Model_for_Ultra-Micro_Precision_Alpha_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/mu-matting/README.md",
       "status": "pending",
-      "baseline_sha256": "b613aa2d42774cba37617cc90a788061da97d2a3ba0d54fd0d8e71bf395020b8"
+      "baseline_sha256": "b613aa2d42774cba37617cc90a788061da97d2a3ba0d54fd0d8e71bf395020b8",
+      "figure_status": "pending"
     },
     {
       "id": "Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/devdet/README.md",
       "status": "pending",
-      "baseline_sha256": "299c424cfaee154e6cfb1b6cde190bf9c1a07b5ccd45c1eaf4e95ca279182d1f"
+      "baseline_sha256": "299c424cfaee154e6cfb1b6cde190bf9c1a07b5ccd45c1eaf4e95ca279182d1f",
+      "figure_status": "pending"
     },
     {
       "id": "Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/4dp-qa/README.md",
       "status": "pending",
-      "baseline_sha256": "1da5f215c8da15b5dcd4dc22c51cbf65c0894c1bf9396af9513ca8eae9ec4803"
+      "baseline_sha256": "1da5f215c8da15b5dcd4dc22c51cbf65c0894c1bf9396af9513ca8eae9ec4803",
+      "figure_status": "pending"
     },
     {
       "id": "Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/rdd-detection/README.md",
       "status": "pending",
-      "baseline_sha256": "1147f58ff8d1c2c177c26efcb73b9550e8f4f28683bcadc88e8a8c392b0bdaf2"
+      "baseline_sha256": "1147f58ff8d1c2c177c26efcb73b9550e8f4f28683bcadc88e8a8c392b0bdaf2",
+      "figure_status": "pending"
     },
     {
       "id": "Dabhi_2D-LFM_Lifting_Foundation_Model_without_3D_Supervision_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/2d-lfm/README.md",
       "status": "pending",
-      "baseline_sha256": "edac65ec0ff9303e00e6aea033f120d6b85e2f58e6c6c69d598202a3090a39c5"
+      "baseline_sha256": "edac65ec0ff9303e00e6aea033f120d6b85e2f58e6c6c69d598202a3090a39c5",
+      "figure_status": "pending"
     },
     {
       "id": "Devalapally_oslash_Source_Models_Leak_What_They_Shouldnt_nrightarrow_Unlearning_Zero-Shot_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/scada-ul/README.md",
       "status": "pending",
-      "baseline_sha256": "6fe96dc88f0696cf904568cc4079f7300a8b0ed3ed01430376b44d5595286012"
+      "baseline_sha256": "6fe96dc88f0696cf904568cc4079f7300a8b0ed3ed01430376b44d5595286012",
+      "figure_status": "pending"
     },
     {
       "id": "Fang_3D-Aware_Implicit_Motion_Control_for_View-Adaptive_Human_Video_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/3dimo/README.md",
       "status": "pending",
-      "baseline_sha256": "1e164a000d44c910cc8e858986708639127eeb7a00c9602f296621b4022c4d7d"
+      "baseline_sha256": "1e164a000d44c910cc8e858986708639127eeb7a00c9602f296621b4022c4d7d",
+      "figure_status": "pending"
     },
     {
       "id": "Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/hinge/README.md",
       "status": "pending",
-      "baseline_sha256": "dea808adf36a8c0f262b19f835a9b225d1598d61972991b1c6c01af79aba2a14"
+      "baseline_sha256": "dea808adf36a8c0f262b19f835a9b225d1598d61972991b1c6c01af79aba2a14",
+      "figure_status": "pending"
     },
     {
       "id": "Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/uaai-microgestures/README.md",
       "status": "pending",
-      "baseline_sha256": "61c9f1ed55cee255092b1371ac58cb21967a8477add80be8875b9944c8867a13"
+      "baseline_sha256": "61c9f1ed55cee255092b1371ac58cb21967a8477add80be8875b9944c8867a13",
+      "figure_status": "pending"
     },
     {
       "id": "Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/single-bit-video/README.md",
       "status": "pending",
-      "baseline_sha256": "ac00ca6ce55008afc0fe9fd552b0112da64f257e319f808308650e59a373cb0b"
+      "baseline_sha256": "ac00ca6ce55008afc0fe9fd552b0112da64f257e319f808308650e59a373cb0b",
+      "figure_status": "pending"
     },
     {
       "id": "Gao_A_Unified_Perspective_on_Adversarial_Membership_Manipulation_in_Vision_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/adversarial-membership-manipulation/README.md",
       "status": "pending",
-      "baseline_sha256": "cce0ad45874632e4a303a01dd729c74792b232db34d2663f44c8ac8e35eb3951"
+      "baseline_sha256": "cce0ad45874632e4a303a01dd729c74792b232db34d2663f44c8ac8e35eb3951",
+      "figure_status": "pending"
     },
     {
       "id": "Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/nope-sgs/README.md",
       "status": "pending",
-      "baseline_sha256": "3f871785b74f2807e1fdbd4e35a3f03492df9f0a87be441de49e6b45dc599617"
+      "baseline_sha256": "3f871785b74f2807e1fdbd4e35a3f03492df9f0a87be441de49e6b45dc599617",
+      "figure_status": "pending"
     },
     {
       "id": "Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/ga4dpf/README.md",
       "status": "pending",
-      "baseline_sha256": "0a77c427b45afcf7ab45667b2703b92514ea1d5c5f4c7e051ed6749873bca5db"
+      "baseline_sha256": "0a77c427b45afcf7ab45667b2703b92514ea1d5c5f4c7e051ed6749873bca5db",
+      "figure_status": "pending"
     },
     {
       "id": "Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/tcca-hand/README.md",
       "status": "pending",
-      "baseline_sha256": "d300140bdeeebcc92ed8182128aea99c2c7bb9bf6d46c8a72dbd0b1e6d724918"
+      "baseline_sha256": "d300140bdeeebcc92ed8182128aea99c2c7bb9bf6d46c8a72dbd0b1e6d724918",
+      "figure_status": "pending"
     },
     {
       "id": "He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/orca-video-avatars/README.md",
       "status": "pending",
-      "baseline_sha256": "1acdb9618f85feebc69b2d6f9cab29a6f7b2ae3a2eff3bbdf3b52dec21fbe797"
+      "baseline_sha256": "1acdb9618f85feebc69b2d6f9cab29a6f7b2ae3a2eff3bbdf3b52dec21fbe797",
+      "figure_status": "pending"
     },
     {
       "id": "Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/d2c-diffusion-condensation/README.md",
       "status": "pending",
-      "baseline_sha256": "1eb65b0009de2945bfd268e7a445d927434daf6f545b7f1dce6309e27e0e7258"
+      "baseline_sha256": "1eb65b0009de2945bfd268e7a445d927434daf6f545b7f1dce6309e27e0e7258",
+      "figure_status": "pending"
     },
     {
       "id": "Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/histoselect/README.md",
       "status": "pending",
-      "baseline_sha256": "93977f83f1ff81e12c0ff3fed06c362363b2f4282415d6ae17fa67585ba552d8"
+      "baseline_sha256": "93977f83f1ff81e12c0ff3fed06c362363b2f4282415d6ae17fa67585ba552d8",
+      "figure_status": "pending"
     },
     {
       "id": "Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/arca-gs/README.md",
       "status": "pending",
-      "baseline_sha256": "f100d8ed80dc4f86cc3b1d4545a04f9613b99a7b2e0daee54bbf29217ac2606d"
+      "baseline_sha256": "f100d8ed80dc4f86cc3b1d4545a04f9613b99a7b2e0daee54bbf29217ac2606d",
+      "figure_status": "pending"
     },
     {
       "id": "Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/a3-advertising-aesthetics/README.md",
       "status": "pending",
-      "baseline_sha256": "af3b8f54cbb694dbc691ea6e65f61a1b92b1d31dbab6ef5f97781ed6d6f25fbe"
+      "baseline_sha256": "af3b8f54cbb694dbc691ea6e65f61a1b92b1d31dbab6ef5f97781ed6d6f25fbe",
+      "figure_status": "pending"
     },
     {
       "id": "Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/adapter-shield/README.md",
       "status": "pending",
-      "baseline_sha256": "5b2985503b43b03c9e594f9d656116768b4a5729ce3739e4528ae79f43a654c1"
+      "baseline_sha256": "5b2985503b43b03c9e594f9d656116768b4a5729ce3739e4528ae79f43a654c1",
+      "figure_status": "pending"
     },
     {
       "id": "Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/segmentation/acpv-net/README.md",
       "status": "pending",
-      "baseline_sha256": "709454406ea5b83e0d534f167b06f04f195db3d631b529a40b768246d0c961f4"
+      "baseline_sha256": "709454406ea5b83e0d534f167b06f04f195db3d631b529a40b768246d0c961f4",
+      "figure_status": "pending"
     },
     {
       "id": "Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/hybridiff/README.md",
       "status": "pending",
-      "baseline_sha256": "1cad548ae63bbce983a68eb62d6c29f834404d1d968689bdc02d8d5e6b24a5d2"
+      "baseline_sha256": "1cad548ae63bbce983a68eb62d6c29f834404d1d968689bdc02d8d5e6b24a5d2",
+      "figure_status": "pending"
     },
     {
       "id": "Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/omnivorous-dino/README.md",
       "status": "pending",
-      "baseline_sha256": "4b5d8fd9e40647600bc31362d216c466c9916fceebbe030b55f83a89275881da"
+      "baseline_sha256": "4b5d8fd9e40647600bc31362d216c466c9916fceebbe030b55f83a89275881da",
+      "figure_status": "pending"
     },
     {
       "id": "Kalra_3D-Object_Perception_Transformer_3PT_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/3pt/README.md",
       "status": "pending",
-      "baseline_sha256": "fd49e98d22e2bc471ac412e135c034d74efbe6d1249ba550105fc87ba29b9d5f"
+      "baseline_sha256": "fd49e98d22e2bc471ac412e135c034d74efbe6d1249ba550105fc87ba29b9d5f",
+      "figure_status": "pending"
     },
     {
       "id": "Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/deltaworld/README.md",
       "status": "pending",
-      "baseline_sha256": "50707ffce04a6a2426c54f0ed2f03a7c1aad3ea1bd7ad01d208b584137cfaa21"
+      "baseline_sha256": "50707ffce04a6a2426c54f0ed2f03a7c1aad3ea1bd7ad01d208b584137cfaa21",
+      "figure_status": "pending"
     },
     {
       "id": "Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/sedir/README.md",
       "status": "pending",
-      "baseline_sha256": "86d23bb10abc37c24ea2ce25657a620819d12d2a20aae3757d5106b6ccc64b45"
+      "baseline_sha256": "86d23bb10abc37c24ea2ce25657a620819d12d2a20aae3757d5106b6ccc64b45",
+      "figure_status": "pending"
     },
     {
       "id": "Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/actta/README.md",
       "status": "pending",
-      "baseline_sha256": "e9639efcfd5c11cfdc721700864018ea5c4c67cbe6fb8e5215e5731cbe448e66"
+      "baseline_sha256": "e9639efcfd5c11cfdc721700864018ea5c4c67cbe6fb8e5215e5731cbe448e66",
+      "figure_status": "pending"
     },
     {
       "id": "Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/a4mer-action-motifs/README.md",
       "status": "pending",
-      "baseline_sha256": "2e0c896dc004823573d97081bbbd40e0d528b290818855115453896614d3c047"
+      "baseline_sha256": "2e0c896dc004823573d97081bbbd40e0d528b290818855115453896614d3c047",
+      "figure_status": "pending"
     },
     {
       "id": "Kumar_L2DGS_Low-Light_Dynamic_Gaussian_Splatting_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/l2dgs/README.md",
       "status": "pending",
-      "baseline_sha256": "99cdac2b7e4b05140e6c5d7dab456d12ad7125369113cbff3cefd26f3324b260"
+      "baseline_sha256": "99cdac2b7e4b05140e6c5d7dab456d12ad7125369113cbff3cefd26f3324b260",
+      "figure_status": "pending"
     },
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/divt/README.md",
       "status": "pending",
-      "baseline_sha256": "574bde9152bb5f34631e91baee67d4b660dbed40d46ed058c2d4631bbb662b47"
+      "baseline_sha256": "574bde9152bb5f34631e91baee67d4b660dbed40d46ed058c2d4631bbb662b47",
+      "figure_status": "pending"
     },
     {
       "id": "Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/svd-style-personalization/README.md",
       "status": "pending",
-      "baseline_sha256": "137a430b9075e28eebfa7ce31368d73bc90eb52e12b82bd2dfd3eeb209a1b8cb"
+      "baseline_sha256": "137a430b9075e28eebfa7ce31368d73bc90eb52e12b82bd2dfd3eeb209a1b8cb",
+      "figure_status": "pending"
     },
     {
       "id": "Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/activegrasp/README.md",
       "status": "pending",
-      "baseline_sha256": "daf6dcdabc62431aad0c145896b1224cdc64f581fb956144c0b2b8cb7455fc98"
+      "baseline_sha256": "daf6dcdabc62431aad0c145896b1224cdc64f581fb956144c0b2b8cb7455fc98",
+      "figure_status": "pending"
     },
     {
       "id": "Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/a2gc-vpr/README.md",
       "status": "pending",
-      "baseline_sha256": "d9feef62c93e508d60ba361fc94938075597a307cf8692702e761ad919ab7dd7"
+      "baseline_sha256": "d9feef62c93e508d60ba361fc94938075597a307cf8692702e761ad919ab7dd7",
+      "figure_status": "pending"
     },
     {
       "id": "Li_A_Faster_Path_to_Continual_Learning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/c-flat-turbo/README.md",
       "status": "pending",
-      "baseline_sha256": "424f025221a2734d89191515cabda9b20a7c2d4f9a77ddd199bddf16cc9bfb8d"
+      "baseline_sha256": "424f025221a2734d89191515cabda9b20a7c2d4f9a77ddd199bddf16cc9bfb8d",
+      "figure_status": "pending"
     },
     {
       "id": "Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/activepolicy/README.md",
       "status": "pending",
-      "baseline_sha256": "a5645d193d70905c536e5ecbfc4113c65814aec845c9503b9513a3d1ac7ee593"
+      "baseline_sha256": "a5645d193d70905c536e5ecbfc4113c65814aec845c9503b9513a3d1ac7ee593",
+      "figure_status": "pending"
     },
     {
       "id": "Li_AdaSpark_Adaptive_Sparsity_for_Efficient_Long-Video_Understanding_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/adaspark/README.md",
       "status": "pending",
-      "baseline_sha256": "2df7be492100e3d2afbfe1f6f1e22370d262054d8cd0f20afeee136b216388a4"
+      "baseline_sha256": "2df7be492100e3d2afbfe1f6f1e22370d262054d8cd0f20afeee136b216388a4",
+      "figure_status": "pending"
     },
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/daig/README.md",
       "status": "pending",
-      "baseline_sha256": "8b33037b22558e8614e1b63b4f2bfa6ac12a112c9fbfa21e2c0863a14618db5a"
+      "baseline_sha256": "8b33037b22558e8614e1b63b4f2bfa6ac12a112c9fbfa21e2c0863a14618db5a",
+      "figure_status": "pending"
     },
     {
       "id": "Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/closed-form-vlm-debias/README.md",
       "status": "pending",
-      "baseline_sha256": "4d92206417e0115a5473208ed2f49a61c8d72cd19ba560a1ae69f7314877b101"
+      "baseline_sha256": "4d92206417e0115a5473208ed2f49a61c8d72cd19ba560a1ae69f7314877b101",
+      "figure_status": "pending"
     },
     {
       "id": "Liang_3DReflecNet_A_Large-Scale_Dataset_for_3D_Reconstruction_of_Reflective_Transparent_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/3dreflecnet/README.md",
       "status": "pending",
-      "baseline_sha256": "d6a6c04aaa3bdf232e1f3d56a45d3b0c2421537f93c14dab0bb0955214b629c2"
+      "baseline_sha256": "d6a6c04aaa3bdf232e1f3d56a45d3b0c2421537f93c14dab0bb0955214b629c2",
+      "figure_status": "pending"
     },
     {
       "id": "Liu_A_Style_is_Worth_One_Code_Unlocking_Code-to-Style_Image_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/cotyle/README.md",
       "status": "pending",
-      "baseline_sha256": "f6bee887af793cd1079b8485bb01a9afa9479ac6207a09d13e8b1fc40e723f61"
+      "baseline_sha256": "f6bee887af793cd1079b8485bb01a9afa9479ac6207a09d13e8b1fc40e723f61",
+      "figure_status": "pending"
     },
     {
       "id": "Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/sandboxvlm/README.md",
       "status": "pending",
-      "baseline_sha256": "d86ccfbc1d395ae2c74a80a85c3af3655d190c4965fddd3af0f502e83be0c420"
+      "baseline_sha256": "d86ccfbc1d395ae2c74a80a85c3af3655d190c4965fddd3af0f502e83be0c420",
+      "figure_status": "pending"
     },
     {
       "id": "Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/hetcache/README.md",
       "status": "pending",
-      "baseline_sha256": "6f7464f36097fd95f6767c8437bb0ab06708fab6adea956b591b13f4a71ba218"
+      "baseline_sha256": "6f7464f36097fd95f6767c8437bb0ab06708fab6adea956b591b13f4a71ba218",
+      "figure_status": "pending"
     },
     {
       "id": "Liu_ActiveVLA_Injecting_Active_Perception_into_Vision-Language-Action_Models_for_Precise_3D_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/activevla/README.md",
       "status": "pending",
-      "baseline_sha256": "5a5cd3feef1bd3ee56ccb6d75221880b09b31c2087186ae27805995c422f0cd3"
+      "baseline_sha256": "5a5cd3feef1bd3ee56ccb6d75221880b09b31c2087186ae27805995c422f0cd3",
+      "figure_status": "pending"
     },
     {
       "id": "Lu_2-Shots_in_the_Dark_Low-Light_Denoising_with_Minimal_Data_Acquisition_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/two-shots-dark/README.md",
       "status": "pending",
-      "baseline_sha256": "a2f75c4ad827462dc86d740cc82a1681d6a03f2b0258bcb88933a98e4d3779f6"
+      "baseline_sha256": "a2f75c4ad827462dc86d740cc82a1681d6a03f2b0258bcb88933a98e4d3779f6",
+      "figure_status": "pending"
     },
     {
       "id": "Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/4dworldbench/README.md",
       "status": "pending",
-      "baseline_sha256": "9d030e92679b1b6fe40b41077bb9c4d938f6974eb4057154eb8be0c32495d8bc"
+      "baseline_sha256": "9d030e92679b1b6fe40b41077bb9c4d938f6974eb4057154eb8be0c32495d8bc",
+      "figure_status": "pending"
     },
     {
       "id": "Lu_ActiveAD_Planning-Oriented_Active_Learning_for_End-to-End_Autonomous_Driving_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/activead/README.md",
       "status": "pending",
-      "baseline_sha256": "870de96caa4fdc02f7e57980d0e8987a8b8f017f6de4fb66fb025cefe0c91b41"
+      "baseline_sha256": "870de96caa4fdc02f7e57980d0e8987a8b8f017f6de4fb66fb025cefe0c91b41",
+      "figure_status": "pending"
     },
     {
       "id": "Lyu_4DEquine_Disentangling_Motion_and_Appearance_for_4D_Equine_Reconstruction_from_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/4dequine/README.md",
       "status": "pending",
-      "baseline_sha256": "c061a791b2a2b761bd4273d5de7620b45820edc1c56390aa39850e51001f29ee"
+      "baseline_sha256": "c061a791b2a2b761bd4273d5de7620b45820edc1c56390aa39850e51001f29ee",
+      "figure_status": "pending"
     },
     {
       "id": "Ma_AceTone_Bridging_Words_and_Colors_for_Conditional_Image_Grading_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/acetone/README.md",
       "status": "pending",
-      "baseline_sha256": "b612295d2621d56453772d5d6ca3f156f9aee94a60db310a7748ba0372e65de1"
+      "baseline_sha256": "b612295d2621d56453772d5d6ca3f156f9aee94a60db310a7748ba0372e65de1",
+      "figure_status": "pending"
     },
     {
       "id": "Magne_NitroGen_An_Open_Foundation_Model_for_Generalist_Gaming_Agents_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/nitrogen/README.md",
       "status": "pending",
-      "baseline_sha256": "6540c478fcba4ad2e6a91de0141e473b8c7e6d211a8fd7f4fcefb4842753cadf"
+      "baseline_sha256": "6540c478fcba4ad2e6a91de0141e473b8c7e6d211a8fd7f4fcefb4842753cadf",
+      "figure_status": "pending"
     },
     {
       "id": "Mazur_4D_Primitive-Mache_Glueing_Primitives_for_Persistent_4D_Scene_Reconstruction_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/4dpm/README.md",
       "status": "pending",
-      "baseline_sha256": "1d84173b54294b2d2db0e0f7b6ea0b0497bc7fdf86a08c6ea56d6f295a7a82a3"
+      "baseline_sha256": "1d84173b54294b2d2db0e0f7b6ea0b0497bc7fdf86a08c6ea56d6f295a7a82a3",
+      "figure_status": "pending"
     },
     {
       "id": "Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/et3/README.md",
       "status": "pending",
-      "baseline_sha256": "833d9e43a15f32b415732cac47c49bc0648ae3b15919a77c5556d2b553c54266"
+      "baseline_sha256": "833d9e43a15f32b415732cac47c49bc0648ae3b15919a77c5556d2b553c54266",
+      "figure_status": "pending"
     },
     {
       "id": "Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/arcache/README.md",
       "status": "pending",
-      "baseline_sha256": "7595cbaaaa908546086e5e8c6692c69304810aed903f53ec1d00dfa42cb59051"
+      "baseline_sha256": "7595cbaaaa908546086e5e8c6692c69304810aed903f53ec1d00dfa42cb59051",
+      "figure_status": "pending"
     },
     {
       "id": "Noda_3D_Gaussian_Splatting_with_Self-Constrained_Priors_for_High_Fidelity_Surface_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/gs-self-constrained-priors/README.md",
       "status": "pending",
-      "baseline_sha256": "dcb5c66d6fd87fbe894d343882ec027910cecca3ed3c718be1f60ff0e626d4e1"
+      "baseline_sha256": "dcb5c66d6fd87fbe894d343882ec027910cecca3ed3c718be1f60ff0e626d4e1",
+      "figure_status": "pending"
     },
     {
       "id": "Ogunleye_3D-VCD_Hallucination_Mitigation_in_3D-LLM_Embodied_Agents_through_Visual_Contrastive_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/3d-vcd/README.md",
       "status": "pending",
-      "baseline_sha256": "7208083249132a8a0b3eb8f670b98ec28fd06409a70e80f9a857e127784fb640"
+      "baseline_sha256": "7208083249132a8a0b3eb8f670b98ec28fd06409a70e80f9a857e127784fb640",
+      "figure_status": "pending"
     },
     {
       "id": "Parelli_3D-LATTE_Latent_Space_3D_Editing_from_Textual_Instructions_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/3d-latte/README.md",
       "status": "pending",
-      "baseline_sha256": "b82aa868d57e35212657a3718c9ade4781840b1cbee2491dffc6f8e07efbd93d"
+      "baseline_sha256": "b82aa868d57e35212657a3718c9ade4781840b1cbee2491dffc6f8e07efbd93d",
+      "figure_status": "pending"
     },
     {
       "id": "Peng_ActAvatar_Temporally-Aware_Precise_Action_Control_for_Talking_Avatars_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/actavatar/README.md",
       "status": "pending",
-      "baseline_sha256": "30532b1f84d33a72686612e9b0dca67ddac3d6b2dfb9d0d8d99a401428d1c63f"
+      "baseline_sha256": "30532b1f84d33a72686612e9b0dca67ddac3d6b2dfb9d0d8d99a401428d1c63f",
+      "figure_status": "pending"
     },
     {
       "id": "Q._Act2See_Emergent_Active_Visual_Perception_for_Video_Reasoning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/act2see/README.md",
       "status": "pending",
-      "baseline_sha256": "7e364f8732d511841e184cc25d3eca0bd77f30d37af92103575a38577e675d56"
+      "baseline_sha256": "7e364f8732d511841e184cc25d3eca0bd77f30d37af92103575a38577e675d56",
+      "figure_status": "pending"
     },
     {
       "id": "Qi_A_Difference-in-Difference_Approach_to_Detecting_AI-Generated_Images_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/did-detection/README.md",
       "status": "pending",
-      "baseline_sha256": "76a3be81f44daf06f4f76cb43b7d27b3c43992ecaacab1405555a31180d4fd8d"
+      "baseline_sha256": "76a3be81f44daf06f4f76cb43b7d27b3c43992ecaacab1405555a31180d4fd8d",
+      "figure_status": "pending"
     },
     {
       "id": "Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/t2ldm/README.md",
       "status": "pending",
-      "baseline_sha256": "551d660db4259f2a7292aa624b062c6a1d68618b1be1a3f86d92d6b790f2e50f"
+      "baseline_sha256": "551d660db4259f2a7292aa624b062c6a1d68618b1be1a3f86d92d6b790f2e50f",
+      "figure_status": "pending"
     },
     {
       "id": "Sabathier_ActionMesh_Animated_3D_Mesh_Generation_with_Temporal_3D_Diffusion_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/actionmesh/README.md",
       "status": "pending",
-      "baseline_sha256": "3ed0012a91880bd3392f70d411b0a5d80d9cb14d92791551c558005747750616"
+      "baseline_sha256": "3ed0012a91880bd3392f70d411b0a5d80d9cb14d92791551c558005747750616",
+      "figure_status": "pending"
     },
     {
       "id": "Saha_3D_Space_as_a_Scratchpad_for_Editable_Text-to-Image_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/3d-scratchpad/README.md",
       "status": "pending",
-      "baseline_sha256": "5b745b9f6678255aceae09ea26ddbb74fb3bc1bea7e40947777f220eb16f2204"
+      "baseline_sha256": "5b745b9f6678255aceae09ea26ddbb74fb3bc1bea7e40947777f220eb16f2204",
+      "figure_status": "pending"
     },
     {
       "id": "Saluja_BackSplit_The_Importance_of_Sub-dividing_the_Background_in_Biomedical_Lesion_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/backsplit/README.md",
       "status": "pending",
-      "baseline_sha256": "1fb4c029a29cc9efba7fb2187b9885797c7f9455f93452829a962c85c3c4fb15"
+      "baseline_sha256": "1fb4c029a29cc9efba7fb2187b9885797c7f9455f93452829a962c85c3c4fb15",
+      "figure_status": "pending"
     },
     {
       "id": "Shen_AD-GBC_Anisotropic_Granular-Ball_Skip-Connection_Refiner_for_UNet-Based_Medical_Image_Segmentation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/ad-gbc/README.md",
       "status": "pending",
-      "baseline_sha256": "51117ceb1f8c19ee8f0d6bf621b16bf8f7cc5c2357afc39c6b2c9e4522786fa8"
+      "baseline_sha256": "51117ceb1f8c19ee8f0d6bf621b16bf8f7cc5c2357afc39c6b2c9e4522786fa8",
+      "figure_status": "pending"
     },
     {
       "id": "Shen_A_Geometric_Algebra-Informed_3DGS_Framework_for_Wireless_Channel_Prediction_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/gai-gs/README.md",
       "status": "pending",
-      "baseline_sha256": "97927ee12aef22951de427523120920308903848125ec11bc67397676d0e4ee1"
+      "baseline_sha256": "97927ee12aef22951de427523120920308903848125ec11bc67397676d0e4ee1",
+      "figure_status": "pending"
     },
     {
       "id": "Shen_A_Unified_Framework_for_Knowledge_Transfer_in_Bidirectional_Model_Scaling_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/bot-model-scaling/README.md",
       "status": "pending",
-      "baseline_sha256": "892a82f0a74b2e320f1bb0e5f3344dd989dd47bfde898cfc446cc73369f64465"
+      "baseline_sha256": "892a82f0a74b2e320f1bb0e5f3344dd989dd47bfde898cfc446cc73369f64465",
+      "figure_status": "pending"
     },
     {
       "id": "Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/sr-video-counting/README.md",
       "status": "pending",
-      "baseline_sha256": "243c1f098e13161520399062c405296a613a887f640e43a2f3f50ad8791636d9"
+      "baseline_sha256": "243c1f098e13161520399062c405296a613a887f640e43a2f3f50ad8791636d9",
+      "figure_status": "pending"
     },
     {
       "id": "Stalder_A_Combination_of_Noise_and_Bilateral_Filters_Achieve_Supralinear_and_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/noise-bilateral-robustness/README.md",
       "status": "pending",
-      "baseline_sha256": "cd567c2c8e9ef3ca3afe6ab723202175f0c5a549f815a215169998e678f45581"
+      "baseline_sha256": "cd567c2c8e9ef3ca3afe6ab723202175f0c5a549f815a215169998e678f45581",
+      "figure_status": "pending"
     },
     {
       "id": "Tan_Action-Sketcher_From_Reasoning_to_Action_via_Visual_Sketches_for_Robotic_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/action-sketcher/README.md",
       "status": "pending",
-      "baseline_sha256": "eb5adee22ee4c88971346c00ed0c5ca380765ef611e1e8dc7e771aee0c0a3a0f"
+      "baseline_sha256": "eb5adee22ee4c88971346c00ed0c5ca380765ef611e1e8dc7e771aee0c0a3a0f",
+      "figure_status": "pending"
     },
     {
       "id": "Tan_AdaCluster_Adaptive_Query-Key_Clustering_for_Sparse_Attention_in_Video_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/adacluster/README.md",
       "status": "pending",
-      "baseline_sha256": "393709cdca3b7b790c62ac2348b493c96e4eb7bfa525a9409d7d25d6332e5d84"
+      "baseline_sha256": "393709cdca3b7b790c62ac2348b493c96e4eb7bfa525a9409d7d25d6332e5d84",
+      "figure_status": "pending"
     },
     {
       "id": "Tenison_AdaBet_Gradient-free_Layer_Selection_for_Efficient_Training_of_Deep_Neural_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/adabet/README.md",
       "status": "pending",
-      "baseline_sha256": "d5686d5f4950310a62354a45260561d2b05b7c16535dcbc4b5afe6bd7767c0de"
+      "baseline_sha256": "d5686d5f4950310a62354a45260561d2b05b7c16535dcbc4b5afe6bd7767c0de",
+      "figure_status": "pending"
     },
     {
       "id": "Truong_phi-DPO_Fairness_Direct_Preference_Optimization_Approach_to_Continual_Learning_in_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/phi-dpo/README.md",
       "status": "pending",
-      "baseline_sha256": "27767fe388b3b4504441aeb04cc65c92d9a0dee3703c11fe4f9104f39f50945f"
+      "baseline_sha256": "27767fe388b3b4504441aeb04cc65c92d9a0dee3703c11fe4f9104f39f50945f",
+      "figure_status": "pending"
     },
     {
       "id": "Wang_3D-Aware_Multi-Task_Learning_with_Cross-View_Correlations_for_Dense_Scene_Understanding_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/crossview-3d-mtl/README.md",
       "status": "pending",
-      "baseline_sha256": "583566245c981a325cc92f9b359cae797c282e40e60c3ebca8ad639f4f4dec4d"
+      "baseline_sha256": "583566245c981a325cc92f9b359cae797c282e40e60c3ebca8ad639f4f4dec4d",
+      "figure_status": "pending"
     },
     {
       "id": "Wang_A_Supervised_Multi-task_Framework_for_Joint_cryo-ET_Restoration_Enabled_by_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/cryoderec/README.md",
       "status": "pending",
-      "baseline_sha256": "c05a895242644b4efa13cf1c1b893e4cf54aae411602a8cd74b6d2470d8ff0a9"
+      "baseline_sha256": "c05a895242644b4efa13cf1c1b893e4cf54aae411602a8cd74b6d2470d8ff0a9",
+      "figure_status": "pending"
     },
     {
       "id": "Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/stc-streaming-video/README.md",
       "status": "pending",
-      "baseline_sha256": "ef3000a00ddc43038084ee7ac09e0d9155e1f280984d03375e91a91b11d2f735"
+      "baseline_sha256": "ef3000a00ddc43038084ee7ac09e0d9155e1f280984d03375e91a91b11d2f735",
+      "figure_status": "pending"
     },
     {
       "id": "Wu_4DSurf_High-Fidelity_Dynamic_Scene_Surface_Reconstruction_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/4dsurf/README.md",
       "status": "pending",
-      "baseline_sha256": "8901e145889fcfa245e9b34551cd84c7874f14193e8ee368f5f73ddf90e21bcb"
+      "baseline_sha256": "8901e145889fcfa245e9b34551cd84c7874f14193e8ee368f5f73ddf90e21bcb",
+      "figure_status": "pending"
     },
     {
       "id": "Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/native-compact-3d/README.md",
       "status": "pending",
-      "baseline_sha256": "bc330bf38b85d078735aca32e7ebe704a116618b92faf1bf12154f0aaef1e9e2"
+      "baseline_sha256": "bc330bf38b85d078735aca32e7ebe704a116618b92faf1bf12154f0aaef1e9e2",
+      "figure_status": "pending"
     },
     {
       "id": "Xiao_3DrawAgent_Teaching_LLM_to_Draw_in_3D_with_Early_Contrastive_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/3drawagent/README.md",
       "status": "pending",
-      "baseline_sha256": "8662758de06cebf628c73b309ae7f46a3725947122942b67f56408fde0da7961"
+      "baseline_sha256": "8662758de06cebf628c73b309ae7f46a3725947122942b67f56408fde0da7961",
+      "figure_status": "pending"
     },
     {
       "id": "Xiaokaiti_240FPS_Stereo_Vision_from_Monocular_Mixed_Spikes_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/240fps-stereo/README.md",
       "status": "pending",
-      "baseline_sha256": "831c81e4485a96808b6015330bc64757822a4457e87bcf1f184b5e02b2ca31d8"
+      "baseline_sha256": "831c81e4485a96808b6015330bc64757822a4457e87bcf1f184b5e02b2ca31d8",
+      "figure_status": "pending"
     },
     {
       "id": "Xu_ACE-Merging_Data-Free_Model_Merging_with_Adaptive_Covariance_Estimation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/ace-merging/README.md",
       "status": "pending",
-      "baseline_sha256": "9435e81c0baaee33bce9be7650e5efd46ce3c25388fc93ab9532e936b4673dd9"
+      "baseline_sha256": "9435e81c0baaee33bce9be7650e5efd46ce3c25388fc93ab9532e936b4673dd9",
+      "figure_status": "pending"
     },
     {
       "id": "Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/a4vl/README.md",
       "status": "pending",
-      "baseline_sha256": "369d8d01abb8374ec85d7254159a81386e4a2286465d7dfdf9a701a9d564b018"
+      "baseline_sha256": "369d8d01abb8374ec85d7254159a81386e4a2286465d7dfdf9a701a9d564b018",
+      "figure_status": "pending"
     },
     {
       "id": "Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/gap-bimanual/README.md",
       "status": "pending",
-      "baseline_sha256": "ef6233349cfbaefb1082629b738a09b4b3b665e4c4b502883723cd37fbd8e112"
+      "baseline_sha256": "ef6233349cfbaefb1082629b738a09b4b3b665e4c4b502883723cd37fbd8e112",
+      "figure_status": "pending"
     },
     {
       "id": "Yamada_3D_sans_3D_Scans_Scalable_Pre-training_from_Video-Generated_Point_Clouds_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/lam3c-roomtours/README.md",
       "status": "pending",
-      "baseline_sha256": "65ee0fd67f2a84c674af15945c49b00e40cd8f8c592c4df3a308ed68dba60a16"
+      "baseline_sha256": "65ee0fd67f2a84c674af15945c49b00e40cd8f8c592c4df3a308ed68dba60a16",
+      "figure_status": "pending"
     },
     {
       "id": "Yang_4D-RGPT_Toward_Region-level_4D_Understanding_via_Perceptual_Distillation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/4d-rgpt/README.md",
       "status": "pending",
-      "baseline_sha256": "8021e4a352b947b0b00c84f84a849892527e06a534d9ae3802ef86f4aa4b32f7"
+      "baseline_sha256": "8021e4a352b947b0b00c84f84a849892527e06a534d9ae3802ef86f4aa4b32f7",
+      "figure_status": "pending"
     },
     {
       "id": "Yin_3D-Fixer_Coarse-to-Fine_In-place_Completion_for_3D_Scenes_from_a_Single_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/3d-fixer/README.md",
       "status": "pending",
-      "baseline_sha256": "95268e8753e045d60f424a88986d137e47e57324f918c9183fbb67a17c2bccea"
+      "baseline_sha256": "95268e8753e045d60f424a88986d137e47e57324f918c9183fbb67a17c2bccea",
+      "figure_status": "pending"
     },
     {
       "id": "Yu_A_Closer_Look_at_Cross-Domain_Few-Shot_Object_Detection_Fine-Tuning_Matters_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/segmentation/cross-domain-fsod/README.md",
       "status": "pending",
-      "baseline_sha256": "e4c7a21121aad192628a240f8f536bdc2fcb564482d45ae6fab3019b7ccf186b"
+      "baseline_sha256": "e4c7a21121aad192628a240f8f536bdc2fcb564482d45ae6fab3019b7ccf186b",
+      "figure_status": "pending"
     },
     {
       "id": "Zhang_3D-IDE_3D_Implicit_Depth_Emergent_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/3d-ide/README.md",
       "status": "pending",
-      "baseline_sha256": "24d9f4d8815ed2e05fcf3fe43d59eb1505d8bb866ae57786b7ef175f2d55590a"
+      "baseline_sha256": "24d9f4d8815ed2e05fcf3fe43d59eb1505d8bb866ae57786b7ef175f2d55590a",
+      "figure_status": "pending"
     },
     {
       "id": "Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/tanl/README.md",
       "status": "pending",
-      "baseline_sha256": "f411c17dc456a6d496c88a94ac8a5304a0ceafcee4f660ea9dd41a067f00ad08"
+      "baseline_sha256": "f411c17dc456a6d496c88a94ac8a5304a0ceafcee4f660ea9dd41a067f00ad08",
+      "figure_status": "pending"
     },
     {
       "id": "Zhang_Active_Perceptual_Inference_A_Corticothalamic-Inspired_Dynamic_Nested_Recurrent_Network_for_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/dnrnet/README.md",
       "status": "pending",
-      "baseline_sha256": "382e62e37ab65152617a5c18e8440f14c6dfe107bc2dfdba8e35b7d184b41ffd"
+      "baseline_sha256": "382e62e37ab65152617a5c18e8440f14c6dfe107bc2dfdba8e35b7d184b41ffd",
+      "figure_status": "pending"
     },
     {
       "id": "Zhang_Annotation-Efficient_Coreset_Selection_for_Context-dependent_Segmentation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/segmentation/costset/README.md",
       "status": "pending",
-      "baseline_sha256": "51e2be65d37fbb1ccbd0f3992c55d2b6bdbe97a4d97cb6c27bd1de4da61918b9"
+      "baseline_sha256": "51e2be65d37fbb1ccbd0f3992c55d2b6bdbe97a4d97cb6c27bd1de4da61918b9",
+      "figure_status": "pending"
     },
     {
       "id": "Zhang_Efficiently_Reconstructing_Dynamic_Scenes_One_D4RT_at_a_Time_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/d4rt/README.md",
       "status": "pending",
-      "baseline_sha256": "3e03175fc36e3e4f6c8102f2f3bbf502caf419d1883a3b3ec262fed58cda659c"
+      "baseline_sha256": "3e03175fc36e3e4f6c8102f2f3bbf502caf419d1883a3b3ec262fed58cda659c",
+      "figure_status": "pending"
     },
     {
       "id": "Zheng_2ndMatch_Finetuning_Pruned_Diffusion_Models_via_Second-Order_Jacobian_Matching_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/2ndmatch/README.md",
       "status": "pending",
-      "baseline_sha256": "8c8c89043fbe45ede473ea7acb06eb34569e35ebe8421622d752babfdf509f7b"
+      "baseline_sha256": "8c8c89043fbe45ede473ea7acb06eb34569e35ebe8421622d752babfdf509f7b",
+      "figure_status": "pending"
     },
     {
       "id": "Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/acot-vla/README.md",
       "status": "pending",
-      "baseline_sha256": "635ee8b158883137995760cd36249bf8602d9c606556fba3b506e70e31da13e4"
+      "baseline_sha256": "635ee8b158883137995760cd36249bf8602d9c606556fba3b506e70e31da13e4",
+      "figure_status": "pending"
     },
     {
       "id": "Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/adaiat/README.md",
       "status": "pending",
-      "baseline_sha256": "7599e68624c026a98d6e9ce37a283a4239e2501009d39da27278f3f0813d5fe5"
+      "baseline_sha256": "7599e68624c026a98d6e9ce37a283a4239e2501009d39da27278f3f0813d5fe5",
+      "figure_status": "pending"
     },
     {
       "id": "Zhou_4C4D_4_Camera_4D_Gaussian_Splatting_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/4c4d/README.md",
       "status": "pending",
-      "baseline_sha256": "fbc403a8060a83d663811409f50cf0bc3da7ea95aed8aac90893541a61d1bea7"
+      "baseline_sha256": "fbc403a8060a83d663811409f50cf0bc3da7ea95aed8aac90893541a61d1bea7",
+      "figure_status": "pending"
     },
     {
       "id": "Zhu_A_Cross-view_Fusion_Framework_for_Robust_6-DoF_Grasp_Pose_Estimation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/cross-view-grasp/README.md",
       "status": "pending",
-      "baseline_sha256": "44e1832d0a17d4e5c05f027a89ffa0255c46a2cb332968704624dc2564e6bf8c"
+      "baseline_sha256": "44e1832d0a17d4e5c05f027a89ffa0255c46a2cb332968704624dc2564e6bf8c",
+      "figure_status": "pending"
     },
     {
       "id": "Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/bayesmm/README.md",
       "status": "pending",
-      "baseline_sha256": "bce1c1f52d2bff3411992f60d9c308b0ac8a8e3af01c91f8aac50887ea09f623"
+      "baseline_sha256": "bce1c1f52d2bff3411992f60d9c308b0ac8a8e3af01c91f8aac50887ea09f623",
+      "figure_status": "pending"
     }
-  ]
+  ],
+  "completion_rule": "item.status tracks method text; item.figure_status tracks figure rework; entire paper complete only when both are completed"
 }

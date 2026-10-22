@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-2026-10-23返工检查点：详细方法已完成4/106（TokenGS、AdaDexTrack、ActivityForensics/TADiff、AdaPrior），余102篇待返工；暂停新增。下一篇PCE-LiNGAM（A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems）。原reviewed仅保留阅读历史。
+2026-10-23联合返工检查点：正文详细版7/106，配图详细版7/106，二者均通过自检7/106；余99篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/multimodal/clip-irm/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
 
 
 更新：2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。

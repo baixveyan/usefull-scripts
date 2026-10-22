@@ -917,5 +917,139 @@
     "checked_on": "2026-10-22",
     "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
     "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "tokengs-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens",
+    "authors": [
+      "Jiawei Ren",
+      "Michal Jan Tyszkiewicz",
+      "Jiahui Huang",
+      "Zan Gojcic"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Ren_TokenGS_Decoupling_3D_Gaussian_Prediction_from_Pixels_with_Learnable_Tokens_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ren_TokenGS_Decoupling_3D_Gaussian_Prediction_from_Pixels_with_Learnable_Tokens_CVPR_2026_paper.pdf",
+    "pdf_sha256": "681029eda11f118e065bfdac2fcb88615938aabc14fabd1984558417a8be4772",
+    "checked_on": "2026-10-23",
+    "source_location": "§3、Fig.2/4，PDF第3–5页。",
+    "modification": "Independent SVG illustration of the method; explanatory examples explicitly separated from reported measurements",
+    "rights": "Original site artwork; paper methods and scientific claims attributed to the original authors",
+    "validation": "Browser full-page visual inspection; overlapping labels and disconnected arrows corrected"
+  },
+  {
+    "file": "adadextrack-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking",
+    "authors": [
+      "Jianibieke Adalibieke",
+      "Qianwei Han",
+      "Xueyi Liu",
+      "Yuzhe Qin",
+      "Li Yi"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.pdf",
+    "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
+    "checked_on": "2026-10-23",
+    "source_location": "§3、Fig.2，PDF第3–5页。",
+    "modification": "Independent SVG illustration of the method; explanatory examples explicitly separated from reported measurements",
+    "rights": "Original site artwork; paper methods and scientific claims attributed to the original authors",
+    "validation": "Browser full-page visual inspection; overlapping labels and disconnected arrows corrected"
+  },
+  {
+    "file": "tadiff-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos",
+    "authors": [
+      "Peijun Bao",
+      "Anwei Luo",
+      "Gang Pan",
+      "Alex C. Kot",
+      "Xudong Jiang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper.pdf",
+    "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
+    "checked_on": "2026-10-23",
+    "source_location": "§3.3、Fig.4、式2–4，PDF第4–6页。",
+    "modification": "Independent SVG illustration of the method; explanatory examples explicitly separated from reported measurements",
+    "rights": "Original site artwork; paper methods and scientific claims attributed to the original authors",
+    "validation": "Browser full-page visual inspection; overlapping labels and disconnected arrows corrected"
+  },
+  {
+    "file": "adaprior-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning",
+    "authors": [
+      "S Divakar Bhat",
+      "Amit Popat More",
+      "Mudit Soni",
+      "Bhuvan Aggarwal"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper.pdf",
+    "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
+    "checked_on": "2026-10-23",
+    "source_location": "§3、Fig.2、式4/6/7/9，PDF第2–4页。",
+    "modification": "Independent SVG illustration of the method; explanatory examples explicitly separated from reported measurements",
+    "rights": "Original site artwork; paper methods and scientific claims attributed to the original authors",
+    "validation": "Browser full-page visual inspection; overlapping labels and disconnected arrows corrected"
+  },
+  {
+    "file": "pce-lingam-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems",
+    "authors": [
+      "Liang Cao"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper.pdf",
+    "pdf_sha256": "36a71b21872a2e07b429dd46a809804076f12c163f650b62c9a2e62015cf9a99",
+    "checked_on": "2026-10-23",
+    "source_location": "§2, Algorithm 1, equations 1–21; PDF pages 2–5",
+    "modification": "Independent SVG method illustration; algebraic examples are not reported measurements",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; source method and examples checked"
+  },
+  {
+    "file": "pl-stitch-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking",
+    "authors": [
+      "Chengan Che",
+      "Chao Wang",
+      "Xinyue Chen",
+      "Sophia Tsoka",
+      "Luis C. Garcia-Peraza-Herrera"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.pdf",
+    "pdf_sha256": "6bd0b682d6edca2761105ea95777e3dba528df424c23f91ecbfbba64561ce09a",
+    "checked_on": "2026-10-23",
+    "source_location": "§3, Figures 3–4, Algorithm 1, equations 1–5; PDF pages 3–6",
+    "modification": "Independent SVG method illustration; algebraic examples are not reported measurements",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; source method and examples checked"
+  },
+  {
+    "file": "3m-ti-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "3M-TI: High-Quality Mobile Thermal Imaging via Calibration-free Multi-Camera Cross-Modal Diffusion",
+    "authors": [
+      "Minchong Chen",
+      "Xiaoyun Yuan",
+      "Junzhe Wan",
+      "Jianing Zhang",
+      "Jun Zhang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_3M-TI_High-Quality_Mobile_Thermal_Imaging_via_Calibration-free_Multi-Camera_Cross-Modal_Diffusion_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_3M-TI_High-Quality_Mobile_Thermal_Imaging_via_Calibration-free_Multi-Camera_Cross-Modal_Diffusion_CVPR_2026_paper.pdf",
+    "pdf_sha256": "3ed2977f6c4a1f2035b1ecd1368f2d6dd1cc0ffb6793a5828744cdbb777e621e",
+    "source_location": "§3, Figure 2, equation 1; PDF pages 3–5",
+    "checked_on": "2026-10-23",
+    "modification": "Independent tensor-layout and attention-block diagram; colored blocks describe permitted connections, not measured attention weights",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Full-page browser visual inspection; tensor layout and four attention blocks checked"
   }
 ]
