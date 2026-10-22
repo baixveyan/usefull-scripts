@@ -1176,5 +1176,49 @@
     "modification": "Independent two-stage gradient and dose-dataflow diagram; domain-score example is illustrative, not reported experimental predictions",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Browser full-page inspection and text-box padding corrected"
+  },
+  {
+    "file": "4dp-qa-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "4DP-QA: Scalable QA for 4D Perception in Vision Language Models",
+    "authors": [
+      "Seokju Cho",
+      "Abhishek Badki",
+      "Hang Su",
+      "Jindong Jiang",
+      "Ziyao Zeng",
+      "Seungryong Kim",
+      "Sifei Liu",
+      "Orazio Gallo"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper.pdf",
+    "pdf_sha256": "4881e1611ce7f28fb1484ff4cccfbab7a1a036a49212154fdab36096360f3463",
+    "source_location": "§3–4, Figures 2–3, equations 1–2; PDF pages 2–5",
+    "checked_on": "2026-10-23",
+    "modification": "Independent fixed-reference projection and QA-generation diagram; movements and pixel values are illustrative",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; projection signs and training/benchmark boundaries checked"
+  },
+  {
+    "file": "rdd-detection-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images",
+    "authors": [
+      "Sungik Choi",
+      "Hankook Lee",
+      "Jaehoon Lee",
+      "Robin Kim",
+      "Stanley Jungkyu Choi",
+      "Moontae Lee"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper.pdf",
+    "pdf_sha256": "86a8b60e9fb053b0a8c578451f1581d3f178d184c3f45930f6c4678385cb171c",
+    "source_location": "§3, Figure 1, equations 1–7; PDF pages 2–5",
+    "checked_on": "2026-10-23",
+    "modification": "Independent four-term subtraction and rotation-order diagram; arithmetic numbers are not measured model outputs; equation 6 sign ambiguity preserved",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection and four-term signs checked"
   }
 ]

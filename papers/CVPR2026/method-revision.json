@@ -162,16 +162,28 @@
     {
       "id": "Cho_4DP-QA_Scalable_QA_for_4D_Perception_in_Vision_Language_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/4dp-qa/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "1da5f215c8da15b5dcd4dc22c51cbf65c0894c1bf9396af9513ca8eae9ec4803",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "4881e1611ce7f28fb1484ff4cccfbab7a1a036a49212154fdab36096360f3463",
+      "validation": "method-and-training-body-reread;projection-and-pipeline-pages-visually-checked;coordinate-and-benchmark-scope-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/4dp-qa-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Choi_A_Debiased_Reconstruction-based_Framework_for_Training-Free_Detection_of_AI-Generated_Images_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/rdd-detection/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "1147f58ff8d1c2c177c26efcb73b9550e8f4f28683bcadc88e8a8c392b0bdaf2",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "86a8b60e9fb053b0a8c578451f1581d3f178d184c3f45930f6c4678385cb171c",
+      "validation": "method-and-experiment-body-reread;image-and-latent-formulas-visually-checked;four-term-arithmetic-and-operation-order-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/rdd-detection-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Dabhi_2D-LFM_Lifting_Foundation_Model_without_3D_Supervision_CVPR_2026_paper",

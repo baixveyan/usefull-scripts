@@ -32,3 +32,5 @@
 2026-10-23第二批：PCE-LiNGAM、PL-Stitch、3M-TI、CLIP-IRM、AdapAction完成正文与原创详图联合自检，累计9/106。原文Fig.4（AdapAction）标注纠正为防御评估结果图。
 
 2026-10-23续批：SAM 3D正文与详图验收，累计10/106。解释形状/布局mask、stop-gradient与人工选择循环；原生64³网格数量不当作主干token数量。
+
+2026-10-23第三批：SAM 3D、μMatting、DevDet、4DP-QA与RDD完成方法及详图返工，累计14/106。时序坐标、梯度、几何投影、四项分数都按原文逐项核对；示例非测量。
