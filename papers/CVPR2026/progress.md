@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-更新：2026-10-22。累计105篇reviewed、3937篇queued，无reading/draft/blocked。100篇阶段目标已完成并额外完成5篇；CVPR2026全量任务继续。31张原创SVG、42张原文局部图已检查。固定today100.json及queue101-105.json已全部完成；下一批从manifest首个queued开始，最多5篇。下方旧批次数字保留为历史记录。
+更新：2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。
 
 ## 清单与已完成
 
@@ -15,7 +15,7 @@
 ## 恢复顺序
 
 1. 以 manifest 的状态为准，不凭本页计数覆盖清单。先完成 `reading` / `draft` 项；再开始最多5篇的下一批。
-2. 优先沿固定today100.json队列的q91起续做，每批最多5篇；不要重新按当前queued前65篇选择，以免目标队列漂移。配图按[图示规范](../../site/FIGURES.md)制作。
+2. 固定today100.json与queue101-105.json均已完成。优先处理manifest中reading/draft，再从首个queued续做，每批最多5篇。配图按[图示规范](../../site/FIGURES.md)制作。
 3. 从官方论文页读取原文；必要时渲染公式和实验表，记录适用设置、指标方向和失败项。补充材料未读则明确写出。
 4. 写完并自检后才设 reviewed，补充 topic、note_path、checked_on、pdf_sha256、validation；生成 index.md，并同步通用目录的验证说明。
 5. 每批结束检查额度，保存当前论文和下一步；发生运行/用量限制时停止，后续自动化续做。额度不可读取时不虚构 token 余额。
@@ -83,3 +83,5 @@ python maintenance/validate_catalog.py
 2026-10-22第三批：q96–100（AdaBet、AdaCluster、AdaDexTrack、AdaIAT、AdapAction）完成正文精读、必要公式/关键表格渲染与5张局部图视觉核对，累计100篇reviewed、3942篇queued，无reading/draft/blocked。100篇阶段目标达成，全量4042篇目标未完成；47篇接收/公开差额仍待核。下一篇：Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper。下一批从manifest首个queued继续，最多5篇。未复现训练或攻击，未调用付费API。
 
 2026-10-22第四批：q101–105（AdaPrior、Adapter Shield、HINGE、DAIG、SR视频计数）完成原文精读、自检与5张方法图视觉核查，累计105篇reviewed、3937篇queued，无reading/draft/blocked。保留EMA定理条件、加解密安全边界、患者/切片协议及印刷公式歧义。未复现、未调用付费API。下一篇：Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper；下一批从manifest首个queued最多5篇，建议后续缓存q106起。固定queue101-105已全部完成。
+
+2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。

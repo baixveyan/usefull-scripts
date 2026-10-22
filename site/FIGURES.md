@@ -24,3 +24,5 @@
 2026-10-22第三批：q96–100新增5张已逐张检查的原文局部图，累计31张原创SVG、37张署名局部图；AdaCluster引用聚类过程，AdapAction引用防御结果图，并在讲解中解释使用范围。
 
 2026-10-22第四批：q101–105新增5张已逐张核对的原文方法图，累计31张原创SVG、42张署名局部图，所有新增图均保存作者、原页码、PDF SHA-256与权利说明。
+
+2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。

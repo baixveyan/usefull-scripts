@@ -895,5 +895,27 @@
     "checked_on": "2026-10-22",
     "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
     "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
+  },
+  {
+    "file": "bayesmm-original-fig3.png",
+    "kind": "paper-figure-excerpt",
+    "title": "Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning",
+    "authors": [
+      "Xingyu Zhu",
+      "Liang Yi",
+      "Shuo Wang",
+      "Wenbo Zhu",
+      "Yongliang Wu",
+      "Beier Zhu",
+      "Hanwang Zhang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.pdf",
+    "pdf_page": 4,
+    "figure": 3,
+    "pdf_sha256": "b4c510366726763891512f15e7c3fc119d60e09ccdfecebe8cf34011138858c7",
+    "checked_on": "2026-10-22",
+    "modification": "Figure-only crop rendered with Poppler; captions restated in Chinese beside image; scientific labels and content unchanged",
+    "rights": "Copyright retained by original authors; limited attributed excerpt for commentary; not relicensed as original site artwork"
   }
 ]

@@ -2115,10 +2115,13 @@
       ],
       "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.html",
       "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.pdf",
-      "status": "queued",
-      "topic": "unclassified",
-      "note_path": null,
-      "checked_on": null
+      "status": "reviewed",
+      "topic": "3d-vision",
+      "note_path": "papers/CVPR2026/3d-vision/bayesmm/README.md",
+      "checked_on": "2026-10-22",
+      "source_checked_on": "2026-10-22",
+      "pdf_sha256": "b4c510366726763891512f15e7c3fc119d60e09ccdfecebe8cf34011138858c7",
+      "validation": "original-read-and-self-reviewed;not-reproduced"
     },
     {
       "id": "Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper",
