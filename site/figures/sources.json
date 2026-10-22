@@ -1130,5 +1130,51 @@
     "modification": "Independent architecture, directed attention-mask and human annotation-loop diagram; no invented latent-token count",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Browser full-page visual inspection after correcting column alignment and coarse-shape transfer label"
+  },
+  {
+    "file": "mu-matting-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "$\\alpha$Matte4K & $\\mu$Matting: Dataset and Model for Ultra-Micro Precision Alpha Video Matting",
+    "authors": [
+      "Xinyi Chen",
+      "Hang Dong",
+      "Baowei Jiang",
+      "Shenkun Xu",
+      "Youqi Guan",
+      "Kanle Shi",
+      "Kun Gai",
+      "Haichuan Song"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_alphaMatte4K__muMatting_Dataset_and_Model_for_Ultra-Micro_Precision_Alpha_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_alphaMatte4K__muMatting_Dataset_and_Model_for_Ultra-Micro_Precision_Alpha_CVPR_2026_paper.pdf",
+    "pdf_sha256": "4ec34b24545903405236c5b963423d501131bd716fa179f1d8b8ab4ce6b4542f",
+    "source_location": "§4, Figure 5, equations 1–5; PDF pages 5–6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent sparse-coordinate, gating and temporal-loss diagram; grid and alpha values are illustrative, not model predictions",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection and recheck after shortening overflowing gate title"
+  },
+  {
+    "file": "devdet-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World",
+    "authors": [
+      "Jikang Cheng",
+      "Renye Yan",
+      "Zhiyuan Yan",
+      "Yaozhong Gan",
+      "Xueyi Zhang",
+      "Zhongyuan Wang",
+      "Wei Peng",
+      "Ling Liang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_A_Sanity_Check_for_Multi-In-Domain_Face_Forgery_Detection_in_the_CVPR_2026_paper.pdf",
+    "pdf_sha256": "643a6d710a078cf8e86ccc77149fd1c4dac73c4a1ab23c671214d5802cf042a7",
+    "source_location": "§3–4, Figure 3, equations 1–7; PDF pages 3–5",
+    "checked_on": "2026-10-23",
+    "modification": "Independent two-stage gradient and dose-dataflow diagram; domain-score example is illustrative, not reported experimental predictions",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page inspection and text-box padding corrected"
   }
 ]

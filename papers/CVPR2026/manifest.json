@@ -32,8 +32,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "alphamatte",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Devalapally_oslash_Source_Models_Leak_What_They_Shouldnt_nrightarrow_Unlearning_Zero-Shot_CVPR_2026_paper",
@@ -1140,8 +1142,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q56",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Qu_A_Self-Conditioned_Representation_Guided_Diffusion_Model_for_Realistic_Text-to-LiDAR_Scene_CVPR_2026_paper",

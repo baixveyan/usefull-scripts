@@ -1,6 +1,6 @@
 # CVPR 2026 接续记录
 
-2026-10-23联合返工检查点：正文详细版10/106，配图详细版10/106，二者均通过自检10/106；余96篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/video/mu-matting/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
+2026-10-23联合返工检查点：正文详细版12/106，配图详细版12/106，二者均通过自检12/106；余94篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/multimodal/4dp-qa/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
 
 
 更新：2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。
