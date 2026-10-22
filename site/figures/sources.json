@@ -1051,5 +1051,47 @@
     "modification": "Independent tensor-layout and attention-block diagram; colored blocks describe permitted connections, not measured attention weights",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Full-page browser visual inspection; tensor layout and four attention blocks checked"
+  },
+  {
+    "file": "clip-irm-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Causal Marriage between VLM and IRM from Understanding to Reasoning",
+    "authors": [
+      "Ziliang Chen",
+      "Tianang Xiao",
+      "Jusheng Zhang",
+      "Yongsen Zheng",
+      "Yang Liu",
+      "Zhao-rong Lai",
+      "Liang Lin"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper.pdf",
+    "pdf_sha256": "5f45fddf2204a51eafb47b2f58676a0c03965cad89605ab7aace483e06301562",
+    "source_location": "§3–6, equations 1/3/9–14; PDF pages 3–6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent two-stage diagram with theory conditions and loss-sign algebra example; not a reproduction of measured results",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual check; reward sign ambiguity preserved"
+  },
+  {
+    "file": "adapaction-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents",
+    "authors": [
+      "Baicheng Chen",
+      "Mingda Zhang",
+      "Min Zhang",
+      "Haizhou Li",
+      "Baoyuan Wu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf",
+    "pdf_sha256": "946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0",
+    "source_location": "§3–4, equations 1–8, Figure 4; PDF pages 3–7",
+    "checked_on": "2026-10-23",
+    "modification": "Independent conceptual threat-model and Boolean-metric diagram; harmless preview example is not an experimental sample",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual check; OR/AND distinction and result-figure title corrected"
   }
 ]

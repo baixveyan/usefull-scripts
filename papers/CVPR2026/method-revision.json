@@ -97,16 +97,28 @@
     {
       "id": "Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/clip-irm/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "6ac788eef38ef1fe3875526eab878c3fb28c460c51ce8b6d4814e666ca8ff5ac",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "5f45fddf2204a51eafb47b2f58676a0c03965cad89605ab7aace483e06301562",
+      "validation": "method-body-reread;objective-and-reward-pages-visually-checked;loss-polarity-and-shapes-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/clip-irm-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/adapaction/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "840a9fdb59f1b7b5c6a34258b75f794d31d9ac4dd8729521821dfb68d504fae3",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "946cbc9a6e0ab3161e6e4d7d71a58433eba6b51babe3cdcf58b9f30c3a388cb0",
+      "validation": "method-and-defense-body-reread;defense-formulas-and-result-page-visually-checked;conditional-likelihood-and-boolean-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/adapaction-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper",

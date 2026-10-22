@@ -28,3 +28,5 @@
 2026-10-22晚间续做：BayesMM完成正文阅读、方法图与消融页核对、自检；累计106篇reviewed、3936篇queued，无reading/draft/blocked。31张原创SVG、43张署名原图。下一篇：Yuan_Adaptive_3D_Perception_for_Small_Aerial_Targets_Under_Sparse_Sampling_CVPR_2026_paper；建议缓存q107起。正文推导和点数口径差异已标注，未复现。
 
 2026-10-23：全量106篇联合返工已启动；首4篇新增中文方法详图，逐张浏览器核对。文字/配图/联合完成分别计数，旧图存在不视为本轮完成。新增SVG源码见`make_method_figures.py`，来源与版本登记在sources.json。
+
+2026-10-23第二批：PCE-LiNGAM、PL-Stitch、3M-TI、CLIP-IRM、AdapAction完成正文与原创详图联合自检，累计9/106。原文Fig.4（AdapAction）标注纠正为防御评估结果图。
