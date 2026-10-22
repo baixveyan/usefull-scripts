@@ -188,37 +188,67 @@
     {
       "id": "Dabhi_2D-LFM_Lifting_Foundation_Model_without_3D_Supervision_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/2d-lfm/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "edac65ec0ff9303e00e6aea033f120d6b85e2f58e6c6c69d598202a3090a39c5",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "efe1683f5675e21aaf10912ec89fcab99f63092a22720814417e28ca4625003f",
+      "validation": "method-and-experiment-body-reread;encoding-and-projection-pages-visually-checked;matrix-dimensions-and-flat-solution-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/2d-lfm-method-v2.svg",
+      "figure_validation": "original-svg;source-method-aligned;browser-full-page-visual-check;examples-not-experiments"
     },
     {
       "id": "Devalapally_oslash_Source_Models_Leak_What_They_Shouldnt_nrightarrow_Unlearning_Zero-Shot_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/scada-ul/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "6fe96dc88f0696cf904568cc4079f7300a8b0ed3ed01430376b44d5595286012",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "26e0fcbfee5fac014a3866b14770f6f0d112c381183a7776aeaf38ef2c96da25",
+      "validation": "main-method-and-experiments-reread;algorithm1-page-visually-inspected;soft-label-and-fixed-target-gradient-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/scada-ul-method-v2.svg",
+      "figure_validation": "original-svg;alternating-variable-boundaries-checked;browser-full-page-visual-check;teaching-probabilities-not-experiments"
     },
     {
       "id": "Fang_3D-Aware_Implicit_Motion_Control_for_View-Adaptive_Human_Video_Generation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/3dimo/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "1e164a000d44c910cc8e858986708639127eeb7a00c9602f296621b4022c4d7d",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "0db5368bf2dd8ac4782ed302de502701f579f53e9fe3c6270c9fdc46ca35da8c",
+      "validation": "main-method-experiments-reread;figures2-3-pages-visually-inspected;attention-shapes-and-two-axis-data-count-self-check;flow-example-explicitly-not-author-config;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/3dimo-method-v2.svg",
+      "figure_validation": "original-svg;condition-routes-and-stage-schedule-checked;browser-full-page-visual-check;example-dimensions-not-model-configuration"
     },
     {
       "id": "Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/hinge/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "dea808adf36a8c0f262b19f835a9b225d1598d61972991b1c6c01af79aba2a14",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "4df3bc0d1dd8a5e792610b4a2f8c89126936abba57f86058a7ce9c7efbfc5bf9",
+      "validation": "method-equations-and-experiments-reread;softadaln-page-visually-inspected;four-step-mask-probability-and-calibration-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/hinge-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;fixed-condition-branch-and-card-padding;teaching-vectors-not-biology-results"
     },
     {
       "id": "Feng_Active_Inference_for_Micro-Gesture_Recognition_EFE-Guided_Temporal_Sampling_and_Adaptive_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/uaai-microgestures/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "61c9f1ed55cee255092b1371ac58cb21967a8477add80be8875b9944c8867a13",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "4f23d2434d8b0a9894675f2921a7b692b278abe66ba139110a6e9f9675f87cd1",
+      "validation": "main-method-and-experiments-reread;figure2-and-umix-equations-visually-inspected;entropy-sign-counterexample-and-variance-weight-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/uaai-microgestures-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;EFE-and-weight-ambiguities-retained;teaching-calculations-not-experiments"
     },
     {
       "id": "Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper",

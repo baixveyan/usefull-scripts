@@ -56,8 +56,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "unlearn",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Truong_phi-DPO_Fairness_Direct_Preference_Optimization_Approach_to_Continual_Learning_in_CVPR_2026_paper",
@@ -166,8 +168,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p17",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Zheng_2ndMatch_Finetuning_Pruned_Diffusion_Models_via_Second-Order_Jacobian_Matching_CVPR_2026_paper",
@@ -327,8 +331,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p24",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Wang_3D-Aware_Multi-Task_Learning_with_Cross-View_Correlations_for_Dense_Scene_Understanding_CVPR_2026_paper",
@@ -1884,8 +1890,10 @@
       "pdf_sha256": "4f23d2434d8b0a9894675f2921a7b692b278abe66ba139110a6e9f9675f87cd1",
       "source_checked_on": "2026-10-21",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper",
@@ -2274,8 +2282,10 @@
       "pdf_sha256": "4df3bc0d1dd8a5e792610b4a2f8c89126936abba57f86058a7ce9c7efbfc5bf9",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",
