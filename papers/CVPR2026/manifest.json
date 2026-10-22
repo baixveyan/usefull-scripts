@@ -1942,7 +1942,8 @@
       "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending"
+      "method_revision": "completed",
+      "method_revision_on": "2026-10-23"
     },
     {
       "id": "Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper",
@@ -2045,7 +2046,8 @@
       "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending"
+      "method_revision": "completed",
+      "method_revision_on": "2026-10-23"
     },
     {
       "id": "Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper",
@@ -2108,7 +2110,8 @@
       "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending"
+      "method_revision": "completed",
+      "method_revision_on": "2026-10-23"
     },
     {
       "id": "Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper",

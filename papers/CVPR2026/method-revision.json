@@ -15,20 +15,29 @@
     {
       "id": "Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/adadextrack/README.md",
-      "status": "pending",
-      "baseline_sha256": "0c169c476bd876d1177aa3be42c0d008f5351da2f5060188c3111e5a87332295"
+      "status": "completed",
+      "baseline_sha256": "0c169c476bd876d1177aa3be42c0d008f5351da2f5060188c3111e5a87332295",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "9715d1e0f931a439fad77bf44139e6b810d668a8401eb7d0eb9a12e03ca3f98f",
+      "validation": "method-body-reread;figure-and-formula-checked;dimensions-and-control-flow-self-review;not-reproduced"
     },
     {
       "id": "Bao_ActivityForensics_A_Comprehensive_Benchmark_for_Localizing_Manipulated_Activity_in_Videos_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/activityforensics-tadiff/README.md",
-      "status": "pending",
-      "baseline_sha256": "1f85b2f4b10c3c82bf9015b43cc0135d7ee28d2c679453df3f8f37b894b7a6b8"
+      "status": "completed",
+      "baseline_sha256": "1f85b2f4b10c3c82bf9015b43cc0135d7ee28d2c679453df3f8f37b894b7a6b8",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "883815564464a047404a4f34572e8619f3223b45aa7fb36b447be256a9c005b3",
+      "validation": "method-body-reread;figure-formula-checked;diffusion-and-boundary-flow-self-review;not-reproduced"
     },
     {
       "id": "Bhat_AdaPrior_Bayesian-Inspired_Adaptive_Prior_Correction_for_Long-Tailed_Continual_Learning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/adaprior/README.md",
-      "status": "pending",
-      "baseline_sha256": "5c50cb74f4c711c0ab049c31c8d136e9deba85ed215475c798814d7629b21b17"
+      "status": "completed",
+      "baseline_sha256": "5c50cb74f4c711c0ab049c31c8d136e9deba85ed215475c798814d7629b21b17",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "a36d8aeb91a603323e86af48ce4e6634f21cc23ce2fd1b8634d2f50e1ebdd265",
+      "validation": "method-formulas-reread;bayes-gradient-ema-algebra-self-check;not-reproduced"
     },
     {
       "id": "Cao_A_Polynomial_Chaos_Framework_for_Causal_Discovery_in_Nonlinear_Uncertain_CVPR_2026_paper",
