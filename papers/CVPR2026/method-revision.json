@@ -253,30 +253,54 @@
     {
       "id": "Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/imaging/single-bit-video/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "ac00ca6ce55008afc0fe9fd552b0112da64f257e319f808308650e59a373cb0b",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "c7968704df84818ea8986d5962d25cf8568d9cab5b4244e5c56f519bb758d1ed",
+      "validation": "method-experiments-raw-hardware-discussion-reread;measurement-page-visually-inspected;static-dynamic-constraints-and-threshold-gaps-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/single-bit-video-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;card-padding-fixed;window-and-intensity-examples-not-experiments"
     },
     {
       "id": "Gao_A_Unified_Perspective_on_Adversarial_Membership_Manipulation_in_Vision_Models_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/adversarial-membership-manipulation/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "cce0ad45874632e4a303a01dd729c74792b232db34d2663f44c8ac8e35eb3951",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "3912cb3acd4524f545fd2165e2b677784c0f392606e8bdb3d8740f24d378a27f",
+      "validation": "main-method-and-experiments-reread;local-theorem-and-label-rule-page-visually-inspected;curvature-and-tanh-score-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/membership-audit-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;statistic-directions-and-selected-subsets-separated;hypothetical-scores-not-experiments"
     },
     {
       "id": "Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/nope-sgs/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "3f871785b74f2807e1fdbd4e35a3f03492df9f0a87be441de49e6b45dc599617",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "703d5e69b6c7ffdeab7569b840f6ee6d67c69845aaf6badcd5af0c08dc5faac8",
+      "validation": "main-method-and-experiments-reread;keyframe-and-scene-loss-page-visually-inspected;variance-bias-and-difference-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/nope-sgs-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;formula-overflow-fixed-and-rechecked;probability-examples-not-experiments"
     },
     {
       "id": "Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/ga4dpf/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "0a77c427b45afcf7ab45667b2703b92514ea1d5c5f4c7e051ed6749873bca5db",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "0e40f0648c1f8340aa7e037d2a00811521790930b68e240213a0847b3bec8cd5",
+      "validation": "main-method-and-experiments-reread;theorem-bingham-loss-page-visually-inspected;antipodal-outer-product-and-piecewise-loss-self-check;not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/ga4dpf-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;dimensions-and-fixed-point-conditions-explicit;math-examples-not-experiments"
     },
     {
       "id": "Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper",

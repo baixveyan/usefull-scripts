@@ -235,8 +235,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p20",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Noda_3D_Gaussian_Splatting_with_Self-Constrained_Priors_for_High_Fidelity_Surface_CVPR_2026_paper",
@@ -600,8 +602,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p35",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Mazur_4D_Primitive-Mache_Glueing_Primitives_for_Persistent_4D_Scene_Reconstruction_CVPR_2026_paper",
@@ -771,8 +775,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q42",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper",
@@ -1372,8 +1378,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q65",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper",

@@ -1326,5 +1326,83 @@
     "modification": "Independent module, uncertainty-weight and entropy-sign diagram; probability examples and entropy counterexample are teaching calculations, not model measurements",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Browser full-page visual inspection; tensor broadcast, two weight descriptions and unresolved EFE claim distinguished"
+  },
+  {
+    "file": "single-bit-video-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Bit is All You Need! Efficient Video Capture via Single Bit Imaging",
+    "authors": [
+      "Kanchana Vaishnavi Gandikota",
+      "Michael Moeller",
+      "Andreas Kolb",
+      "Bhaskar Choubey",
+      "Paramanand Chandramouli"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Gandikota_A_Bit_is_All_You_Need_Efficient_Video_Capture_via_CVPR_2026_paper.pdf",
+    "pdf_sha256": "c7968704df84818ea8986d5962d25cf8568d9cab5b4244e5c56f519bb758d1ed",
+    "source_location": "Equations 1–3, sections 3–4; PDF pages 3–6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent static/dynamic inequality and overlapping-window diagram; intensities and window indices are teaching examples, not reconstructed measurements",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; card padding enlarged and rechecked; sensing and reconstruction costs separated"
+  },
+  {
+    "file": "membership-audit-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Unified Perspective on Adversarial Membership Manipulation in Vision Models",
+    "authors": [
+      "Ruize Gao",
+      "Kaiwen Zhou",
+      "Yongqiang Chen",
+      "Feng Liu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Gao_A_Unified_Perspective_on_Adversarial_Membership_Manipulation_in_Vision_Models_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_A_Unified_Perspective_on_Adversarial_Membership_Manipulation_in_Vision_Models_CVPR_2026_paper.pdf",
+    "pdf_sha256": "3912cb3acd4524f545fd2165e2b677784c0f392606e8bdb3d8740f24d378a27f",
+    "source_location": "Definitions 3–5, equations 7–11; PDF pages 4–7",
+    "checked_on": "2026-10-23",
+    "modification": "Independent label-flow and weighted-score table; hypothetical scores and smooth-function counterexample are not image experiments",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; input-gradient units, score sign and conditional population boundaries checked"
+  },
+  {
+    "file": "nope-sgs-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "3D Gaussian Splatting from Unposed Spike Stream",
+    "authors": [
+      "Yijia Guo",
+      "Tong Hu",
+      "Liwen Hu",
+      "Lei Ma",
+      "Tiejun Huang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper.pdf",
+    "pdf_sha256": "703d5e69b6c7ffdeab7569b840f6ee6d67c69845aaf6badcd5af0c08dc5faac8",
+    "source_location": "Figures 2–3, equations 5–18, section 3; PDF pages 3–5",
+    "checked_on": "2026-10-23",
+    "modification": "Independent spatial-statistics and alternating-optimization diagram; keyframe intersection retained; variance and edge examples are teaching calculations",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; long loss formula shortened with symbol key and rechecked; SSIM sign ambiguity retained"
+  },
+  {
+    "file": "ga4dpf-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis",
+    "authors": [
+      "Jiaxun Guo",
+      "Wentao Fan",
+      "Manar Amayri",
+      "Nizar Bouguila"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper.pdf",
+    "pdf_sha256": "0e40f0648c1f8340aa7e037d2a00811521790930b68e240213a0847b3bec8cd5",
+    "source_location": "Figure 2, equations 6–20, section 4; PDF pages 3–6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent lifting, Bingham and invariance-boundary diagram; antipodal quaternion and fixed-point examples are mathematical checks, not model measurements",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; 3D/5D/4D roles, quaternion sign and piecewise objective checked"
   }
 ]
