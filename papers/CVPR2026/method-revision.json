@@ -344,9 +344,15 @@
     {
       "id": "Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/medical/histoselect/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "93977f83f1ff81e12c0ff3fed06c362363b2f4282415d6ae17fa67585ba552d8",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "8b4db1dedb41e0b781d39d5681bb7e3bb945cefb5cd254255412bf5562d8a184",
+      "validation": "PDF sections 3-4 reread; page 6 formulas and STE visually checked; group budgets, KL direction and dimensions explained; numerical examples verified; not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/histoselect-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;article-46-equations-no-errors-no-broken-images-no-overflow"
     },
     {
       "id": "Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper",

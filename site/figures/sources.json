@@ -1476,5 +1476,31 @@
     "modification": "Independent Chinese teaching figure for selection, cached representations and student gradient paths; explicit score-sign ambiguity.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Full-page browser visual inspection; mathematical examples verified; no model reproduction"
+  },
+  {
+    "file": "histoselect-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning",
+    "authors": [
+      "Wentao Huang",
+      "Weimin Lyu",
+      "Peiliang Lou",
+      "Qingqiao Hu",
+      "Xiaoling Hu",
+      "Shahira Abousamra",
+      "Wenchao Han",
+      "Ruifeng Guo",
+      "Jiawei Zhou",
+      "Chao Chen",
+      "Chen Wang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper.pdf",
+    "pdf_sha256": "8b4db1dedb41e0b781d39d5681bb7e3bb945cefb5cd254255412bf5562d8a184",
+    "source_location": "Equations 1-12 and section 3.6; PDF pages 4-6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent Chinese teaching diagram of tissue grouping, per-group budgets, patch ranking and STE/KL roles.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Full-page browser inspection; teaching counts and Bernoulli KL checked; no patient data or model reproduction"
   }
 ]

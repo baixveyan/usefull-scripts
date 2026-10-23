@@ -532,4 +532,24 @@ s+=txt(55,1107,'作者Table 6：预训练评分器2.1h + 训练7.4h = 9.5h；自
 s+=txt(55,1154,'本文索引、向量与损失为教学计算；未训练模型、未生成图像、未下载训练数据。',21,MUT)
 save('d2c','D²C ｜挑选真实图像，再把语义与视觉知识附加给学生','依据Fig.2/4、式5–12与Table 6，PDF3–8；明确离线缓存、训练梯度与公式核对边界。',s,1250)
 
-print('Created twenty-six original method-v2 SVGs')
+
+# HistoSelect: group budgets and patch ranking are different operations.
+s=panel(115,'01  先按组织分组，再让问题决定保留预算',245)
+s+=box(52,179,380,165,'CONCH图像 / 文本空间',['224×224图块 → x_i','专家组织提示 → t_j','最大余弦指定组织类别','patch标签不是像素级真值'],BLUE)+line(432,258,484,258)
+s+=box(494,179,395,165,'组原型 + 问题 → 比例',['g_j = 组内特征平均','[g_j;q] → 两层网络 → sigmoid','r_j是每组比例，不是softmax','均值可能稀释少量特殊结构'],PURPLE)+line(889,258,941,258)
+s+=box(951,179,385,165,'组内分数 → top-k',['[x_i;q] → 两层网络 → s_i','k_j = ceil(r_j N_j)','每组分别按s_i选前k_j','不是独立Bernoulli随机抽样'],GREEN)
+s+=panel(385,'02  教学例：14个图块选出5个；极小比例仍可能留一个',225)
+s+=txt(70,457,'组织组',24,INK,True)+txt(350,457,'图块数 N_j',24,INK,True)+txt(660,457,'比例 r_j',24,INK,True)+txt(1000,457,'保留数 k_j',24,INK,True)
+for y,label,n,r,k,c in [(501,'A',8,'.25',2,BLUE),(544,'B',4,'.50',2,PURPLE),(587,'C',2,'.10',1,GREEN)]:
+ for x,t in [(70,label),(350,str(n)),(660,r),(1000,str(k))]:s+=txt(x,y,t,23,c)
+s+=panel(635,'03  两类梯度：任务通过STE近似，正则直接约束软概率',255)
+s+=box(52,701,585,165,'前向硬选，反向替代梯度',['选中patch → 投影 / LLM → 答案负对数似然','硬top-k与ceil本身不可微','STE反向通过软概率近似传播','两级mask及变长操作仍需核对实现'],BLUE)
+s+=box(697,701,639,165,'组KL + patch KL',['KL(B(π)||B(p))将π拉向p','教学 π=.8、p=.2 → KL≈.8318','先验高时也可能鼓励保留，不是永远压缩','余弦可负；Bernoulli需[0,1]，映射未交代'],ORANGE)
+s+=panel(915,'04  三个不能省略的边界',265)
+s+=txt(55,983,'预算：非空组且r_j>0时，ceil至少保留1个；独立比例并不自动满足全局固定K。',23,INK,True)
+s+=txt(55,1030,'成本：全部图块仍需编码与评分；减少LLM视觉token不等于省掉全部WSI计算。',22,PURPLE)
+s+=txt(55,1077,'解释：被保留的patch可供核查，但不等于因果证据或已验证的临床诊断依据。',22,ORANGE)
+s+=txt(55,1124,'依据式1–12与§3.6，PDF4–6；本图数字为教学构造，未处理患者数据或复现实验。',21,MUT)
+save('histoselect','HistoSelect ｜组织决定分组，问题决定预算与证据','原创中文教学图：分清组级比例、组内排序、硬选择与替代梯度。',s,1240)
+
+print('Created twenty-seven original method-v2 SVGs')
