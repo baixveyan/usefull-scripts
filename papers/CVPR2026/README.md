@@ -1,6 +1,6 @@
 # CVPR 2026 中文论文讲解
 
-2026-10-23联合返工检查点：正文详细版25/106，配图详细版25/106，二者均通过自检25/106；余81篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/generation/d2c-diffusion-condensation/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
+2026-10-23联合返工检查点：正文详细版26/106，配图详细版26/106，二者均通过自检26/106；余80篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/medical/histoselect/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
 
 
 目标是覆盖 CVPR 2026 主会全部可核实论文。当前以 [CVF 官方 day=all 目录](https://openaccess.thecvf.com/CVPR2026?day=all) 为清单来源，抓取日期为 2026-10-19，共 **4,042 篇**。目前106篇讲解自检完成、3,936篇待读。完整状态和已完成讲解见[全量目录](index.md)，接续位置见[进度](progress.md)。

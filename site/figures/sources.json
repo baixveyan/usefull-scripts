@@ -1452,5 +1452,29 @@
     "modification": "Independent Chinese diagram of committed state, candidate generation, retry and metric examples; not experimental measurements.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Full-page browser visual inspection; teaching arithmetic checks; no video generation or model reproduction"
+  },
+  {
+    "file": "d2c-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective",
+    "authors": [
+      "Rui Huang",
+      "Shitong Shao",
+      "zikai zhou",
+      "Pukun Zhao",
+      "Hangyu Guo",
+      "Tian Ye",
+      "Lichen Bai",
+      "Shuo Yang",
+      "Zeke Xie"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper.pdf",
+    "pdf_sha256": "22b998a7949cd30b936184895fb475ad4ac3a67b2927c9c4a4eb0812fcde0d0a",
+    "source_location": "Figures 2 and 4, equations 5-12, Table 6; PDF pages 3-8",
+    "checked_on": "2026-10-23",
+    "modification": "Independent Chinese teaching figure for selection, cached representations and student gradient paths; explicit score-sign ambiguity.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Full-page browser visual inspection; mathematical examples verified; no model reproduction"
   }
 ]

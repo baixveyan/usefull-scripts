@@ -1506,8 +1506,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q70",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper",
