@@ -1307,8 +1307,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q62",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper",
@@ -1926,8 +1928,10 @@
       "pdf_sha256": "f7799a0df14efdf65bc416437cfbea23a3477de963a80e9978c981ecc5884fba",
       "source_checked_on": "2026-10-21",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-23",
+      "figure_revision_on": "2026-10-23"
     },
     {
       "id": "Zhang_Active_Perceptual_Inference_A_Corticothalamic-Inspired_Dynamic_Nested_Recurrent_Network_for_CVPR_2026_paper",

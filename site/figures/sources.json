@@ -1404,5 +1404,53 @@
     "modification": "Independent lifting, Bingham and invariance-boundary diagram; antipodal quaternion and fixed-point examples are mathematical checks, not model measurements",
     "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
     "validation": "Browser full-page visual inspection; 3D/5D/4D roles, quaternion sign and piecewise objective checked"
+  },
+  {
+    "file": "tcca-hand-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Temporal and Content Co-Awareness Latent Diffusion for Controllable Hand Image Generation",
+    "authors": [
+      "Shuang Hao",
+      "Pengfei Ren",
+      "Haifeng Sun",
+      "Ting Pan",
+      "Qi Qi",
+      "Lei Zhang",
+      "Cong Liu",
+      "Jianxin Liao",
+      "Jingyu Wang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper.pdf",
+    "pdf_sha256": "e2506a7235ef7ca66d9f17b35defe1f60dee4c4cac0fab738c0c177f234f98e6",
+    "source_location": "Figure 3, equations 2-4, section 3; PDF pages 4-6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent Chinese diagram of query routing, temporal/content weights and projection; numerical examples are teaching constructions.",
+    "rights": "Original site artwork; methods and scientific claims attributed to original paper authors",
+    "validation": "Browser full-page visual inspection; padding corrected; numerical examples checked; not reproduced"
+  },
+  {
+    "file": "orca-video-avatars-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "Active Intelligence in Video Avatars via Closed-loop World Modeling",
+    "authors": [
+      "Xuanhua He",
+      "Tianyu Yang",
+      "Ke Cao",
+      "Ruiqi Wu",
+      "Cheng Meng",
+      "Yong Zhang",
+      "Zhuoliang Kang",
+      "Xiaoming Wei",
+      "Qifeng Chen"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper.pdf",
+    "pdf_sha256": "f7799a0df14efdf65bc416437cfbea23a3477de963a80e9978c981ecc5884fba",
+    "source_location": "Figure 2, equations 1-7, Algorithm 1; PDF pages 3-6",
+    "checked_on": "2026-10-23",
+    "modification": "Independent Chinese diagram of committed state, candidate generation, retry and metric examples; not experimental measurements.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Full-page browser visual inspection; teaching arithmetic checks; no video generation or model reproduction"
   }
 ]

@@ -305,16 +305,28 @@
     {
       "id": "Hao_A_Temporal_and_Content_Co-Awareness_Latent_Diffusion_for_Controllable_Hand_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/tcca-hand/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "d300140bdeeebcc92ed8182128aea99c2c7bb9bf6d46c8a72dbd0b1e6d724918",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "e2506a7235ef7ca66d9f17b35defe1f60dee4c4cac0fab738c0c177f234f98e6",
+      "validation": "Original PDF sections 3-4 and equations 2-4 read; query routing, residual weights, projection dimensions explained; teaching projection and weight sum checked; not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/tcca-hand-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;card-padding-corrected;teaching-examples-not-measurements"
     },
     {
       "id": "He_Active_Intelligence_in_Video_Avatars_via_Closed-loop_World_Modeling_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/orca-video-avatars/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "1acdb9618f85feebc69b2d6f9cab29a6f7b2ae3a2eff3bbdf3b52dec21fbe797",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-23",
+      "pdf_sha256": "f7799a0df14efdf65bc416437cfbea23a3477de963a80e9978c981ecc5884fba",
+      "validation": "PDF sections 3-5 reread; Algorithm 1 visually checked; state commit and retries explained; teaching probability and budget arithmetic checked; not-reproduced",
+      "figure_checked_on": "2026-10-23",
+      "figure_file": "site/figures/orca-video-avatars-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;article-47-equations-no-errors-no-broken-images-no-overflow"
     },
     {
       "id": "Huang_Accelerating_Diffusion_Model_Training_under_Minimal_Budgets_A_Condensation-Based_Perspective_CVPR_2026_paper",
