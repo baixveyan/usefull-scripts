@@ -1521,5 +1521,30 @@
     "modification": "Independent Chinese teaching diagram of FiLM, projected-area opacity gating and proxy-to-leaf feature prediction.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Browser full-page visual inspection; feature and mixed-anchor arithmetic checked; not reproduced"
+  },
+  {
+    "file": "a3-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A3: Towards Advertising Aesthetic Assessment",
+    "authors": [
+      "Kaiyuan Ji",
+      "Yixuan Gao",
+      "Lu Sun",
+      "Yushuo Zheng",
+      "Zijian Chen",
+      "Jianbo Zhang",
+      "Xiangyang Zhu",
+      "Yuan Tian",
+      "Zicheng Zhang",
+      "Guangtao Zhai"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper.pdf",
+    "pdf_sha256": "6a7cb48b4a43bfbf38857150ce5db47cceb8b2bc52fb7fb461c93715f1af1a04",
+    "source_location": "Sections 3.2-3.3, equations 1-2; PDF pages 4-6",
+    "checked_on": "2026-10-24",
+    "modification": "Independent Chinese teaching diagram of dataset supervision and task-specific rewards; examples not measurements.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Browser top and bottom visual inspection; reward arithmetic checked; not reproduced"
   }
 ]

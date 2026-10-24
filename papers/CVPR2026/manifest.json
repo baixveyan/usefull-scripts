@@ -1432,8 +1432,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q67",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-24",
+      "figure_revision_on": "2026-10-24"
     },
     {
       "id": "Liu_Abstract_3D_Perception_for_Spatial_Intelligence_in_Vision-Language_Models_CVPR_2026_paper",
