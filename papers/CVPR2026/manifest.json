@@ -212,8 +212,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p19",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-24",
+      "figure_revision_on": "2026-10-24"
     },
     {
       "id": "Guo_3D_Gaussian_Splatting_from_Unposed_Spike_Stream_CVPR_2026_paper",

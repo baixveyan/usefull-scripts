@@ -1502,5 +1502,24 @@
     "modification": "Independent Chinese teaching diagram of tissue grouping, per-group budgets, patch ranking and STE/KL roles.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Full-page browser inspection; teaching counts and Bernoulli KL checked; no patient data or model reproduction"
+  },
+  {
+    "file": "arca-gs-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors",
+    "authors": [
+      "Mingyun Jeong",
+      "Seongro Yoon",
+      "Francois Bremond",
+      "Donghyeon Cho"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper.pdf",
+    "pdf_sha256": "c29306e7a15679e5c5941b1f7cabfb4289c7bfdee42d02f23e52dbf36945ff84",
+    "source_location": "Figure 2, equations 5-14 and implementation details; PDF pages 3-7",
+    "checked_on": "2026-10-24",
+    "modification": "Independent Chinese teaching diagram of FiLM, projected-area opacity gating and proxy-to-leaf feature prediction.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Browser full-page visual inspection; feature and mixed-anchor arithmetic checked; not reproduced"
   }
 ]

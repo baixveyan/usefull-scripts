@@ -357,9 +357,15 @@
     {
       "id": "Jeong_3D_Gaussian_Splatting_at_Arbitrary_Resolutions_with_Compact_Proxy_Anchors_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/arca-gs/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "f100d8ed80dc4f86cc3b1d4545a04f9613b99a7b2e0daee54bbf29217ac2606d",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-24",
+      "pdf_sha256": "c29306e7a15679e5c5941b1f7cabfb4289c7bfdee42d02f23e52dbf36945ff84",
+      "validation": "PDF methods and implementation reread; FiLM, pixel-area scaling, direction ambiguity, mixed-anchor training explained; teaching arithmetic verified; not-reproduced",
+      "figure_checked_on": "2026-10-24",
+      "figure_file": "site/figures/arca-gs-method-v2.svg",
+      "figure_validation": "original-svg;browser-full-page-visual-check;teaching-examples-not-measurements"
     },
     {
       "id": "Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper",
