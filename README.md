@@ -1,6 +1,6 @@
 # 研读 / Paper Atlas · 实用工具库
 
-2026-10-23返工检查点：详细方法已完成4/106（TokenGS、AdaDexTrack、ActivityForensics/TADiff、AdaPrior），余102篇待返工；暂停新增。下一篇PCE-LiNGAM（A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems）。原reviewed仅保留阅读历史。
+2026-10-25联合返工检查点：正文详细版35/106，配图详细版35/106，二者均通过自检35/106；余71篇继续返工，完成全部返工后再新增。下一篇：papers/CVPR2026/3d-vision/sedir/README.md。旧reviewed计数106仅保留原文阅读历史，不代表本轮返工完成。
 
 
 面向日常与科研的工具与中文论文精读。当前优先建设 CVPR 2026 精品解析：从背景、方法和公式走到实验、消融、局限与复现边界。

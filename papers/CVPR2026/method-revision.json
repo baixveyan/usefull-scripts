@@ -383,44 +383,80 @@
     {
       "id": "Jia_Adapter_Shield_A_Unified_Framework_with_Built-in_Authentication_for_Preventing_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/adapter-shield/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "5b2985503b43b03c9e594f9d656116768b4a5729ce3739e4528ae79f43a654c1",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "3a04e8293d4fc95557eae90a0cb5f0eadbd57c518851ee4e455e51c81c075431",
+      "validation": "source-method-reread;loss-path-and-cosine-example-checked;not-reproduced",
+      "figure_checked_on": "2026-10-24",
+      "figure_file": "site/figures/adapter-shield-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check-on-2026-10-24;article-22-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Jiao_ACPV-Net_All-Class_Polygonal_Vectorization_for_Seamless_Vector_Map_Generation_from_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/segmentation/acpv-net/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "709454406ea5b83e0d534f167b06f04f195db3d631b529a40b768246d0c961f4",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "bf45dc1a4d3791298beaf47e8940d64d76d586784414e7d342558eb44c742a82",
+      "validation": "source-pages-3-5-and-8-reread;page4-rendered;projection-and-shape-example-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/acpv-net-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;13-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Jung_Accelerating_Diffusion_via_Hybrid_Data-Pipeline_Parallelism_Based_on_Conditional_Guidance_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/hybridiff/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "1cad548ae63bbce983a68eb62d6c29f834404d1d968689bdc02d8d5e6b24a5d2",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "2340159ec2f5bc3409e046f3a2d68a39402e11130db8cd16cb551c37d7684a36",
+      "validation": "source-pages-4-6-reread;page4-rendered;CFG-scale-and-error-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/hybridiff-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;15-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/omnivorous-dino/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "4b5d8fd9e40647600bc31362d216c466c9916fceebbe030b55f83a89275881da",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "ed985902cd96e9106b48b15249e793eff9bf89ded5d8d8092d35830bd87d439f",
+      "validation": "source-pages-3-5-reread;page3-rendered;InfoNCE-and-anchor-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/omnivorous-dino-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;6-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kalra_3D-Object_Perception_Transformer_3PT_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/3pt/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "fd49e98d22e2bc471ac412e135c034d74efbe6d1249ba550105fc87ba29b9d5f",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "b80a97b31da14f69df4224b69345e9fbd92d07ad79a42409296da840db69bd47",
+      "validation": "source-pages-4-6-reread;page5-rendered;projection-and-candidate-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/3pt-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;7-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/deltaworld/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "50707ffce04a6a2426c54f0ed2f03a7c1aad3ea1bd7ad01d208b584137cfaa21",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "d7647c8cf24dd38b5de3d0277756fde098a6b26d1352b4db2593598af6f0f59c",
+      "validation": "source-pages-4-6-reread;page5-rendered;BoM-and-sequential-decode-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/deltaworld-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;6-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper",

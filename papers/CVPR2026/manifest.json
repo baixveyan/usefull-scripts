@@ -461,8 +461,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "p29",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Ogunleye_3D-VCD_Hallucination_Mitigation_in_3D-LLM_Embodied_Agents_through_Visual_Contrastive_CVPR_2026_paper",
@@ -992,8 +994,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q49",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Shen_A_Geometric_Algebra-Informed_3DGS_Framework_for_Wireless_Channel_Prediction_CVPR_2026_paper",
@@ -1039,8 +1043,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q51",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
@@ -1535,8 +1541,10 @@
       "source_checked_on": "2026-10-21",
       "reading_cache": "q71",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Liu_Accelerating_Diffusion-based_Video_Editing_via_Heterogeneous_Caching_Beyond_Full_Computing_CVPR_2026_paper",
@@ -1678,8 +1686,10 @@
       "pdf_sha256": "bf45dc1a4d3791298beaf47e8940d64d76d586784414e7d342558eb44c742a82",
       "source_checked_on": "2026-10-21",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Huang_Act_Like_a_Pathologist_Tissue-Aware_Whole_Slide_Image_Reasoning_CVPR_2026_paper",
@@ -2280,8 +2290,10 @@
       "pdf_sha256": "3a04e8293d4fc95557eae90a0cb5f0eadbd57c518851ee4e455e51c81c075431",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-24"
     },
     {
       "id": "Fang_Adapting_a_Pre-trained_Single-Cell_Foundation_Model_to_Spatial_Gene_Expression_CVPR_2026_paper",
