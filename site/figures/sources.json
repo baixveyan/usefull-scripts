@@ -1759,5 +1759,27 @@
     "modification": "Replaces brief flowchart with dynamic geometry, compositing-order and elementwise-power examples; illustrative values.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Browser top and bottom visually checked; article 16 equations without rendering errors; not reproduced"
+  },
+  {
+    "file": "divt-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A More Word-like Image Tokenization for MLLMs",
+    "authors": [
+      "Hyun Lee",
+      "Hyemin Jeong",
+      "Yejin Kim",
+      "Hyungwook Choi",
+      "Hyunsoo Cho",
+      "Soo Kyung Kim",
+      "Joonseok Lee"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper.pdf",
+    "pdf_sha256": "e79346cd45cc781fb8c8419608279e92db6fddd11c369dc1e048f41b849334b8",
+    "source_location": "Algorithm1, equations1-4, sections3-4; PDF4-6",
+    "checked_on": "2026-10-25",
+    "modification": "Original fixed-degree selection, numerical reassignment, value-position projection and masked aggregation explanation.",
+    "rights": "Original site artwork; scientific claims attributed to original authors",
+    "validation": "Browser top and bottom visually checked; 68 article equations; zero errors or broken images; not reproduced"
   }
 ]

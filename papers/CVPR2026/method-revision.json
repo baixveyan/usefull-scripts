@@ -513,9 +513,15 @@
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/divt/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "574bde9152bb5f34631e91baee67d4b660dbed40d46ed058c2d4631bbb662b47",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "e79346cd45cc781fb8c8419608279e92db6fddd11c369dc1e048f41b849334b8",
+      "validation": "PDF4-6 reread; Algorithm1 and Eq1-4 checked; teaching cosine example calculated; not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/divt-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;article-68-equations;0-katex-errors;0-broken-images;no-horizontal-overflow"
     },
     {
       "id": "Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper",

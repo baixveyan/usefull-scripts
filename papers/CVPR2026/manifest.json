@@ -1072,8 +1072,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q52",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Xu_A_Multi-Agent_Perception-Action_Alliance_for_Efficient_Long_Video_Reasoning_CVPR_2026_paper",
