@@ -101,8 +101,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "l2dgs",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Lu_2-Shots_in_the_Dark_Low-Light_Denoising_with_Minimal_Data_Acquisition_CVPR_2026_paper",
@@ -1213,8 +1215,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q58",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper",
@@ -1795,8 +1799,10 @@
       "pdf_sha256": "447cb0f3770e0bd826451ec2e85c2c5e73e8d1cc416c2cea174e94a22fce41b6",
       "source_checked_on": "2026-10-21",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper",
@@ -2102,8 +2108,10 @@
       "pdf_sha256": "efb5b1d244e829abe34f4488c25587e8214034671d42f7a73688d64d54910a48",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Shen_AD-GBC_Anisotropic_Granular-Ball_Skip-Connection_Refiner_for_UNet-Based_Medical_Image_Segmentation_CVPR_2026_paper",

@@ -461,30 +461,54 @@
     {
       "id": "Kim_A_Semantically_Disentangled_Unified_Model_for_Multi-category_3D_Anomaly_Detection_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/sedir/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "86d23bb10abc37c24ea2ce25657a620819d12d2a20aae3757d5106b6ccc64b45",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "ef7b7cd5786c562aa977ea0a4d10a43336be685461533ad5822f10e27d9e8d0b",
+      "validation": "source-pages-4-6-reread;page5-rendered;contrastive-and-normalization-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/sedir-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;14-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kim_AcTTA_Rethinking_Test-Time_Adaptation_via_Dynamic_Activation_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/actta/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "e9639efcfd5c11cfdc721700864018ea5c4c67cbe6fb8e5215e5731cbe448e66",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "efb5b1d244e829abe34f4488c25587e8214034671d42f7a73688d64d54910a48",
+      "validation": "source-pages-3-5-reread;page3-rendered;derivative-finite-difference-and-parameter-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/actta-method-v2.svg",
+      "figure_validation": "original-svg;equation-calculated-curves;browser-top-and-bottom-visual-check;4-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/a4mer-action-motifs/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "2e0c896dc004823573d97081bbbd40e0d528b290818855115453896614d3c047",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "447cb0f3770e0bd826451ec2e85c2c5e73e8d1cc416c2cea174e94a22fce41b6",
+      "validation": "source-pages-3-5-reread;page5-rendered;segment-cover-and-stop-gradient-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/a4mer-action-motifs-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;4-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Kumar_L2DGS_Low-Light_Dynamic_Gaussian_Splatting_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/l2dgs/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "99cdac2b7e4b05140e6c5d7dab456d12ad7125369113cbff3cefd26f3324b260",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "1bb84dbd71b76eb8346eb90a6681ac8ec243390cd52dfc052c0a229c2c3bcbce",
+      "validation": "source-pages-3-6-reread;page5-rendered;compositing-and-power-transform-examples-checked;not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/l2dgs-method-v2.svg",
+      "figure_validation": "original-svg;browser-top-and-bottom-visual-check;16-equations-zero-errors-zero-broken-images-zero-overflow"
     },
     {
       "id": "Lee_A_More_Word-like_Image_Tokenization_for_MLLMs_CVPR_2026_paper",
