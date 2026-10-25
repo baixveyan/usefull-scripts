@@ -1781,5 +1781,27 @@
     "modification": "Original fixed-degree selection, numerical reassignment, value-position projection and masked aggregation explanation.",
     "rights": "Original site artwork; scientific claims attributed to original authors",
     "validation": "Browser top and bottom visually checked; 68 article equations; zero errors or broken images; not reproduced"
+  },
+  {
+    "file": "svd-style-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Training-Free Style-Personalization via SVD-Based Feature Decomposition",
+    "authors": [
+      "Kyoungmin Lee",
+      "Jihun Park",
+      "Jongmin Gim",
+      "Wonhyeok Choi",
+      "Kyumin Hwang",
+      "Jaeyeul Kim",
+      "Sunghoon Im"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper.pdf",
+    "pdf_sha256": "026403d6c1d0ca4eb4e2a319b761e88db000c9bed65c872ea77b58c6d9612b04",
+    "source_location": "Equations1-7, Fig4, sections3-6; PDF3-6",
+    "checked_on": "2026-10-25",
+    "modification": "Original soft spectral replacement calculation, separate Q/K vs V explanation; original Fig4 reviewed and retained with attribution.",
+    "rights": "Original SVG artwork; original Fig4 retains original authors rights",
+    "validation": "Browser top and bottom visually checked; 58 article equations; zero errors or broken images; not reproduced"
   }
 ]

@@ -1348,8 +1348,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q63",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_date": "2026-10-25",
+      "figure_revision_date": "2026-10-25"
     },
     {
       "id": "Shen_A_Unified_Framework_for_Knowledge_Transfer_in_Bidirectional_Model_Scaling_CVPR_2026_paper",

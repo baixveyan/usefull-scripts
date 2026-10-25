@@ -526,9 +526,15 @@
     {
       "id": "Lee_A_Training-Free_Style-Personalization_via_SVD-Based_Feature_Decomposition_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/generation/svd-style-personalization/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "137a430b9075e28eebfa7ce31368d73bc90eb52e12b82bd2dfd3eeb209a1b8cb",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-25",
+      "pdf_sha256": "026403d6c1d0ca4eb4e2a319b761e88db000c9bed65c872ea77b58c6d9612b04",
+      "validation": "PDF3-6 reread; equations1-7 and originalFig4 checked; SVD and attention teaching examples calculated; not-reproduced",
+      "figure_checked_on": "2026-10-25",
+      "figure_file": "site/figures/svd-style-method-v2.svg",
+      "figure_validation": "original-svg-and-original-Fig4-reviewed;browser-top-and-bottom-visual-check;article-58-equations;0-katex-errors;0-broken-images;no-horizontal-overflow"
     },
     {
       "id": "Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper",
