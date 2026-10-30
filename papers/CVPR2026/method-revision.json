@@ -604,9 +604,15 @@
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/multimodal/daig/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "8b33037b22558e8614e1b63b4f2bfa6ac12a112c9fbfa21e2c0863a14618db5a",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-30",
+      "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
+      "validation": "PDF3-5-reread;LoRA-shapes-parameter-count-statistical-example-angular-margin-checked;printed-equation-ambiguities-preserved;not-reproduced",
+      "figure_checked_on": "2026-10-30",
+      "figure_file": "site/figures/daig-method-v2.svg",
+      "figure_validation": "original-Fig2-rereviewed;headless-Chrome-full-SVG-screenshot-visually-checked;10-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper",

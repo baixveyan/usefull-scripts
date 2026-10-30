@@ -2359,8 +2359,10 @@
       "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-30",
+      "figure_revision_on": "2026-10-30"
     },
     {
       "id": "Shu_Adapting_Lightweight_Image-based_Counting_Models_for_Video_Crowd_Counting_CVPR_2026_paper",

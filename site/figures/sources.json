@@ -1905,5 +1905,26 @@
     "modification": "Replaced Mermaid overview with cube shape, top-p probability bars, real-token attention and four-token residual compensation; originalFig2 rereviewed.",
     "rights": "Original SVG artwork",
     "validation": "Headless Chrome full SVG visually checked;10 equations zero KaTeX errors;not reproduced"
+  },
+  {
+    "file": "daig-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "Adapting In-context Generation for Enhanced Composed Image Retrieval",
+    "authors": [
+      "Haiwen Li",
+      "Zining Chen",
+      "Delong Liu",
+      "Zhaohui Hou",
+      "Zhicheng Zhao",
+      "Fei Su"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper.pdf",
+    "pdf_sha256": "940d1ac0c3430b03572413c946223eae0da414477c2983e1c6be931d385f3327",
+    "source_location": "PDF3-5 Eq1-5 Fig2",
+    "checked_on": "2026-10-30",
+    "modification": "Original generator/data/retrieval interfaces, LoRA shapes, statistical formula ambiguity and angular margin example; originalFig2 rereviewed.",
+    "rights": "Original SVG artwork; retained paperFig2 belongs to authors",
+    "validation": "Headless Chrome full SVG visually checked;10 equations zero KaTeX errors;not reproduced"
   }
 ]
