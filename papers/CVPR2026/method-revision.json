@@ -539,30 +539,54 @@
     {
       "id": "Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/robotics/activegrasp/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "daf6dcdabc62431aad0c145896b1224cdc64f581fb956144c0b2b8cb7455fc98",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-29",
+      "pdf_sha256": "9af4fc55e689f9050777f76cd41bdfe863d9e84165cbbd76f42aed7e0d1204df",
+      "validation": "PDF3-8 reread; rendered4-6; equations1-23 and originalFig2 reviewed; diagonal information example and exact normalized-gradient identity checked numerically; not-reproduced",
+      "figure_checked_on": "2026-10-29",
+      "figure_file": "site/figures/activegrasp-method-v2.svg",
+      "figure_validation": "originalFig2-reviewed;headless-Chrome-full-figure-screenshot-visually-checked;article106-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/recognition/a2gc-vpr/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "d9feef62c93e508d60ba361fc94938075597a307cf8692702e761ad919ab7dd7",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-29",
+      "pdf_sha256": "fdd83710d44c1eb349c392b7cff8ccccf115f189b5f6986934ad7419da3456a5",
+      "validation": "PDF3-5 reread; renderedPDF4 and originalFig2 checked; Eq1-12, dimensions, 3x2 finite calibration example calculated; not-reproduced",
+      "figure_checked_on": "2026-10-29",
+      "figure_file": "site/figures/a2gc-method-v2.svg",
+      "figure_validation": "originalFig2-reviewed;headless-Chrome-full-figure-screenshot-visually-checked;article88-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Li_A_Faster_Path_to_Continual_Learning_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/theory/c-flat-turbo/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "424f025221a2734d89191515cabda9b20a7c2d4f9a77ddd199bddf16cc9bfb8d",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-30",
+      "pdf_sha256": "ab107c4983873d5ed653ca6dfb797716b003b556b364fbeba0b32a80f0c2187d",
+      "validation": "mainPDF3-5-reread;suppA1-A3-A9-A10-read;projection-scaling-EMA-and-pass-count-checked;not-reproduced",
+      "figure_checked_on": "2026-10-30",
+      "figure_file": "site/figures/c-flat-turbo-method-v2.svg",
+      "figure_validation": "headless-Chrome-full-figure-screenshot-visually-checked;55-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/3d-vision/activepolicy/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "a5645d193d70905c536e5ecbfc4113c65814aec845c9503b9513a3d1ac7ee593",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-30",
+      "pdf_sha256": "f5c5084531e93eed76054a50f3c4e2bb8ab6e276c88ac3a5cb3e5b334c154b54",
+      "validation": "mainPDF3-6-reread;depth-fusion-dropout-and-four-node-eigensystem-numeric-checked;not-reproduced",
+      "figure_checked_on": "2026-10-30",
+      "figure_file": "site/figures/activepolicy-method-v2.svg",
+      "figure_validation": "original-Fig2-rereviewed;headless-Chrome-full-SVG-screenshot-visually-checked;35-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Li_AdaSpark_Adaptive_Sparsity_for_Efficient_Long-Video_Understanding_CVPR_2026_paper",

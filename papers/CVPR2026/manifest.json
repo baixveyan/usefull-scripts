@@ -970,8 +970,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q48",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-30",
+      "figure_revision_on": "2026-10-30"
     },
     {
       "id": "Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper",
@@ -1418,8 +1420,10 @@
       "source_checked_on": "2026-10-20",
       "reading_cache": "q66",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-29",
+      "figure_revision_on": "2026-10-29"
     },
     {
       "id": "Ji_A3_Towards_Advertising_Aesthetic_Assessment_CVPR_2026_paper",
@@ -2026,8 +2030,10 @@
       "pdf_sha256": "9af4fc55e689f9050777f76cd41bdfe863d9e84165cbbd76f42aed7e0d1204df",
       "source_checked_on": "2026-10-21",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-29",
+      "figure_revision_on": "2026-10-29"
     },
     {
       "id": "Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper",
@@ -2046,8 +2052,10 @@
       "pdf_sha256": "f5c5084531e93eed76054a50f3c4e2bb8ab6e276c88ac3a5cb3e5b334c154b54",
       "source_checked_on": "2026-10-22",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-30",
+      "figure_revision_on": "2026-10-30"
     },
     {
       "id": "Liu_ActiveVLA_Injecting_Active_Perception_into_Vision-Language-Action_Models_for_Precise_3D_CVPR_2026_paper",

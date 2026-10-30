@@ -1803,5 +1803,79 @@
     "modification": "Original soft spectral replacement calculation, separate Q/K vs V explanation; original Fig4 reviewed and retained with attribution.",
     "rights": "Original SVG artwork; original Fig4 retains original authors rights",
     "validation": "Browser top and bottom visually checked; 58 article equations; zero errors or broken images; not reproduced"
+  },
+  {
+    "file": "activegrasp-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model",
+    "authors": [
+      "Boshu Lei",
+      "Wen Jiang",
+      "Kostas Daniilidis"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.pdf",
+    "pdf_sha256": "9af4fc55e689f9050777f76cd41bdfe863d9e84165cbbd76f42aed7e0d1204df",
+    "source_location": "Equations1-23; Fig2; sections3-4, PDF3-8",
+    "checked_on": "2026-10-29",
+    "modification": "Original semantic-point interfaces, noncomplementary probability example and task-weighted covariance reduction bar chart; originalFig2 rereviewed.",
+    "rights": "Original SVG artwork; retained originalFig2 belongs to original authors",
+    "validation": "Headless Chrome rendered full diagram; screenshot visually checked. Article106 equations zero KaTeX errors; not reproduced"
+  },
+  {
+    "file": "a2gc-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors",
+    "authors": [
+      "Zhenyu Li",
+      "Tianyi Shang"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A2GC_Asymmetric_Aggregation_with_Geometric_Constraints_for_Locally_Aggregated_Descriptors_CVPR_2026_paper.pdf",
+    "pdf_sha256": "fdd83710d44c1eb349c392b7cff8ccccf115f189b5f6986934ad7419da3456a5",
+    "source_location": "Equations1-12, Fig2, sections3-4; PDF3-5",
+    "checked_on": "2026-10-29",
+    "modification": "Original matrix-axis explanation, dustbin row and column calibration numerical example, descriptor shapes and coordinate preference; originalFig2 rereviewed.",
+    "rights": "Original SVG artwork; retained originalFig2 belongs to original authors",
+    "validation": "Headless Chrome full diagram rendered and visually checked; 88 article equations zero KaTeX errors; not reproduced"
+  },
+  {
+    "file": "c-flat-turbo-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "A Faster Path to Continual Learning",
+    "authors": [
+      "Wei Li",
+      "Hangjie Yuan",
+      "Zixiang Zhao",
+      "Borui Kang",
+      "Ziwei Liu",
+      "Tao Feng"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_A_Faster_Path_to_Continual_Learning_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_A_Faster_Path_to_Continual_Learning_CVPR_2026_paper.pdf",
+    "pdf_sha256": "ab107c4983873d5ed653ca6dfb797716b003b556b364fbeba0b32a80f0c2187d",
+    "source_location": "MainPDF3-5 Eq1-9; supplement PDF1/4/5 Algorithm1 and A9",
+    "checked_on": "2026-10-30",
+    "modification": "Replaced old schematic with four gradient evaluations, orthogonal projection example, cached-direction failure, backward-pass timeline and statistical trigger; originalFig1-4 reviewed.",
+    "rights": "Original SVG artwork, paper remains with authors",
+    "validation": "Headless Chrome full diagram visually checked;55 article equations zero KaTeX errors;not reproduced"
+  },
+  {
+    "file": "activepolicy-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain",
+    "authors": [
+      "Yingzhao Li",
+      "Yanjie Liu",
+      "Lijun Zhao"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.pdf",
+    "pdf_sha256": "f5c5084531e93eed76054a50f3c4e2bb8ab6e276c88ac3a5cb3e5b334c154b54",
+    "source_location": "MainPDF3-6 Eq1-20 Fig2-3",
+    "checked_on": "2026-10-30",
+    "modification": "Rebuilt depth accumulation vs normalization and log fusion; undirected graph structure, acquisition and optimization, dropout arithmetic; originalFig2 rereviewed.",
+    "rights": "Original SVG artwork; retained paperFig2 belongs to authors",
+    "validation": "Headless Chrome full SVG visually checked;35 equations zero KaTeX errors;not reproduced"
   }
 ]

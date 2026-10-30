@@ -72,3 +72,11 @@
 - `divt-method-v2.svg`：DiVT一次度数排序、重分配数值例、位置注入与mask；依据PDF4–6；2026-10-25浏览器上下图验收，未复现实验。
 
 - `svd-style-method-v2.svg`：软谱重构与SAC矩阵计算，PDF3–6；原Fig.4重审保留，2026-10-25浏览器验收；未运行Infinity。
+
+- `activegrasp-method-v2.svg`：概率、任务方差权重与双阶段更新，PDF3–8；原Fig.2重审。2026-10-29 Chrome无头浏览器全图视觉验收；非机器人复现。
+
+- `a2gc-method-v2.svg`：dustbin与有限行列校准数值矩阵，PDF3–5；2026-10-29 Chrome无头全图视觉验收，原Fig.2重审；非训练复现。
+
+- `c-flat-turbo-method-v2.svg`：2026-10-30，重画四测量点、正交缓存、反向次数与门控；官方正文3–5页与补充Algorithm1逐项核对，浏览器整图视觉检查通过。
+
+- `activepolicy-method-v2.svg`：2026-10-30，重画深度语义、无向候选图与丢弃数值；原Fig.2、方法页3–6重审，浏览器整图视觉验收通过。
