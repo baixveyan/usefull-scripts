@@ -1877,5 +1877,33 @@
     "modification": "Rebuilt depth accumulation vs normalization and log fusion; undirected graph structure, acquisition and optimization, dropout arithmetic; originalFig2 rereviewed.",
     "rights": "Original SVG artwork; retained paperFig2 belongs to authors",
     "validation": "Headless Chrome full SVG visually checked;35 equations zero KaTeX errors;not reproduced"
+  },
+  {
+    "file": "adaspark-method-v2.svg",
+    "kind": "original-explanatory-diagram",
+    "title": "AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding",
+    "authors": [
+      "Handong Li",
+      "Zikang Liu",
+      "Longteng Guo",
+      "Tongtian Yue",
+      "Yepeng Tang",
+      "Xinxin Zhu",
+      "Chuanyang Zheng",
+      "Ziming Wang",
+      "Zhibin Wang",
+      "Jun Song",
+      "Cheng Yu",
+      "Bo Zheng",
+      "Jing Liu"
+    ],
+    "source_page": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_AdaSpark_Adaptive_Sparsity_for_Efficient_Long-Video_Understanding_CVPR_2026_paper.html",
+    "pdf": "https://openaccess.thecvf.com/content/CVPR2026/papers/Li_AdaSpark_Adaptive_Sparsity_for_Efficient_Long-Video_Understanding_CVPR_2026_paper.pdf",
+    "pdf_sha256": "9d8c1fe7931876e94d6c3b4b7882e6d73c2c1f16ecb3657ba9360bfc64bbf33c",
+    "source_location": "PDF3-5 Eq1-7 Fig2",
+    "checked_on": "2026-10-30",
+    "modification": "Replaced Mermaid overview with cube shape, top-p probability bars, real-token attention and four-token residual compensation; originalFig2 rereviewed.",
+    "rights": "Original SVG artwork",
+    "validation": "Headless Chrome full SVG visually checked;10 equations zero KaTeX errors;not reproduced"
   }
 ]

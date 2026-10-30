@@ -591,9 +591,15 @@
     {
       "id": "Li_AdaSpark_Adaptive_Sparsity_for_Efficient_Long-Video_Understanding_CVPR_2026_paper",
       "note_path": "papers/CVPR2026/video/adaspark/README.md",
-      "status": "pending",
+      "status": "completed",
       "baseline_sha256": "2df7be492100e3d2afbfe1f6f1e22370d262054d8cd0f20afeee136b216388a4",
-      "figure_status": "pending"
+      "figure_status": "completed",
+      "checked_on": "2026-10-30",
+      "pdf_sha256": "9d8c1fe7931876e94d6c3b4b7882e6d73c2c1f16ecb3657ba9360bfc64bbf33c",
+      "validation": "PDF3-5-reread;top-p-cube-count-FFN-compensation-arithmetic-checked;causal-boundaries-explained;not-reproduced",
+      "figure_checked_on": "2026-10-30",
+      "figure_file": "site/figures/adaspark-method-v2.svg",
+      "figure_validation": "original-Fig2-rereviewed;headless-Chrome-full-SVG-screenshot-visually-checked;10-KaTeX-equations-zero-errors;not-reproduced"
     },
     {
       "id": "Li_Adapting_In-context_Generation_for_Enhanced_Composed_Image_Retrieval_CVPR_2026_paper",

@@ -966,4 +966,23 @@ s+=panel(1057,'04  丢弃示例：概率与透明度补偿，非直接永久删�
 s+=box(53,1115,600,120,'给定归一化稳定度 .8、检测置信度 .75',['p = .1 + .5 × .8 × .75 = .4','随机暂时屏蔽；未屏蔽时再进行补偿'],ORANGE)
 s+=box(707,1115,627,120,'原透明度 .5、γkeep = .2',['αcomp = .5 × (1 + .2 × .4) = .54','p 裁切、α 上界、退火曲线与 stop-gradient 未充分交代'],GREEN)
 save('activepolicy','ActivePolicy ｜从深度分歧到下一视角，再修正高斯地图','依据正文 §3、Fig.2–3，PDF3–6；数值为教学例子，未运行 Habitat 或重建实验。',s,h=1320)
-print('Created forty-five original method-v2 SVGs')
+
+
+# AdaSpark: two normalizations and exact FFN compensation example.
+s=panel(115,'01  时空 cube 是 token 网格：示例 8×8×8 → 16 块，每块 32 token',185)
+s+=box(52,172,365,105,'先编码，再分块',['隐藏状态 X：512×D','示例 t×h×w = 2×4×4'],BLUE)+box(474,172,390,105,'每头分别路由',['一个 query：dk 维','块摘要：均值 key，仍为 dk 维'],GREEN)+box(918,172,420,105,'没有永久删 token',['稀疏计算后仍为 512×D','下一层可以重新选中旧跳过者'],PURPLE)
+s+=line(417,226,467,226)+line(864,226,911,226)
+s+=panel(325,'02  两次 softmax：先选完整块，再在真实 token 上重新归一化',328)
+for n,(v,label) in enumerate([(.6,'C1'),(.25,'C2'),(.15,'C3')]):
+ y=400+n*60;s+=txt(65,y+22,label,21)+rect(115,y,450*v,30,'#2376c5' if n<2 else '#b6c7d6','#fff',3)+txt(410,y+22,str(v),21)
+s+=txt(65,610,'p=.7：.60 不足，.60+.25=.85 → 选 C1、C2',20,GREEN,True)
+s+=box(594,387,742,208,'块概率不是最终注意力权重',['2 个前序块 × 32 token + 本地前序 5 token = 69','Katt：69×dk；Vatt：69×dv','第二次 softmax 在这 69 个真实 token 上计算','本 cube 的未来 token 排除；首 token 空集合需实现核查','文本对视觉用 cube，文本对文本保持 token 注意力'],BLUE)
+s+=panel(678,'03  FFN 四 token 算例：均值补偿平均的是 Δ，不能平均残差输出',340)
+for x,t,ls,c in [(52,'范数 → Top-p',['x₁=(4,0)；x₂=(3,0)','x₃=(2,0)；x₄=(1,0)','概率 .4 / .3 / .2 / .1','p=.7 → 精算 1、2'],BLUE),(478,'只精算两条变换',['给定 Δ₁ = (1,2)','给定 Δ₂ = (3,0)','均值 m = (2,1)','不是平均 x，也不是平均 y'],ORANGE),(904,'每个 token 保留自身残差',['y₁ = (5,2)；y₂ = (6,0)','y₃ = (4,1)；y₄ = (3,1)','跳过者加 m，但不相互合并','四行继续进入下一层'],GREEN)]:s+=box(x,739,432 if x==904 else 376,191,t,ls,c)
+s+=line(428,830,471,830)+line(854,830,897,830)
+s+=txt(66,982,'所选 token 经 FFN 的 Δ 为教学给定值；对固定选择集合，跳过者的均值梯度分到两条精算支路。',20,INK,True)
+s+=panel(1043,'04  时序与成本：Attention mask 不能单独证明整个模型的流式因果',240)
+s+=box(52,1101,610,145,'Attention：前序块 + 本块前序 token',['FFN：正文按整 cube 比范数并作平均补偿','跨时间 cube 的依赖边界需查实现','离线看完整视频，与边采集边回答的约束不同'],ORANGE)
+s+=box(713,1101,622,145,'计算节约仍有路由与存储开销',['比较块均值、排序、访问所选 K/V 都需要计算','保留所有 token 状态；文本 FFN 仍稠密','FLOPs 降低不等于墙钟时间或显存同比降低'],PURPLE)
+save('adaspark','AdaSpark ｜块选择与 token 补偿的两级稀疏计算','依据原文 §3、Fig.2，PDF3–5；尺寸与向量为教学示意，未运行模型。',s,h=1330)
+print('Created forty-six original method-v2 SVGs')

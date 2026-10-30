@@ -80,3 +80,5 @@
 - `c-flat-turbo-method-v2.svg`：2026-10-30，重画四测量点、正交缓存、反向次数与门控；官方正文3–5页与补充Algorithm1逐项核对，浏览器整图视觉检查通过。
 
 - `activepolicy-method-v2.svg`：2026-10-30，重画深度语义、无向候选图与丢弃数值；原Fig.2、方法页3–6重审，浏览器整图视觉验收通过。
+
+- `adaspark-method-v2.svg`：2026-10-30，重画块概率与两次softmax、FFN四token残差例；原Fig.2重审，浏览器整图视觉验收通过。

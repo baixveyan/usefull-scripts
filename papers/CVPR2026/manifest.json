@@ -2733,8 +2733,10 @@
       "checked_on": "2026-10-20",
       "pdf_sha256": "9d8c1fe7931876e94d6c3b4b7882e6d73c2c1f16ecb3657ba9360bfc64bbf33c",
       "validation": "original-read-and-self-reviewed;not-reproduced",
-      "method_revision": "pending",
-      "figure_revision": "pending"
+      "method_revision": "completed",
+      "figure_revision": "completed",
+      "method_revision_on": "2026-10-30",
+      "figure_revision_on": "2026-10-30"
     },
     {
       "id": "Xarles_AdaSpot_Spend_Resolution_Where_It_Matters_for_Precise_Event_Spotting_CVPR_2026_paper",
