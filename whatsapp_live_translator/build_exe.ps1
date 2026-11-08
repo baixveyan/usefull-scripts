@@ -5,7 +5,9 @@ $buildPath = [System.IO.Path]::GetFullPath((Join-Path $projectRoot 'build'))
 $distPath = [System.IO.Path]::GetFullPath((Join-Path $projectRoot 'dist'))
 $specPath = [System.IO.Path]::GetFullPath((Join-Path $projectRoot 'WhatsAppTranslator.spec'))
 
-foreach ($path in @($buildPath, $distPath)) {
+# dist/data contains persistent settings when the EXE is used locally.
+# Only intermediate build files may be removed; never clean the whole dist.
+foreach ($path in @($buildPath)) {
     if (-not $path.StartsWith($projectRoot + [System.IO.Path]::DirectorySeparatorChar)) {
         throw "Refusing to clean a path outside the project: $path"
     }
@@ -23,6 +25,9 @@ python -m PyInstaller `
     --onefile `
     --windowed `
     --name 'WhatsAppTranslator' `
+    --distpath $distPath `
+    --workpath $buildPath `
+    --specpath $projectRoot `
     --collect-all rapidocr_onnxruntime `
     --hidden-import PIL._tkinter_finder `
     (Join-Path $projectRoot 'app.py')

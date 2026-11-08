@@ -1,0 +1,15 @@
+:root { color-scheme: light dark; font: 13px/1.5 system-ui, sans-serif; }
+body { width: 390px; margin: 0; padding: 16px; box-sizing: border-box; }
+h1 { margin: 0 0 5px; font-size: 20px; }
+label { display: block; margin-top: 10px; margin-bottom: 3px; font-weight: 600; }
+input, select, textarea, button { font: inherit; box-sizing: border-box; }
+input:not([type=checkbox]), select, textarea { width: 100%; padding: 6px 8px; border: 1px solid #8888; border-radius: 4px; }
+textarea { resize: vertical; }
+.hint { font-size: 12px; opacity: .8; margin: 5px 0; }
+.check { display: flex; gap: 6px; align-items: center; font-weight: 400; }
+.row { display: flex; gap: 10px; }
+.row > div { flex: 1; min-width: 0; }
+#preview { font: 11px/1.5 ui-monospace, monospace; }
+#status { min-height: 20px; margin: 6px 0; }
+button { width: 100%; padding: 8px; border: 0; border-radius: 4px; background: #2057c8; color: white; cursor: pointer; }
+button:disabled { opacity: .5; cursor: default; }

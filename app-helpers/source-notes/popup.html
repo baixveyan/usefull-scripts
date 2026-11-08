@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>来源笔记</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h1>来源笔记</h1>
+  <p class="hint">记录当前来源，导出 Markdown 草稿。关闭弹窗会丢失未导出的内容。</p>
+  <label for="title">标题</label><input id="title" autocomplete="off">
+  <label for="url">来源地址</label><input id="url" type="url" autocomplete="off" spellcheck="false">
+  <label class="check"><input id="preserve" type="checkbox">保留查询参数和片段</label>
+  <p class="hint">默认移除参数。需要复现版本或检索条件时可保留，请先检查其中是否有登录信息。</p>
+  <div class="row">
+    <div><label for="category">分类</label><select id="category">
+      <option value="datasets">论文与数据集</option>
+      <option value="app-helpers">软件辅助</option>
+      <option value="booking-helpers">预约与提醒</option>
+      <option value="everyday">日常实用</option>
+    </select></div>
+    <div><label for="date">记录日期</label><input id="date" type="date"></div>
+  </div>
+  <label for="version">上游版本 / commit</label><input id="version" placeholder="尚未核实可留空">
+  <label for="license">许可证</label><input id="license" placeholder="尚未核实可留空">
+  <label for="notes">手动备注</label><textarea id="notes" rows="3" placeholder="用途、申请条件、下载路径或待验证问题"></textarea>
+  <label for="preview">导出预览</label><textarea id="preview" rows="7" readonly spellcheck="false"></textarea>
+  <p id="status" role="status" aria-live="polite"></p>
+  <button id="download" type="button" disabled>导出 Markdown</button>
+  <script type="module" src="popup.mjs"></script>
+</body>
+</html>

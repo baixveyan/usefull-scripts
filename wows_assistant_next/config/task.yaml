@@ -1,0 +1,9 @@
+max_battles: 1
+max_retries: 2
+port_timeout_seconds: 120
+queue_timeout_seconds: 300
+loading_timeout_seconds: 300
+battle_timeout_seconds: 2400
+result_timeout_seconds: 180
+intent_ttl_seconds: 10
+

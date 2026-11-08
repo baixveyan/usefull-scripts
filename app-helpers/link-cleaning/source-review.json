@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-10-19",
+  "upstream_commit": "6d904144eca14f71789180da4fe43f3c402be153",
+  "upstream_version": "1.27.3",
+  "manifest_version": 2,
+  "permissions": [
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "unlimitedStorage",
+    "contextMenus",
+    "webNavigation",
+    "tabs",
+    "downloads"
+  ],
+  "scope": "author metadata and selected docs only; extension code not executed or fully audited",
+  "files": [
+    {
+      "name": "README.md",
+      "source": "https://gitlab.com/api/v4/projects/ClearURLs%2FClearUrls/repository/files/README.md/raw?ref=6d904144eca14f71789180da4fe43f3c402be153",
+      "bytes": 8421,
+      "sha256": "30ae96a90bccb5677ca505ac3f695e9f420c76facd01457e0e455d778962db03"
+    },
+    {
+      "name": "LICENSE",
+      "source": "https://gitlab.com/api/v4/projects/ClearURLs%2FClearUrls/repository/files/LICENSE/raw?ref=6d904144eca14f71789180da4fe43f3c402be153",
+      "bytes": 7651,
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+    },
+    {
+      "name": "PRIVACY.md",
+      "source": "https://gitlab.com/api/v4/projects/ClearURLs%2FClearUrls/repository/files/PRIVACY.md/raw?ref=6d904144eca14f71789180da4fe43f3c402be153",
+      "bytes": 758,
+      "sha256": "887d99a311e00a33e3f3fd8d3f16252c8469888f912567251eec1cd1c80f204b"
+    },
+    {
+      "name": "manifest.json",
+      "source": "https://gitlab.com/api/v4/projects/ClearURLs%2FClearUrls/repository/files/manifest.json/raw?ref=6d904144eca14f71789180da4fe43f3c402be153",
+      "bytes": 8954,
+      "sha256": "d90e0e1263a13cb9d7b5f1abafabad232b924c01b216607bb5b3ad5be3d84a8c"
+    }
+  ]
+}

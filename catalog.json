@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "network-check",
+      "category": "everyday",
+      "subcategory": "network",
+      "title": "HTTP 与代理路径诊断",
+      "path": "everyday/network-check/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "http",
+        "proxy",
+        "diagnostics",
+        "head-request",
+        "redaction"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "5-mocked-network-tests-pass; live-public-GitHub-HEAD-system-refused-direct200; no-persistent-settings-change"
+    },
+    {
+      "id": "tool-discovery",
+      "category": "app-helpers",
+      "subcategory": "workflow",
+      "title": "GitHub GitLab 候选采集器",
+      "path": "app-helpers/tool-discovery/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "github",
+        "gitlab",
+        "discovery",
+        "deduplication",
+        "public-api"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "5-synthetic-tests-pass; live-GitHub3-and-GitLab2-metadata-collected; no-repository-code-executed"
+    },
+    {
+      "id": "huggingface-downloader-guide",
+      "category": "datasets",
+      "subcategory": "tooling",
+      "title": "Go Hugging Face 下载器选型指南",
+      "path": "datasets/huggingface-downloader/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "go",
+        "huggingface",
+        "download",
+        "revision",
+        "cache"
+      ],
+      "status": "documented",
+      "source": "https://github.com/bodaay/HuggingFaceModelDownloader",
+      "upstream_license": "Apache-2.0",
+      "upstream_ref": "VERSION 3.4.0; 20f4be12d05012afbefbf54ad13dcfc12c6560b9",
+      "upstream_commit": "20f4be12d05012afbefbf54ad13dcfc12c6560b9",
+      "checked_on": "2026-10-19",
+      "validation": "pinned-README-license-VERSION-go.mod-reviewed; no-build-no-binary-execution-no-model-download"
+    },
+    {
+      "id": "source-notes",
+      "category": "app-helpers",
+      "subcategory": "workflow",
+      "title": "来源笔记 Markdown 浏览器扩展",
+      "path": "app-helpers/source-notes/README.md",
+      "type": "browser-extension",
+      "languages": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Markdown"
+      ],
+      "tags": [
+        "manifest-v3",
+        "active-tab",
+        "source-notes",
+        "offline",
+        "markdown"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "6-format-and-3-mocked-popup-tests-pass; Node18.19.0; manifest-HTML-module-checked; real-browser-install-not-tested"
+    },
+    {
+      "id": "folder-snapshot",
+      "category": "everyday",
+      "subcategory": "files",
+      "title": "文件夹体积快照与变化比较",
+      "path": "everyday/folder-snapshot/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "folder-size",
+        "disk-usage",
+        "snapshot",
+        "read-only",
+        "offline"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "5-synthetic-directory-tests-pass; windows-python-3.13.5; no-file-content-read; cloud-and-junction-not-tested"
+    },
+    {
+      "id": "split-audit",
+      "category": "datasets",
+      "subcategory": "tooling",
+      "title": "数据划分分组交叉检查",
+      "path": "datasets/split-audit/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "data-leakage",
+        "subject-id",
+        "train-test-split",
+        "csv",
+        "offline"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "6-synthetic-fixture-tests-pass; windows-python-3.13.5; real-public-UCI-HAR-subject-split-audited"
+    },
+    {
+      "id": "singlefile-guide",
+      "category": "app-helpers",
+      "subcategory": "export",
+      "title": "SingleFile 网页单文件归档指南",
+      "path": "app-helpers/web-archive/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "browser-extension",
+        "offline-reading",
+        "web-archive"
+      ],
+      "status": "documented",
+      "source": "https://github.com/gildas-lormeau/SingleFile",
+      "upstream_license": "AGPL-3.0; third-party components have separate licenses",
+      "upstream_ref": "main",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "official-readme-privacy-reviewed; extension-not-installed"
+    },
+    {
+      "id": "clearurls-guide",
+      "category": "app-helpers",
+      "subcategory": "privacy",
+      "title": "ClearURLs 作者来源与验收计划",
+      "path": "app-helpers/link-cleaning/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "browser-extension",
+        "gitlab",
+        "url",
+        "privacy"
+      ],
+      "status": "documented",
+      "source": "https://gitlab.com/ClearURLs/ClearUrls",
+      "upstream_license": "GNU LGPL v3; third-party components have separate licenses",
+      "upstream_ref": "manifest 1.27.3; commit 6d904144eca14f71789180da4fe43f3c402be153",
+      "upstream_commit": "6d904144eca14f71789180da4fe43f3c402be153",
+      "checked_on": "2026-10-19",
+      "validation": "pinned-GitLab-README-license-privacy-manifest-reviewed; source-receipt-saved; extension-not-installed"
+    },
+    {
+      "id": "uci-har",
+      "category": "datasets",
+      "subcategory": "time-series",
+      "title": "UCI HAR 下载与复现提示",
+      "path": "datasets/uci-har/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "sensors",
+        "activity-recognition",
+        "time-series",
+        "uci"
+      ],
+      "status": "tested",
+      "source": "https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones",
+      "upstream_license": "CC-BY-4.0 (current UCI page)",
+      "upstream_ref": "UCI-240; DOI:10.24432/C54S4K",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "official-HTTPS-archive-downloaded; selected-ZIP-subject-files-audited; train7352-21groups-test2947-9groups-overlap0; no-training"
+    },
+    {
+      "id": "mimic-iv",
+      "category": "datasets",
+      "subcategory": "scientific",
+      "title": "MIMIC-IV 3.1 受控访问申请指引",
+      "path": "datasets/mimic-iv/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "physionet",
+        "credentialed-access",
+        "ehr",
+        "research"
+      ],
+      "status": "documented",
+      "source": "https://physionet.org/content/mimiciv/3.1/",
+      "upstream_license": "PhysioNet Credentialed Health Data License 1.5.0",
+      "upstream_ref": "3.1",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "official-version-access-page-reviewed; no-login; no-download"
+    },
+    {
+      "id": "dataset-download-helper",
+      "category": "datasets",
+      "subcategory": "tooling",
+      "title": "数据集下载与校验助手",
+      "path": "datasets/download-helper/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "JSON",
+        "Markdown"
+      ],
+      "tags": [
+        "download",
+        "checksum",
+        "sha256",
+        "md5",
+        "preview"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "7-synthetic-response-tests-pass; windows-python-3.13.5; pinned-fashion-mnist-4-files-real-api-download-verified"
+    },
+    {
+      "id": "fashion-mnist",
+      "category": "datasets",
+      "subcategory": "vision",
+      "title": "Fashion-MNIST 下载与完整性校验",
+      "path": "datasets/fashion-mnist/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown",
+        "PowerShell"
+      ],
+      "tags": [
+        "windows",
+        "image-classification",
+        "download",
+        "checksum"
+      ],
+      "status": "tested",
+      "source": "https://github.com/zalandoresearch/fashion-mnist",
+      "upstream_license": "MIT",
+      "upstream_ref": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+      "upstream_commit": "b2617bb6d3ffa2e429640350f613e3291e10b141",
+      "checked_on": "2026-10-19",
+      "validation": "4-pinned-files-real-api-download-verified; official-MD5-gzip-IDX-pass; raw-data-removed; no-training"
+    },
+    {
+      "id": "whatsapp-translation-review",
+      "category": "app-helpers",
+      "subcategory": "translation",
+      "title": "WhatsApp 侧栏审查与改进计划",
+      "path": "app-helpers/translation/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown"
+      ],
+      "tags": [
+        "windows",
+        "translation",
+        "privacy",
+        "static-review"
+      ],
+      "status": "needs-maintenance",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": null,
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "7-module-and-queue-tests; 4-hidden-Tk-tests; mocked-build-pass; synthetic-live-MyMemory-pass-Google-failed; real-chat-and-new-exe-not-tested"
+    },
+    {
+      "id": "calendar-reminders",
+      "category": "booking-helpers",
+      "subcategory": "appointments",
+      "title": "离线日历提醒生成器",
+      "path": "booking-helpers/calendar-reminders/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "offline",
+        "calendar",
+        "ics",
+        "csv",
+        "reminders"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "7-unittests-pass; windows-python-3.13.5; real-calendar-import-not-tested"
+    },
+    {
+      "id": "file-integrity",
+      "category": "everyday",
+      "subcategory": "files",
+      "title": "RHash 选型与文件完整性核验",
+      "path": "everyday/file-integrity/README.md",
+      "type": "guide",
+      "languages": [
+        "Markdown",
+        "PowerShell"
+      ],
+      "tags": [
+        "checksum",
+        "sha256",
+        "backup",
+        "rhash"
+      ],
+      "status": "documented",
+      "source": "https://github.com/rhash/RHash",
+      "upstream_license": "0BSD (reviewed master only)",
+      "upstream_ref": "master",
+      "upstream_commit": null,
+      "checked_on": "2026-10-19",
+      "validation": "official-readme-license-reviewed; powershell-fixture-tested; rhash-not-executed"
+    },
+    {
+      "id": "mail-watch",
+      "category": "everyday",
+      "subcategory": "productivity",
+      "title": "163 邮箱只读检查与本地归档",
+      "path": "everyday/mail-watch/README.md",
+      "type": "cli",
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "tags": [
+        "imap",
+        "email",
+        "read-only",
+        "local-archive"
+      ],
+      "status": "tested",
+      "source": null,
+      "upstream_license": null,
+      "upstream_ref": "local-v1.0.0",
+      "upstream_commit": null,
+      "checked_on": "2026-10-23",
+      "validation": "live-TLS-login-readonly-inbox36-and-recent4-fetch-pass; unattended-schedule-not-yet-tested"
+    }
+  ]
+}

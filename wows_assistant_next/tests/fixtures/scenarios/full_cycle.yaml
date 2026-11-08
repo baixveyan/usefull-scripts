@@ -1,0 +1,12 @@
+name: one-complete-battle
+task:
+  max_battles: 1
+  max_retries: 2
+frames:
+  - scene: port
+  - scene: queue
+  - scene: loading
+  - scene: battle
+  - scene: result
+  - scene: port
+

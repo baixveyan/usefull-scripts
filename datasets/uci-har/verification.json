@@ -1,0 +1,31 @@
+{
+  "checked_on": "2026-10-19",
+  "source": "https://archive.ics.uci.edu/static/public/240/human+activity+recognition+using+smartphones.zip",
+  "compressed_bytes": 61005872,
+  "observed_sha256": "c00b803081a5c797cd5e4b83700a9810b38d53d9d84e01917e090e1fdbc81031",
+  "official_checksum_available": false,
+  "scope": "official HTTPS archive; selected subject ZIP entries and split statistics only; no training",
+  "raw_data_retained": false,
+  "audit": {
+    "schema_version": 1,
+    "group_overlap_detected": false,
+    "splits": {
+      "train": {
+        "rows": 7352,
+        "unique_groups": 21
+      },
+      "test": {
+        "rows": 2947,
+        "unique_groups": 9
+      }
+    },
+    "pairs": [
+      {
+        "left": "train",
+        "right": "test",
+        "overlapping_groups": 0
+      }
+    ],
+    "scope": "exact normalized group-ID equality only; not a complete data-leakage audit"
+  }
+}

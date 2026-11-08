@@ -1,0 +1,38 @@
+app:
+  name: WoWS Assistant Next
+  mode: dry_run
+  language: zh_CN
+
+capture:
+  window_title_contains: 战舰世界
+  target_fps: 5
+  dpi_aware: true
+
+perception:
+  confidence_threshold: 0.80
+  stable_frames: 3
+  onnx_provider: CPUExecutionProvider
+  ocr_full_frame_interval: 3
+  scene_minimum_confidence: 0.55
+
+monitor:
+  capture_fps: 2.0
+  ocr_interval_seconds: 5.0
+  refresh_interval_ms: 200
+  backend: printwindow
+
+actions:
+  enabled: false
+  require_foreground_window: true
+  emergency_stop_key: F12
+  minimum_interval_ms: 150
+
+navigation:
+  map_x_ratio: 0.65
+  map_y_ratio: 0.75
+
+paths:
+  log_dir: logs
+  output_dir: outputs
+  model_dir: assets/models
+  template_dir: assets/templates

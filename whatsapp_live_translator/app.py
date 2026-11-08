@@ -4,7 +4,6 @@ import ctypes
 import ctypes.wintypes
 import difflib
 import hashlib
-import json
 import queue
 import re
 import sqlite3
@@ -12,8 +11,6 @@ import sys
 import threading
 import time
 import tkinter as tk
-import urllib.parse
-import urllib.request
 from datetime import datetime
 from pathlib import Path
 from tkinter import messagebox, ttk
@@ -21,6 +18,8 @@ from tkinter import messagebox, ttk
 import numpy as np
 from PIL import Image, ImageGrab, ImageTk
 from rapidocr_onnxruntime import RapidOCR
+from translation_service import TranslationClient
+from bounded_tasks import BoundedTasks
 
 
 APP_NAME = "WhatsApp 多会话翻译"
@@ -109,29 +108,6 @@ def guess_source(text: str) -> str:
     if re.search(r"[¿¡ñáéíóúü]", low) or any(f" {w} " in low for w in ("hola", "gracias", "usted", "para", "buenos")): return "es"
     if re.search(r"[àâçèéêëîïôùûüÿœ]", low) or any(f" {w} " in low for w in ("bonjour", "merci", "vous", "avec", "pour")): return "fr"
     return "en"
-
-
-def online_translate(text: str, target: str, timeout: int = 15) -> str:
-    params = urllib.parse.urlencode({"client": "at", "sl": "auto", "tl": target, "dt": "t", "q": text})
-    request = urllib.request.Request(
-        "https://translate.google.com/translate_a/single?" + params,
-        headers={"User-Agent": "GoogleTranslate/6.45.0"},
-    )
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            data = json.loads(response.read().decode("utf-8"))
-        result = "".join(p[0] for p in data[0] if p and p[0]).strip()
-        if result: return result
-    except Exception:
-        pass
-    source = guess_source(text)
-    params = urllib.parse.urlencode({"q": text, "langpair": f"{source}|{target}"})
-    request = urllib.request.Request("https://api.mymemory.translated.net/get?" + params, headers={"User-Agent": "WhatsAppSideTranslator/1.0"})
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        data = json.loads(response.read().decode("utf-8"))
-    result = data.get("responseData", {}).get("translatedText", "").strip()
-    if not result: raise RuntimeError("翻译服务没有返回内容")
-    return result
 
 
 class Store:
@@ -304,6 +280,11 @@ class WhatsAppSidecar:
         self.whatsapp_hwnd = 0
         self.monitoring = tk.BooleanVar(value=True)
         self.follow_chat = tk.BooleanVar(value=True)
+        self.translation_client = TranslationClient()
+        self.translation_tasks = BoundedTasks(workers=2, capacity=10)
+        self.closing = False
+        self.online_enabled = tk.BooleanVar(value=False)
+        self.translation_provider = tk.StringVar(value='MyMemory')
         self.ocr_busy = False
         self.last_chat_hash = ""
         self.last_window_rect = None
@@ -346,6 +327,11 @@ class WhatsAppSidecar:
         self.my_language_combo.grid(row=2,column=1,sticky="e",pady=2)
         self.peer_language_combo.bind("<<ComboboxSelected>>", self.change_languages)
         self.my_language_combo.bind("<<ComboboxSelected>>", self.change_languages)
+        tk.Label(self.cache_settings, text='在线翻译服务', bg='#0b141a', fg='#8696a0').grid(row=3, column=0, columnspan=2, sticky='w', pady=(8, 2))
+        self.provider_combo = ttk.Combobox(self.cache_settings, textvariable=self.translation_provider, values=list(TranslationClient.PROVIDERS), state='readonly', width=15)
+        self.provider_combo.grid(row=4, column=0, columnspan=2, sticky='ew')
+        self.provider_combo.bind('<<ComboboxSelected>>', self.change_translation_provider)
+        tk.Checkbutton(self.cache_settings, text='启用在线翻译', variable=self.online_enabled, command=self.toggle_online_translation, bg='#0b141a', fg='#e9edef', selectcolor='#202c33', activebackground='#0b141a', activeforeground='white').grid(row=5, column=0, columnspan=2, sticky='w')
         conversation = tk.Frame(body, bg="#efeae2")
         body.add(conversation, minsize=360)
 
@@ -386,6 +372,23 @@ class WhatsAppSidecar:
             label = (name[:16] + "…") if len(name) > 16 else name
             button = tk.Button(self.chat_list_content, text=f"  {label}", anchor="w", relief="flat", bg="#202c33" if chat_id == self.current_chat else "#111b21", fg="#e9edef", activebackground="#2a3942", activeforeground="white", disabledforeground="#667781", state="disabled" if self.follow_chat.get() else "normal", command=lambda cid=chat_id, n=name: self.select_chat(cid, n, manual=True))
             button.pack(fill="x", pady=1, ipady=8)
+
+    def change_translation_provider(self, _event=None) -> None:
+        # A new service requires a fresh explicit opt-in.
+        self.online_enabled.set(False)
+        self.translation_client.configure(self.translation_provider.get(), False)
+        self.translation_tasks.cancel_pending()
+        self.status.set('服务已切换；请重新勾选启用在线翻译')
+
+    def toggle_online_translation(self) -> None:
+        enabled = self.online_enabled.get()
+        provider = self.translation_provider.get()
+        if enabled:
+            enabled = messagebox.askyesno(APP_NAME, f'启用后，后续识别到的消息和手动输入原文会发送给 {provider} 在线翻译。不会自动切换其他服务。\n\n关闭后不再启动新请求；已发出的请求无法撤回。是否启用？', parent=self.root)
+        self.online_enabled.set(enabled)
+        self.translation_client.configure(provider, enabled)
+        self.translation_tasks.cancel_pending()
+        self.status.set('在线翻译已启用' if enabled else '在线翻译已关闭；仅本地 OCR 和缓存')
 
     def select_chat(self, chat_id: str, name: str, manual: bool = False) -> None:
         if manual and self.follow_chat.get():
@@ -458,6 +461,8 @@ class WhatsAppSidecar:
         self.status.set("译文已复制，可粘贴到 WhatsApp")
 
     def follow_window(self) -> None:
+        if self.closing:
+            return
         hwnd = find_whatsapp_window()
         if hwnd:
             self.whatsapp_hwnd = hwnd
@@ -478,6 +483,8 @@ class WhatsAppSidecar:
         self.root.after(500, self.follow_window)
 
     def monitor_tick(self) -> None:
+        if self.closing:
+            return
         if self.monitoring.get() and self.whatsapp_hwnd and foreground_belongs_to(self.whatsapp_hwnd) and not self.ocr_busy:
             rect = get_rect(self.whatsapp_hwnd)
             if rect:
@@ -584,15 +591,31 @@ class WhatsAppSidecar:
             previous_y[side] = stamp["y"]
         return messages
 
-    def translate_message(self, mid: int, chat_id: str, text: str, target: str) -> None:
+    def schedule_translation(self, mid: int, chat_id: str, text: str, target: str) -> None:
+        if self.closing or not self.translation_client.enabled:
+            return
+        session = self.translation_client.session
+        if not self.translation_tasks.submit(self.translate_message, mid, chat_id, text, target, session):
+            self.status.set('翻译队列已满，此条保留原文；请稍后手动翻译')
+
+    def translate_message(self, mid: int, chat_id: str, text: str, target: str, session: int) -> None:
         try:
-            translated = online_translate(text, target)
+            if not self.translation_client.enabled:
+                return
+            translated = self.translation_client.translate(text, target, guess_source(text), session=session)
+            if session != self.translation_client.session:
+                return
             self.store.set_translation(mid, translated)
             self.events.put(("translated", chat_id))
         except Exception as exc:
             self.events.put(("translation_error", str(exc)))
 
     def translate_and_add(self) -> None:
+        if self.closing:
+            return
+        if not self.translation_client.enabled:
+            self.status.set('请先选择服务并明确启用在线翻译，输入内容已保留')
+            return
         text = self.input.get("1.0", "end").strip()
         if not text or not self.current_chat:
             self.status.set("请先选择会话并输入文字"); return
@@ -605,9 +628,11 @@ class WhatsAppSidecar:
             peer_lang, my_lang = self.store.languages(self.current_chat)
             if peer_lang == "auto":
                 peer_lang = "en" if my_lang.startswith("zh") else "zh-CN"
-            threading.Thread(target=self.translate_message, args=(mid, self.current_chat, text, peer_lang), daemon=True).start()
+            self.schedule_translation(mid, self.current_chat, text, peer_lang)
 
     def poll_events(self) -> None:
+        if self.closing:
+            return
         try:
             while True:
                 event = self.events.get_nowait(); kind = event[0]
@@ -631,8 +656,8 @@ class WhatsAppSidecar:
                             if text != MEDIA_PLACEHOLDER and direction == "in" and peer_lang == "auto":
                                 detected_peer = guess_source(text)
                                 self.store.set_detected_peer_language(chat_id, detected_peer)
-                            if text != MEDIA_PLACEHOLDER:
-                                threading.Thread(target=self.translate_message, args=(mid, chat_id, text, my_lang), daemon=True).start()
+                            if text != MEDIA_PLACEHOLDER and self.translation_client.enabled:
+                                self.schedule_translation(mid, chat_id, text, my_lang)
                     if added and chat_id == self.current_chat: self.render_messages()
                     if detected_peer and chat_id == self.current_chat:
                         self.peer_language_name.set(next((n for n, code in LANGUAGES.items() if code == detected_peer), "自动识别"))
@@ -648,9 +673,22 @@ class WhatsAppSidecar:
         self.root.after(100, self.poll_events)
 
     def exit_app(self) -> None:
+        if self.closing:
+            return
         if messagebox.askyesno(APP_NAME, "退出翻译侧栏？本次消息记录会立即清空，联系人和语言设置会保留。", parent=self.root):
+            self.closing = True
+            self.monitoring.set(False)
+            self.translation_client.configure(self.translation_provider.get(), False)
+            self.translation_tasks.close()
             self.store.clear_messages()
+            self.status.set('正在等待已发出的翻译请求结束…')
+            self.finish_exit()
+
+    def finish_exit(self) -> None:
+        if self.translation_tasks.idle:
             self.root.destroy()
+        else:
+            self.root.after(100, self.finish_exit)
 
     def run(self) -> None:
         self.root.mainloop()

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "来源笔记：导出 Markdown 草稿",
+  "version": "1.0.0",
+  "description": "点击后读取当前页标题和地址，手动补充来源信息并本地导出 Markdown。",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_title": "记录来源笔记",
+    "default_popup": "popup.html"
+  }
+}

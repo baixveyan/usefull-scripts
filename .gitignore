@@ -1,0 +1,26 @@
+# Runtime data and build products; retain sources and documentation.
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+test-tmp-*/
+/maintenance/download-check-*/
+/maintenance/candidates/*.json
+.env
+/.private-mail-watch/
+.env.*
+!.env.example
+/whatsapp_live_translator/data/
+/whatsapp_live_translator/dist/
+/whatsapp_live_translator/build/
+/wows_assistant_next/outputs/
+/wows_assistant_next/datasets/samples/
+/wows_assistant_next/assets/models/
+
+# Local paper reading cache; do not redistribute original papers
+maintenance/paper-sources/
+
+# Paper site build and local publishing state
+/site/dist/
+/maintenance/site-deps/
+/maintenance/publish-checkout/

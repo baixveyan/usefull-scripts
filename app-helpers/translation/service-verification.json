@@ -1,0 +1,16 @@
+{
+  "checked_on": "2026-10-19",
+  "scope": "synthetic Hello world. only; no chat data; direct HTTPS for this process",
+  "results": [
+    {
+      "provider": "Google",
+      "success": false,
+      "error_type": "RuntimeError"
+    },
+    {
+      "provider": "MyMemory",
+      "success": true,
+      "output_characters": 4
+    }
+  ]
+}

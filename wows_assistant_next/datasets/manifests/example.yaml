@@ -1,0 +1,5 @@
+schema_version: 1
+name: example-offline-dataset
+root: ../samples
+samples: []
+
